@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "9bc24c835eb2ca7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb363e64140a4a5f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01_Experience/Product_strategy/IoT_platform/draft.md",
+            "mode": "source"
+          }
+        },
+        "group": "c8bdcf4643bd02f4"
+      },
+      {
+        "id": "5b250bb1af6fe8e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01_Experience/Product_strategy/IoT_platform/draft.md",
+            "mode": "preview"
+          }
+        },
+        "group": "c8bdcf4643bd02f4"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b098c2cba7ea11d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9ca9bbfc600d3ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b94a1955f054606b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a61a37d264db821",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#mlops",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb7f14ae9ddec4fa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e736dfd05cd9185",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b325aad08180d85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ed78a85f2368194",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Experience/Product_strategy/IoT_platform/draft.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fb03d7cd29d5b95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81c5ad1b29915a5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Experience/Product_strategy/IoT_platform/draft.md"
+              }
+            }
+          },
+          {
+            "id": "71f9dd5a28210066",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d4690bc696279fe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f131948cbbee2f37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Experience/Product_strategy/IoT_platform/Gartner Industrial IoT Platform.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "eb363e64140a4a5f",
+  "lastOpenFiles": [
+    "01_Experience/Product_strategy/IoT_platform/draft.md",
+    "01_Experience/Product_strategy/IoT_platform/Gartner Industrial IoT Platform.md",
+    "01_Experience/Product_strategy/IoT_platform/Intel's IoT Reference architecture.md",
+    "01_Experience/Product_strategy/IoT_platform/Outline.md",
+    "Setup/templates/base_template.md",
+    "01_Experience/Product_strategy/IoT_platform/Report a Cong.md",
+    "01_Experience/Product_strategy/Meeting/Meeting 01_09_2021 product strategy.md",
+    "01_Experience/Product_strategy/Meeting/Meeting 01_09_2021.md",
+    "02_Raw/AI_notes/Need to read.md",
+    "Images/IoT_platform/IoT_platform_Intel_layers.png"
+  ]
+}

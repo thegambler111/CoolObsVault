@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Moonlight",
+  "theme": "obsidian",
+  "baseFontSize": 17,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
+}

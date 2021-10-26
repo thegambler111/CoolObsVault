@@ -1,0 +1,21 @@
+{
+  "outputFileName": "Setup/unlinked_files",
+  "disableWorkingLinks": false,
+  "directoriesToIgnore": [
+    "Setup/",
+    "Quotes/"
+  ],
+  "filesToIgnore": [],
+  "fileTypesToIgnore": [],
+  "linksToIgnore": [],
+  "tagsToIgnore": [],
+  "fileTypesToDelete": [],
+  "ignoreFileTypes": true,
+  "ignoreDirectories": true,
+  "unresolvedLinksOutputFileName": "unresolved links output",
+  "unresolvedLinksDirectoriesToIgnore": [],
+  "unresolvedLinksFilesToIgnore": [],
+  "unresolvedLinksFileTypesToIgnore": [],
+  "unresolvedLinksLinksToIgnore": [],
+  "unresolvedLinksTagsToIgnore": []
+}

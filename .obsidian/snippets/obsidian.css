@@ -1,0 +1,102 @@
+/* Header title */
+span.cm-header {
+    color: #A3FF42;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #A3FF42;
+}
+
+/* "#" at Headers */
+span.cm-formatting.cm-formatting-header.cm-formatting-header-1.cm-header.cm-header-1 {
+    color: #FF2673;;
+}
+
+span.cm-formatting.cm-formatting-header.cm-formatting-header-2.cm-header.cm-header-2 {
+    color: #FF2673;
+}
+
+span.cm-formatting.cm-formatting-header.cm-formatting-header-3.cm-header.cm-header-3 {
+    color: #FF2673;
+}
+
+span.cm-formatting.cm-formatting-header.cm-formatting-header-4.cm-header.cm-header-4 {
+    color: #FF2673;
+}
+
+span.cm-formatting.cm-formatting-header.cm-formatting-header-5.cm-header.cm-header-5 {
+    color: #FF2673;
+}
+
+span.cm-formatting.cm-formatting-header.cm-formatting-header-6.cm-header.cm-header-6 {
+    color: #FF2673;
+}
+
+/* Latex math */
+mjx-math.MJX-TEX {
+    font-size: 120%;
+    font-weight: bold;
+    color: #F5762A;
+}
+
+span.cm-math.cm-keyword.cm-formatting.cm-formatting-math {
+    font-size: 120%;
+    font-weight: bold;
+    color: #F5762A;
+}
+
+span.cm-math {
+    /*font-size: 120%;*/
+    font-weight: bold;
+}
+
+span.cm-math.cm-bracket {
+    color: #00A7AA;
+}
+
+span.cm-math.cm-error {
+    color: #ff3030;
+}
+
+/* List Triangle to collapse */
+div.list-collapse-indicator.collapse-indicator.collapse-icon {
+    padding-left: 0;
+}
+
+svg.right-triangle {
+    color: #5c73f2;
+    width: 12px;
+    height: 12px;
+}
+
+
+/* List marker */
+li::marker {
+    color: #fff600;
+    font-size: 25px;
+}
+
+span.cm-formatting.cm-formatting-list.cm-formatting-list-ul {
+    color: #fff600;
+    font-weight: bold;
+}
+
+span.cm-formatting.cm-formatting-quote {
+    color: #fff600;
+    font-weight: bold;
+}
+
+/* Comment */
+.cm-s-obsidian span.cm-comment {
+    color: #727072;
+}
+
+
+/*.cm-s-obsidian span.cm-hmd-internal-link {*/
+/*    color: cyan;*/
+/*}*/
+
+/* bold text color */
+strong {
+    color: orangered;
+}
