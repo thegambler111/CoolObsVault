@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eb363e64140a4a5f",
+        "id": "7449a1309d438e1b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Experience/Product_strategy/IoT_platform/draft.md",
+            "file": "01_Experience/Tmforum/DTW2021/665_Converting telcos into data driven organizations/665_Converting telcos into data driven organizations.md",
             "mode": "source"
           }
-        },
-        "group": "c8bdcf4643bd02f4"
-      },
-      {
-        "id": "5b250bb1af6fe8e3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "01_Experience/Product_strategy/IoT_platform/draft.md",
-            "mode": "preview"
-          }
-        },
-        "group": "c8bdcf4643bd02f4"
+        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8e736dfd05cd9185",
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Experience/Product_strategy/IoT_platform/draft.md",
+                "file": "01_Experience/Tmforum/DTW2021/665_Converting telcos into data driven organizations/665_Converting telcos into data driven organizations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Experience/Product_strategy/IoT_platform/draft.md"
+                "file": "01_Experience/Tmforum/DTW2021/665_Converting telcos into data driven organizations/665_Converting telcos into data driven organizations.md"
               }
             }
           },
@@ -153,17 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb363e64140a4a5f",
+  "active": "7449a1309d438e1b",
   "lastOpenFiles": [
+    "01_Experience/Tmforum/DTW2021/665_Converting telcos into data driven organizations/665_Converting telcos into data driven organizations.md",
+    "01_Experience/Tmforum/DTW2021/633_How do we deliver zero-touch automation/633_How do we deliver zero-touch automation.md",
+    "01_Experience/Tmforum/DTW2021/645_Member Project 101_Connectivity and beyond/645_Member Project 101_Connectivity and beyond.md",
+    "01_Experience/Tmforum/DTW2021/646_Member project 101_Autonomous operations, AI & data governance 20211004/646_Member project 101_Autonomous operations, AI & data governance 20211004.md",
+    "01_Experience/Tmforum/DTW2021/617_The search for growth_Can telecoms deliver/617_The search for growth_Can telecoms deliver.md",
+    "01_Experience/Tmforum/DTW2021/646_Member project 101_Autonomous operations, AI & data governance 20211004/Member project 101 Autonomous operations, AI & data governance 20211004.pdf",
+    "99_Others/Setup/templates/base_template.md",
     "01_Experience/Product_strategy/IoT_platform/draft.md",
     "01_Experience/Product_strategy/IoT_platform/Gartner Industrial IoT Platform.md",
-    "01_Experience/Product_strategy/IoT_platform/Intel's IoT Reference architecture.md",
-    "01_Experience/Product_strategy/IoT_platform/Outline.md",
-    "Setup/templates/base_template.md",
-    "01_Experience/Product_strategy/IoT_platform/Report a Cong.md",
-    "01_Experience/Product_strategy/Meeting/Meeting 01_09_2021 product strategy.md",
-    "01_Experience/Product_strategy/Meeting/Meeting 01_09_2021.md",
-    "02_Raw/AI_notes/Need to read.md",
-    "Images/IoT_platform/IoT_platform_Intel_layers.png"
+    "01_Experience/Product_strategy/IoT_platform/Intel's IoT Reference architecture.md"
   ]
 }

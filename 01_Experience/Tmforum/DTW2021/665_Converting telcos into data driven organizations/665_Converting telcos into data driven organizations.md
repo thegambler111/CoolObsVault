@@ -22,11 +22,11 @@
 - Stimulation: Model internal state of other systems, a good stimulation will emulate the target.
 	- Goal: model the other system
 
-# Axiata, 
+# Axiata, Telefonica, Telstra
 - 3 Questions
 	- The biggest recent government challenge and how did you tackle it?
 	- 1 piece of best practice regard the previous problem
-	- Data government challenges when combine AI, IoT and cloud.
+	- Data governance challenges when combine AI, IoT and cloud.
 
 ## Axiata
 
@@ -48,14 +48,56 @@
 	- Define information ownership model to maintain data quality, integrity and accuracy and how to scale it
 	- Data security and privacy
 	- Responsibilities of each partner
-	- => Use the success of data government on risk mitigation, efficiency improvement, value creation to drive the adoption of AI, IoT and cloud.
+	- => Use the success of data governance on risk mitigation, efficiency improvement, value creation to drive the adoption of AI, IoT and cloud.
 
-## Telefoneca
+## Telefonica
 54:00
 
+- 1:
+	- Biggest challenges is control change:
+		- The old data analyzers afraid that data governance will steal their jobs
+- 2:
+	- The goal is to manage data as an organizational (affect the whole organization) asset
+	- -> Show the important of data driven and data governance to people, especially the stakeholders
+	- What is the experiences:
+		- Need executive supports
+		- Choose the data that relevant to people, to user
+		- Governance strategy is aligned with business strategy
+		- Keep data governance relevant with business
+		- Organizational changes is important
+		- In data management, find the balance between urgent and important
+- 3:
+	- Data quality is the basic that should be taken care of first
+	- Data privacy
+	- Cloud: pay attention to information volume, computer power, latency and cost
+	- Unorganized data may cause cloud migration slow and expensive
 
+# Telstra
 
+- 1:
+	- Demonstrate the value of data governance:
+		- Find key values: ![[01_Experience/Tmforum/DTW2021/665_Converting telcos into data driven organizations/6 key results of data governance.png]]
+	- Get senior leadership involvement: target executive data owners of each business function
+		- Educate and align
+		- Monthly meeting to share problems and solutions
+	- Get people to do new data job day to day
+- 2:
+	- Reinforce the important of data governance
+	- Using real example of what data governance can do to solve existing problems is effective to convince senior leaders
+- 3:
+	- Don't get distracted by technology, think fundamentally
+	- -> Focus on data not the systems or technologies
+	- Getting good result from AI, IoT, cloud needs good data governance
 
+# Charlotte Patrick consult
+
+- Most common problem about data is how to use data in data silos then culture issues
+- Lack of skills and experts is the second biggest issues after data
+- Much value of data comes from how to make the network better
+- Data governance still faces a lot of problems and will stay high priority in 5-10 years
+- A lot of telcos hesitate to join data ecosystem (sharing data with others)
+
+1:38
 
 
 # 

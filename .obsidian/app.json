@@ -8,7 +8,7 @@
   "tabSize": 4,
   "trashOption": "local",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "Images",
+  "attachmentFolderPath": "./",
   "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
   "promptDelete": false,

@@ -11,10 +11,11 @@
   "smart-random-note",
   "obsidian-emoji-toolbar",
   "find-unlinked-files",
-  "obsidian-git",
   "obsidian-outliner",
   "tag-wrangler",
   "table-editor-obsidian",
   "markdown-prettifier",
-  "obsidian-text-format"
+  "obsidian-text-format",
+  "obsidian-git",
+  "folder-note-plugin"
 ]
