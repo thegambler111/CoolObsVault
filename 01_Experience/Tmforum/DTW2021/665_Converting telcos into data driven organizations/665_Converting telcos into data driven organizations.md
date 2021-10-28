@@ -97,7 +97,28 @@
 - Data governance still faces a lot of problems and will stay high priority in 5-10 years
 - A lot of telcos hesitate to join data ecosystem (sharing data with others)
 
-1:38
+# AWS
+- Telco journey to data centricity
+	1. Modernize data infrastructure: use purposeful databases and serve data services
+		- ![[01_Experience/Tmforum/DTW2021/665_Converting telcos into data driven organizations/AWS data architecture in cloud.png]]
+	2. Liberate data: so everybody can use the data
+	3. Innovate with AI: Drive insights and values
+		- ![[01_Experience/Tmforum/DTW2021/665_Converting telcos into data driven organizations/AWS AI stack for telco.png]]
+- Changes 5G brings
+	- Open new ways to use data for developing new services
+	- Make implementing modern data architecture and AI/ML techniques easy and efficient
+	- Changes
+		- Data explosion
+			- More data for monetization
+		- Dynamic network -> Hard to manage
+		- Mobile edge computing
+		- Newer consumption models -> more business
+		- New standards support
+		- Security threats
+
+
+
+
 
 
 # 
@@ -105,7 +126,7 @@
 ---
 Status: #writing
 
-Tags: #tmforum #data
+Tags: #tmforum #data_governance
 
 References:
 -  
