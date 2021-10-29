@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Experience/AI_notes/Notes_for_reports/State of AI 2021/State of AI 2021.md",
+            "file": "01_Experience/Tmforum/DTW2021/666_AI at scale_How to embed AI throughout people, platforms, partners and processes/666_AI at scale_How to embed AI throughout people, platforms, partners and processes.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229
+    "width": 220
   },
   "right": {
     "id": "8e736dfd05cd9185",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Experience/AI_notes/Notes_for_reports/State of AI 2021/State of AI 2021.md",
+                "file": "01_Experience/Tmforum/DTW2021/666_AI at scale_How to embed AI throughout people, platforms, partners and processes/666_AI at scale_How to embed AI throughout people, platforms, partners and processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Experience/AI_notes/Notes_for_reports/State of AI 2021/State of AI 2021.md"
+                "file": "01_Experience/Tmforum/DTW2021/666_AI at scale_How to embed AI throughout people, platforms, partners and processes/666_AI at scale_How to embed AI throughout people, platforms, partners and processes.md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "7449a1309d438e1b",
   "lastOpenFiles": [
-    "01_Experience/AI_notes/Notes_for_reports/State of AI 2021/State of AI 2021.md",
-    "02_Raw/AI_notes/Fastai/Fastai good resource.md",
-    "01_Experience/Tmforum/DTW2021/665_Converting telcos into data driven organizations/665_Converting telcos into data driven organizations.md",
-    "01_Experience/Tmforum/DTW2021/633_How do we deliver zero-touch automation/633_How do we deliver zero-touch automation.md",
-    "01_Experience/Tmforum/DTW2021/645_Member Project 101_Connectivity and beyond/645_Member Project 101_Connectivity and beyond.md",
-    "01_Experience/Tmforum/DTW2021/646_Member project 101_Autonomous operations, AI & data governance 20211004/646_Member project 101_Autonomous operations, AI & data governance 20211004.md",
-    "01_Experience/Tmforum/DTW2021/617_The search for growth_Can telecoms deliver/617_The search for growth_Can telecoms deliver.md",
-    "01_Experience/Tmforum/DTW2021/646_Member project 101_Autonomous operations, AI & data governance 20211004/Member project 101 Autonomous operations, AI & data governance 20211004.pdf",
-    "99_Others/Setup/templates/base_template.md",
-    "01_Experience/Product_strategy/IoT_platform/draft.md"
+    "01_Experience/Tmforum/DTW2021/666_AI at scale_How to embed AI throughout people, platforms, partners and processes/666_AI at scale_How to embed AI throughout people, platforms, partners and processes.md",
+    "01_Experience/Tmforum/DTW2021/666_AI at scale_How to embed AI throughout people, platforms, partners and processes/Microsoft 5G vision.png",
+    "02_Raw/AI_notes/How to find paper to read.md",
+    "01_Experience/IoT/IoT_platform/IoT_platform_md/Report a Cong.md",
+    "01_Experience/IoT/IoT_platform/IoT_platform_md/Gartner Industrial IoT Platform.md",
+    "01_Experience/IoT/IoT_platform/IoT_platform_md/draft.md",
+    "01_Experience/IoT/IoT_platform/IoT_platform_md/Intel's IoT Reference architecture.md",
+    "01_Experience/IoT/IoT_platform/IoT_platform_md/Outline.md",
+    "01_Experience/IoT/IoT_platform/IoT_platform_md/Smartfactoryvn draft.md",
+    "01_Experience/IoT/Developed IoT models.md"
   ]
 }
