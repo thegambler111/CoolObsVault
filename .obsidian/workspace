@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7449a1309d438e1b",
+        "id": "ea5ef068d0ed02ae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Experience/Tmforum/DTW2021/666_AI at scale_How to embed AI throughout people, platforms, partners and processes/666_AI at scale_How to embed AI throughout people, platforms, partners and processes.md",
+            "file": "01_Experience/Tmforum/DTW2021/667_Masterclass_Reducing risk and governing AI at scale/667_Masterclass_Reducing risk and governing AI at scale.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220
+    "width": 220,
+    "collapsed": true
   },
   "right": {
     "id": "8e736dfd05cd9185",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Experience/Tmforum/DTW2021/666_AI at scale_How to embed AI throughout people, platforms, partners and processes/666_AI at scale_How to embed AI throughout people, platforms, partners and processes.md",
+                "file": "01_Experience/Tmforum/DTW2021/667_Masterclass_Reducing risk and governing AI at scale/667_Masterclass_Reducing risk and governing AI at scale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Experience/Tmforum/DTW2021/666_AI at scale_How to embed AI throughout people, platforms, partners and processes/666_AI at scale_How to embed AI throughout people, platforms, partners and processes.md"
+                "file": "01_Experience/Tmforum/DTW2021/667_Masterclass_Reducing risk and governing AI at scale/667_Masterclass_Reducing risk and governing AI at scale.md"
               }
             }
           },
@@ -124,8 +125,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7449a1309d438e1b",
+  "active": "ea5ef068d0ed02ae",
   "lastOpenFiles": [
+    "01_Experience/Tmforum/DTW2021/667_Masterclass_Reducing risk and governing AI at scale/667_Masterclass_Reducing risk and governing AI at scale.md",
+    "01_Experience/Tmforum/DTW2021/667_Masterclass_Reducing risk and governing AI at scale/Pasted image 20211029221041.png",
     "01_Experience/Tmforum/DTW2021/666_AI at scale_How to embed AI throughout people, platforms, partners and processes/666_AI at scale_How to embed AI throughout people, platforms, partners and processes.md",
     "01_Experience/Tmforum/DTW2021/666_AI at scale_How to embed AI throughout people, platforms, partners and processes/Microsoft 5G vision.png",
     "02_Raw/AI_notes/How to find paper to read.md",
@@ -133,8 +136,6 @@
     "01_Experience/IoT/IoT_platform/IoT_platform_md/Gartner Industrial IoT Platform.md",
     "01_Experience/IoT/IoT_platform/IoT_platform_md/draft.md",
     "01_Experience/IoT/IoT_platform/IoT_platform_md/Intel's IoT Reference architecture.md",
-    "01_Experience/IoT/IoT_platform/IoT_platform_md/Outline.md",
-    "01_Experience/IoT/IoT_platform/IoT_platform_md/Smartfactoryvn draft.md",
-    "01_Experience/IoT/Developed IoT models.md"
+    "01_Experience/IoT/IoT_platform/IoT_platform_md/Outline.md"
   ]
 }
