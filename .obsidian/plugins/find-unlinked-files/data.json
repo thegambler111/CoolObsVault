@@ -1,9 +1,9 @@
 {
-  "outputFileName": "Setup/unlinked_files",
+  "outputFileName": "99_Others/Setup/unlinked_files",
   "disableWorkingLinks": false,
   "directoriesToIgnore": [
-    "Setup/",
-    "Quotes/"
+    "99_Others/Setup/",
+    "Daily_notes/"
   ],
   "filesToIgnore": [],
   "fileTypesToIgnore": [],
@@ -17,5 +17,8 @@
   "unresolvedLinksFilesToIgnore": [],
   "unresolvedLinksFileTypesToIgnore": [],
   "unresolvedLinksLinksToIgnore": [],
-  "unresolvedLinksTagsToIgnore": []
+  "unresolvedLinksTagsToIgnore": [],
+  "withoutTagsDirectoriesToIgnore": [],
+  "withoutTagsFilesToIgnore": [],
+  "withoutTagsOutputFileName": "files without tags"
 }

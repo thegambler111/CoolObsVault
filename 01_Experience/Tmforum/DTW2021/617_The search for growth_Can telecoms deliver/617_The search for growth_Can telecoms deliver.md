@@ -22,7 +22,7 @@
 
 # China mobile
 - 3 way to balance short term benefit and long term development
-	- Choose the right direction, focus in 5G-AICDE
+	- Choose the right direction, focus in 5G+AICDE(AI, IoT, Cloud Computing, Big Data, Edge Computing)
 	- Make targeted investment
 	- Assure investment return
 

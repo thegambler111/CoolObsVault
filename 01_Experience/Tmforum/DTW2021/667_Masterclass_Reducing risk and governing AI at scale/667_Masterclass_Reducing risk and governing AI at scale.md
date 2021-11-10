@@ -35,7 +35,7 @@
 # 
 
 ---
-Status: #writing
+Status: #done
 
 Tags: #tmforum #ai_governance
 

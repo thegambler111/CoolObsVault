@@ -24,7 +24,7 @@
 
 # Axiata, Telefonica, Telstra
 - 3 Questions
-	- The biggest recent government challenge and how did you tackle it?
+	- The biggest recent governance challenge and how did you tackle it?
 	- 1 piece of best practice regard the previous problem
 	- Data governance challenges when combine AI, IoT and cloud.
 
@@ -37,7 +37,7 @@
 		- Develop appropriate data model underpin by AI and ML while changing culture and building team
 		- Data ethics how to ethically process the data and implement technology
 	- 3 approaches for solutions:
-		- Harmonize policies and frameworks standards and government instruments -> Consistency, speed of execution, leveraging economy
+		- Harmonize policies and frameworks standards and governance instruments -> Consistency, speed of execution, leveraging economy
 		- Perform independent assessment against the standard framework to understand current strength, maturity and capability for doing future aspirations
 		- Adopt common a common architecture on a technology landscape
 - 2:
@@ -51,7 +51,6 @@
 	- => Use the success of data governance on risk mitigation, efficiency improvement, value creation to drive the adoption of AI, IoT and cloud.
 
 ## Telefonica
-54:00
 
 - 1:
 	- Biggest challenges is control change:

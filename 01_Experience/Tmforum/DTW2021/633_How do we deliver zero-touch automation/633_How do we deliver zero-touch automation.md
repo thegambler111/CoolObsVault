@@ -3,7 +3,6 @@
 # Airtel:
 
 - 2nd largest number of end users (behind China Mobile)
-	- 
 - 3 things that they are aiming for
 	-  Everything is automated
 		- With their large number of platforms, customers, they aim to have every single thing automated
@@ -18,7 +17,7 @@
 			-  Operators tend to fix the problem temporarily and move on
 		-  They try both fixes with every issues
 
-	- ?
+	- Open platform:
 		- The platform is heterogeneous, hybrid, complex landscape
 		- The platform must be open, anyone can operate and use it
 
@@ -27,8 +26,8 @@
 
 - Results
 	- With the new approach, they reduce the amount of outages by more than 90%.
-	- Order fallout reduce by 99%, 90% solved by human, 9% solved by Bot
-	- Overall 85% reduction: 50% IT tickets reduced, 35% handled byh Bot
+	- Order fallout handle by human overall reduce by 99%, 90% reduction, 9% solved by Bot
+	- Overall 85% reduction: 50% IT tickets reduced, 35% handled by Bot
 	- 80% reduction of bill appending, 0 bill got stuck longer than 7 days
 	- 60% reduction in customer calls
 
@@ -72,7 +71,6 @@
 
 - Effect:
 	-  Greatly reduce serving time (from register to actually get it)
-
 	-  Network orchestration (on net)
 		-  receive orders from OSS and BSS layers
 		-  provision service quality
