@@ -27,7 +27,12 @@
     "kilometers",
     "analytics",
     "ZigBee",
-    "SigFox"
+    "SigFox",
+    "deliverables",
+    "empathic",
+    "csv",
+    "Github",
+    "Youtube"
   ],
   "readableLineLength": true,
   "pdfExportSettings": {

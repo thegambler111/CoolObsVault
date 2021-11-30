@@ -3,6 +3,7 @@
 - Advanced tables
 - Better word count
 - Calendar
+- Day planner
 - Editor syntax highlight
 - Extract highlight
 - Find unlinked files

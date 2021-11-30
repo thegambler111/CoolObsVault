@@ -5,12 +5,12 @@
 # 
 
 ---
-Status: #writing
+- Status: #writing
 
-Tags: 
+- Tags: 
 
-References:
-- 
+- References:
+	- 
 
-Related:
-- 
+- Related:
+	- 

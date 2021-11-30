@@ -5,14 +5,14 @@
 # 
 
 ---
-Author:
+- Author:
 
-Version:
+- Version:
 
-Status: #writing
+- Status: #writing
 
-Tags: 
+- Tags: 
 
-References:
+- References:
 
-Related:
+- Related:

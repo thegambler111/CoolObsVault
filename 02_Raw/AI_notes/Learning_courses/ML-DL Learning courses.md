@@ -18,6 +18,7 @@
 - [ Deep Learning Book by Ian Goodfellow](https://www.deeplearningbook.org/)
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
+- [# CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/); [CS231n lecture on backprop](https://www.youtube.com/watch?v=i94OvYb6noo)
 
 
 # Probabilistic machine learning

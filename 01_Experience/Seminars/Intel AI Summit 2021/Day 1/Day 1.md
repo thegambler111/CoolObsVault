@@ -66,37 +66,22 @@ meldCX
 	- Non facial behavior
 - Use physical characteristics like apparel and accessories to track people between cameras
 
+# AI for Healthcare: practical considerations and challenges
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Lesson learned:
+	- Need **experts** in the problems
+	- Pay attention to **groups** of data
+	- Focus more on **business flow**
+	- Infrastructure in production may be very different from development environment
+	- User may not be familiar with the technology
 
 
 # 
 
 ---
-Status: #writing
+Status: #done
 
-Tags: 
+Tags: #seminar
 
 References:
 - 

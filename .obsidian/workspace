@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "adee7f64d8806395",
+        "id": "4cdc864455000454",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Experience/AI_notes/Intel AI Summit 2021/Day 1/Day 1.md",
+            "file": "02_Raw/Need to read/Need to read.md",
             "mode": "source"
           }
         },
-        "group": "5e9bdce3be00fe88"
+        "group": "66faf34738561304"
       },
       {
-        "id": "e9e71915712c2532",
+        "id": "fc636ce01c75b3e6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Experience/AI_notes/Intel AI Summit 2021/Day 1/Day 1.md",
+            "file": "02_Raw/Need to read/Need to read.md",
             "mode": "preview"
           }
         },
-        "group": "5e9bdce3be00fe88"
+        "group": "66faf34738561304"
       }
     ],
     "direction": "vertical"
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ai_resource",
+                "query": "tag:#ai_platform_v2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228,
-    "collapsed": true
+    "width": 360
   },
   "right": {
     "id": "8e736dfd05cd9185",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Experience/AI_notes/Intel AI Summit 2021/Day 1/Day 1.md",
+                "file": "02_Raw/Need to read/Need to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,12 +117,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Experience/AI_notes/Intel AI Summit 2021/Day 1/Day 1.md"
+                "file": "02_Raw/Need to read/Need to read.md"
               }
             }
           },
           {
-            "id": "71f9dd5a28210066",
+            "id": "5b0d728e8b23ff77",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -131,7 +130,7 @@
             }
           },
           {
-            "id": "2830a7d75960fae4",
+            "id": "a5440af9ba1e1c04",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -139,24 +138,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "adee7f64d8806395",
+  "active": "4cdc864455000454",
   "lastOpenFiles": [
-    "01_Experience/AI_notes/Intel AI Summit 2021/Day 1/Day 1.md",
-    "01_Experience/IoT/Huawei_IoT_solution_training/002 Common IoT Communications Technologies/002 Common IoT Communications Technologies.md",
-    "01_Experience/Tmforum/DTW2021/Summary/Summary.md",
-    "01_Experience/Tmforum/DTW2021/617_The search for growth_Can telecoms deliver/617_The search for growth_Can telecoms deliver.md",
-    "01_Experience/Tmforum/DTW2021/665_Converting telcos into data driven organizations/665_Converting telcos into data driven organizations.md",
-    "01_Experience/Tmforum/DTW2021/666_AI at scale_How to embed AI throughout people, platforms, partners and processes/666_AI at scale_How to embed AI throughout people, platforms, partners and processes.md",
-    "01_Experience/Tmforum/DTW2021/667_Masterclass_Reducing risk and governing AI at scale/667_Masterclass_Reducing risk and governing AI at scale.md",
-    "01_Experience/Tmforum/DTW2021/685_Digital Leadership Summit_Autonomous Networks Accelerate Digital Transformation/AutonomousNetworks.pdf",
-    "01_Experience/Tmforum/DTW2021/647_Member project 101 - Open APIs/Member project 101 - Open APIs.pdf",
-    "01_Experience/Tmforum/DTW2021/646_Member project 101_Autonomous operations, AI & data governance 20211004/Member project 101 Autonomous operations, AI & data governance 20211004.pdf"
+    "02_Raw/Need to read/Need to read.md",
+    "01_Experience/AI_notes/Notes_for_reports/State of AI 2021/State of AI 2021.md",
+    "02_Raw/Need to read/tsetset/tsetset.md",
+    "02_Raw/AI_notes/Need to read.md",
+    "01_Experience/Glossary/Six Sigma Techniques/Six Sigma Techniques.md",
+    "01_Experience/PMP/PMI/Develop project management skills/04_Technical Skills/14_Tips for Effective Requirements Management/14_Tips for Effective Requirements Management.md",
+    "01_Experience/PMP/PMI/Develop project management skills/04_Technical Skills/14.1_Triple Constraint/14.1_Triple Constraint.md",
+    "01_Experience/PMP/PMI/Develop project management skills/01_Overview/04_The soft part is the hard part/04_The soft part is the hard part.md",
+    "01_Experience/PMP/PMI/Develop project management skills/01_Overview/02_2021 Project Management Jobs Outlook/02_2021 Project Management Jobs Outlook.md",
+    "01_Experience/PMP/PMI/Develop project management skills/01_Overview/01_What are the core competencies of a successful project manager/01_What are the core competencies of a successful project manager.md"
   ]
 }

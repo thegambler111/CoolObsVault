@@ -1,4 +1,3 @@
-
 # Quote
 
 ---
@@ -10,6 +9,6 @@ Author
 
 ---
 
-Tags: #quote
+- Tags: #quote
 
-Related:
+- Related:

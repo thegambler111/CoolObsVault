@@ -27,11 +27,11 @@
 #
 
 ---
-Status: #reading
+- Status: #reading
 
-Tags: 
+- Tags: 
 
-References:
-- [[99_Others/Quotes/quote_20190101#^different-perspectives]]
+- References:
+	- [[99_Others/Quotes/quote_20190101#^different-perspectives]]
 
-Related: 
+- Related: 
