@@ -2,6 +2,8 @@
 
 ## Book
 - [ ] [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf)
+- [ ] [Deep Learning with Python, 2nd Edition (Final Release)](https://vn1lib.org/book/17992678/2f389d)
+- [ ] [Grokking Deep Learning](https://vn1lib.org/book/3678738/462d80)
 
 
 ## Paper
@@ -10,6 +12,7 @@
 - [ ] [**ResNet strikes back: An improved training procedure in timm**](https://arxiv.org/abs/2110.00476)
 - [ ] [Understanding How Encoder-Decoder Architectures Attend](https://arxiv.org/abs/2110.15253)
 - [ ] [Attention Mechanisms in Computer Vision: A Survey](https://arxiv.org/abs/2111.07624.pdf)
+- [ ] [Improving Vision Transformer Efficiency and Accuracy by Learning to Tokenize](https://ai.googleblog.com/2021/12/improving-vision-transformer-efficiency.html)
 
 
 ## Report
@@ -34,6 +37,7 @@
 - [ ] [Books for machine learning](https://twitter.com/svpino/status/1444256285445218311?s=08)
 - [ ] [5 threads that cover basic concepts in Machine Learning](https://twitter.com/AlejandroPiad/status/1442398631047270403?s=08)
 - [ ] [How to start a deep learning project?](https://twitter.com/MattNiessner/status/1441027241870118913?s=08)
+- [ ] [**30+ AI knowledge summaries**](https://twitter.com/ai_fast_track/status/1468274232870252549)
 
 
 ## Medium
@@ -44,6 +48,8 @@
 - [ ] [Deep learning AI blog](https://www.deeplearning.ai/blog/)
 - [ ] [Highlighted papers](https://papers.labml.ai/papers/daily/)
 - [ ] [AI model benchmark](https://www.computerprogress.com/)
+- [ ] [Transformers from Scratch](https://e2eml.school/transformers.html)
+- [ ] [**ApplyingML**](https://applyingml.com/);[Github applied-ml](https://github.com/eugeneyan/applied-ml)
 
 
 ## Github
@@ -155,6 +161,8 @@
 ## Twitter
 - [ ] [Short (and incomplete) list of open source and commercial AutoML systems](https://twitter.com/AlejandroPiad/status/1450419328952815616?t=SkQysLuVfCrkiMihTXj1yQ&s=08)
 - [ ] [Facebook's Model experiments manager in parallel training](https://github.com/facebookresearch/dora)
+- [ ] [Advanced NLP 2021 course](https://twitter.com/omarsar0/status/1468917926539505665)
+- [ ] [A free Deep Learning course from Neuromatch Academy](https://twitter.com/svpino/status/1468566045392715777)
 
 
 ## Medium
@@ -179,7 +187,7 @@
 
 
 
-# AI in organization
+# AI in organization (real life)
 
 ## Book
 - [ ] [A Data-Driven Company: 21 lessons for large organizations to create value from AI](https://www.amazon.com/Data-Driven-Company-lessons-organizations-create/dp/1912555883)
@@ -197,6 +205,7 @@
 ## Twitter
 - [ ] [Cleaning datasets, going from development to production](https://twitter.com/hardmaru/status/1448853359218200576?s=20)
 - [ ] [Try solving problem without machine learning first](https://twitter.com/eugeneyan/status/1440470398152454144?s=08)
+- [x] [Questions to ask when deploying a machine learning model](https://twitter.com/svpino/status/1461666018468716549)
 
 
 ## Medium
@@ -222,6 +231,7 @@
 
 # PMP
 
+
 ## Book
 - [ ] [Practice Standard for Scheduling - Third Edition](https://www.amazon.com/Practice-Standard-Scheduling-Management-Institute/dp/1628255617)
 - [ ] [Culture Works: How to Create Happiness in the Workplace](https://www.amazon.com/Culture-Works-Create-Happiness-Workplace/dp/0998671126)
@@ -233,13 +243,33 @@
 - [ ] 
 
 
+## Report
+- [ ] 
+
+
 ## Twitter
 - [ ] [What makes a good project leader? Somme thoughts](https://twitter.com/fchollet/status/1451666687061676037?s=20)
 - [ ] [Warning to startup CEOs about the danger of taking hype too far (a meeting with Steve Jobs)](https://twitter.com/apartovi/status/1447251334814523392?t=BV1Cp8A67vfftCDVKtwViA&s=08)
 - [ ] 
 
 
+## Medium
+- [ ] 
+
+
 ## Website
+- [ ] 
+
+
+## Github
+- [ ] 
+
+
+## Youtube
+- [ ] 
+
+
+## Others
 - [ ] 
 
 
@@ -254,12 +284,33 @@
 - [ ] 
 
 
+## Report
+- [ ] 
+
+
 ## Twitter
 - [ ] [5 tips to make money out of your Technical Blog.](https://twitter.com/VittoStack/status/1450122405230399493?t=W80Q7-y2PFGrReWRLYbm6A&s=08)
 - [ ] [Highlight their experience in an effective way](https://twitter.com/svpino/status/1440270119247048711?s=08)
+- [ ] [9 ideas that I've been trying during my professional career.](https://twitter.com/svpino/status/1469290814589190146)
+
+
+## Medium
+- [ ] 
 
 
 ## Website
+- [ ] 
+
+
+## Github
+- [ ] [**The ghosts in the data**](https://veekaybee.github.io/2021/03/26/data-ghosts/)
+
+
+## Youtube
+- [ ] 
+
+
+## Others
 - [ ] 
 
 
@@ -274,12 +325,35 @@
 - [ ] 
 
 
+## Report
+- [ ] 
+
+
 ## Twitter
 - [ ] [Things learned, from one non-writer to another](https://twitter.com/eugeneyan/status/1450617258443739145)
+- [ ] 
+
+
+## Medium
+- [ ] 
 
 
 ## Website
+- [ ] [What I Learned from Writing Online](https://eugeneyan.com/writing/what-i-learned-from-writing-online/)
+- [ ] [Eugene Yan: 2021 Year in Review](https://eugeneyan.com/writing/2021-year-in-review/)
+
+
+## Github
 - [ ] 
+
+
+## Youtube
+- [ ] 
+
+
+## Others
+- [ ] 
+
 
 
 
@@ -300,6 +374,7 @@
 ## Twitter
 - [ ] [CSV 3 minute load time to 1 second](https://twitter.com/gusthema/status/1456977737348960260)
 - [ ] [Effectively load a very large csv](https://twitter.com/gusthema/status/1456607188277936132)
+- [ ] [5 Python tools that I use on every single project](https://twitter.com/svpino/status/1460216164928344067)
 
 
 ## Medium
@@ -333,36 +408,43 @@
 - [ ] 
 
 
+## Report
+- [ ] 
+
+
 ## Twitter
 - [ ] [Sharing my learnings about Software Architecture here](https://twitter.com/BelloneDavide/status/1437517622938148870)
 - [ ] [Senior Software Engineer threads](https://twitter.com/_rodrigomd/status/1443138486345736194?s=08)
 
 
+## Medium
+- [ ] 
+
+
 ## Website
 - [ ] [Refactoring: The one technique that can save your project](https://blog.rodrigomd.dev/refactoring-the-one-technique-that-can-save-your-project)
+- [ ] [UML Class Diagram](https://python.astrotech.io/design-patterns/uml/class-diagram.html)
 
 
-
-
-
-## Book
+## Github
 - [ ] 
 
 
-## Paper
+## Youtube
 - [ ] 
 
 
-## Twitter
-- [ ] 
-
-
-## Website
+## Others
 - [ ] 
 
 
 
-# 
+
+
+
+
+
+# Template
 
 ## Book
 - [ ] 
