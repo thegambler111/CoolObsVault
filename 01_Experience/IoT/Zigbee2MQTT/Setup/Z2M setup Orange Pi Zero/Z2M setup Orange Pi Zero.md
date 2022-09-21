@@ -506,6 +506,7 @@ external_converters:
 
 ## Error: Permission denied on USB port
 - [Check if current user has permission to connect to the adapter](https://www.zigbee2mqtt.io/guide/installation/20_zigbee2mqtt-fails-to-start.html#verify-that-the-user-you-run-zigbee2mqtt-as-has-write-access-to-the-port)
+- `test -w [PORT] && echo success || echo failure` command does not work correctly, use it with caution
 
 
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md",
+            "file": "01_Experience/IoT/Zigbee2MQTT/Others/CTKT app base/CTKT app base.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md",
+                "file": "01_Experience/IoT/Zigbee2MQTT/Others/CTKT app base/CTKT app base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md"
+                "file": "01_Experience/IoT/Zigbee2MQTT/Others/CTKT app base/CTKT app base.md"
               }
             }
           },
@@ -126,9 +126,9 @@
   },
   "active": "a8832f8d51744079",
   "lastOpenFiles": [
-    "01_Experience/IoT/Zigbee2MQTT/Others/CTKT app base/CTKT app base.md",
-    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M Error/Z2M Error.md",
     "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md",
+    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M Error/Z2M Error.md",
+    "01_Experience/IoT/Zigbee2MQTT/Others/CTKT app base/CTKT app base.md",
     "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M fix static IP for GW/Z2M fix static IP for GW.md",
     "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision draft/Z2M vision draft.md",
     "99_Others/Current_work/Unfinished work/Unfinished work.md",
