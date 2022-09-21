@@ -95,7 +95,7 @@
 	- [ ] Check pull requests -> Q4
 	- [ ] CTKT GW -> Q4
 	- [ ] Process to auto reset GW -> 21/9
-- [ ] Camera
+- [x] Camera
 	- [x] Check camera performance
 - [ ] Khung năng lực
 	- [x] E-learning -> 20/9

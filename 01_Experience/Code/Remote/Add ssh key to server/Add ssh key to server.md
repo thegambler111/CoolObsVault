@@ -2,7 +2,6 @@
 ```bash
 ssh-keygen -t rsa -b 2048
 ssh-copy-id id@server
-
 ```
 
 

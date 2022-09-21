@@ -8,6 +8,13 @@
 - Cập nhật tiến độ phát triển app ntn?
 
 
+- Mục tiêu: 
+	- Test thiết bị
+	- Demo cho người dùng
+	- ~~Cho phép chủ đầu tư phát triển thành ứng dụng riêng~~
+
+
+
 - CTKT
 - App giao tiếp trực tiếp với platform
   - Platform giao tiếp vs GW qua MQTT
