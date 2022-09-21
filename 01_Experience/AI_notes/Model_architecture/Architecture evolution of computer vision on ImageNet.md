@@ -25,7 +25,7 @@
 ---
 Status: #done 
 
-Tags: #computer_vision #basic_knowledge #attention 
+Tags: #computer_vision #basic_ai_knowledge #attention 
 
 References:
 -  [# Revisiting ResNets: Improved Training and Scaling Strategies](https://arxiv.org/abs/2103.07579)

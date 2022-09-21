@@ -1,0 +1,43 @@
+# Quote to remember
+>Look at the matters at different perspectives
+>Use "Why" instead of "How"
+
+>_**Driven** instead of Motivated_
+>Pressure builds diamonds
+
+>Learn to **build** and to **sell**
+
+>What if you die next week?
+>Make a name of yourself
+
+>If you want new ideas, let your mind wanders (not in focus state)
+
+# Yesterday
+- Yesterday
+
+# What has been done today
+![[99_Others/Current_work/Unfinished work/Unfinished work#Unfinished work]]
+
+
+# Pending
+![[99_Others/Current_work/Pending/Pending#Pending]]]
+
+
+# What to do tomorrow 
+- [ ] 
+
+
+
+
+
+#
+
+---
+- Status: 
+
+- Tags: 
+
+- References:
+	- [[99_Others/Quotes/quote_20190101#^different-perspectives]]
+
+- Related: 

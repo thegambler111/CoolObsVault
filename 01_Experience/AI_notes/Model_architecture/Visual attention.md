@@ -138,4 +138,4 @@ References:
 - [# Attentional Network for Visual Object Detection](https://arxiv.org/abs/1702.01478)
 
 Related:
-- [[01_Experience/AI_notes/Model_architecture/Transformer]]
+- [[01_Experience/AI_notes/Model_architecture/Transformers/Explain transformer/Explain transformers]]

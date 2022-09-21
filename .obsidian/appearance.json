@@ -1,7 +1,7 @@
 {
   "cssTheme": "Moonlight",
   "theme": "obsidian",
-  "baseFontSize": 17,
+  "baseFontSize": 15,
   "translucency": false,
   "enabledCssSnippets": [
     "obsidian"

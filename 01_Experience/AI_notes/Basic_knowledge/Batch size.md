@@ -11,7 +11,7 @@ batch_size = 5 => Feed 5 images to model for every update.
 ---
 Status: #done
 
-Tags:  #machine_learning  #basic_knowledge  #batch_size 
+Tags:  #machine_learning  #basic_ai_knowledge  #batch_size 
 
 References: 
 

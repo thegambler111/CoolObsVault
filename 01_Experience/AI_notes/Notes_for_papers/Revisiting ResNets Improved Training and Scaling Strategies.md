@@ -156,6 +156,7 @@ Tags: #computer_vision #classification #resnet #resnet_rs #tips_and_tricks #hype
 References:
 - [# Revisiting ResNets: Improved Training and Scaling Strategies](https://arxiv.org/abs/2103.07579)
 - [ResNet-RS Tensorflow configs](https://github.com/tensorflow/tpu/tree/master/models/official/resnet/resnet_rs)
+- [ResNet-RS in Keras](https://github.com/sebastian-sz/resnet-rs-keras)
 
 
 Related:

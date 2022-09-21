@@ -48,4 +48,4 @@ References:
 - [# Random Search vs Grid Search for hyperparameter optimization](https://towardsdatascience.com/random-search-vs-grid-search-for-hyperparameter-optimization-345e1422899d)
 - [Random search for hyper-parameter optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
 
-Related: [[01_Experience/AI_in_production/Lifecycle/Model_training/A Recipe for Training Neural Networks#Tune]]
+Related: [[01_Experience/AI_in_production/Lifecycle/3_1_Model_training/A Recipe for Training Neural Networks#Tune]]

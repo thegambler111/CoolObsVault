@@ -1,27 +1,26 @@
+# Backpropagation
+- [Source](https://twitter.com/karpathy/status/1559672719414681601)
+- [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0)
 
-# Leaky abstraction
+
+
+
+
+
+# Backpropagation problems
+## Leaky abstraction
 >**The problem with Backpropagation is that it is a** [**leaky abstraction**](https://en.wikipedia.org/wiki/Leaky_abstraction)**.**
 
 In other words, it is easy to fall into the trap of abstracting away the learning process — believing that you can simply stack arbitrary layers together and backprop will "magically make them work" on your data. So lets look at a few explicit examples where this is not the case in quite unintuitive ways.
 
 
-# Vanishing gradients on sigmoids
+## Vanishing gradients on sigmoids
 
+## Dying ReLUs
 
+## Exploding gradients in RNNs
 
-
-
-
-# Dying ReLUs
-
-
-
-# Exploding gradients in RNNs
-
-
-
-
-# Spotted in the Wild: DQN Clipping
+## Spotted in the Wild: DQN Clipping
 
 
 
@@ -47,7 +46,7 @@ In other words, it is easy to fall into the trap of abstracting away the learnin
 ---
 Status: #writing
 
-Tags: #machine_learning #basic_knowledge #backpropagation
+Tags: #machine_learning #basic_ai_knowledge #backpropagation
 
 References:
 - [# Yes you should understand backprop](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)

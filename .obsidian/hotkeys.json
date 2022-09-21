@@ -10,17 +10,17 @@
   "editor:swap-line-up": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "1"
+      "key": "ArrowUp"
     }
   ],
   "editor:swap-line-down": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "2"
+      "key": "ArrowDown"
     }
   ],
   "hotkeysplus-obsidian:toggle-bullet-number": [
@@ -101,6 +101,49 @@
         "Alt"
       ],
       "key": "2"
+    }
+  ],
+  "number-headings-obsidian:number-headings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "8"
+    }
+  ],
+  "number-headings-obsidian:remove-number-headings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "9"
+    }
+  ],
+  "hotkeysplus-obsidian:duplicate-lines-up": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "hotkeysplus-obsidian:duplicate-lines-down": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "obsidian-text-format:text-format-remove-blank-line": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "4"
     }
   ]
 }

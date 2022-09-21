@@ -139,4 +139,4 @@ References:
 -  [# When Does Label Smoothing Help?](https://arxiv.org/abs/1906.02629v3)
 
 Related:
-- 
+- [Entropy explained](https://twitter.com/TivadarDanka/status/1475456688547250176)

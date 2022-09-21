@@ -34,7 +34,7 @@
 ---
 Status: #done
 
-Tags: #course #machine_learning #learning 
+Tags:  #machine_learning #learning_course
 
 References:
 - 

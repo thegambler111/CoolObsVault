@@ -71,7 +71,7 @@ Another popular way to further improve accuracy is by training on additional sou
 ---
 Status: #done 
 
-Tags: #computer_vision  #evolution #data_augmentation #model_architecture #training #scaling
+Tags: #computer_vision  #evolution #data_augmentation #model_architecture #ai_training #scaling
 
 References:
 - [# Revisiting ResNets: Improved Training and Scaling Strategies](https://arxiv.org/abs/2103.07579)

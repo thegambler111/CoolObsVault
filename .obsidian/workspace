@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4cdc864455000454",
+        "id": "cb090464329b9d98",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02_Raw/Need to read/Need to read.md",
-            "mode": "source"
+            "file": "03_Life_experience/Others/3 big advice lies/3 big advice lies.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "66faf34738561304"
-      },
-      {
-        "id": "fc636ce01c75b3e6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "02_Raw/Need to read/Need to read.md",
-            "mode": "preview"
-          }
-        },
-        "group": "66faf34738561304"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ai_platform_v2",
+                "query": "tag:#story_telling_tips",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -73,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360
+    "width": 274.5007801055908
   },
   "right": {
     "id": "8e736dfd05cd9185",
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Raw/Need to read/Need to read.md",
+                "file": "03_Life_experience/Others/3 big advice lies/3 big advice lies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,45 +105,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Raw/Need to read/Need to read.md"
+                "file": "03_Life_experience/Others/3 big advice lies/3 big advice lies.md"
               }
             }
           },
           {
-            "id": "5b0d728e8b23ff77",
+            "id": "23a77d8673ad6558",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "a5440af9ba1e1c04",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "4cdc864455000454",
+  "active": "2ed78a85f2368194",
   "lastOpenFiles": [
-    "02_Raw/Need to read/Need to read.md",
-    "01_Experience/AI_in_production/Overall_Strategy/10 questions to ask when deploying a machine learning model/10 questions to ask when deploying a machine learning model.md",
-    "01_Experience/Product_strategy/IoT_platform/draft.md",
-    "01_Experience/Tmforum/Projects/Data governance/20211130_Data governance/20211130_Data governance.md",
-    "01_Experience/AI_notes/Notes_for_reports/State of AI 2021/State of AI 2021.md",
-    "02_Raw/Need to read/tsetset/tsetset.md",
-    "02_Raw/AI_notes/Need to read.md",
-    "01_Experience/Glossary/Six Sigma Techniques/Six Sigma Techniques.md",
-    "01_Experience/PMP/PMI/Develop project management skills/04_Technical Skills/14_Tips for Effective Requirements Management/14_Tips for Effective Requirements Management.md",
-    "01_Experience/PMP/PMI/Develop project management skills/04_Technical Skills/14.1_Triple Constraint/14.1_Triple Constraint.md"
+    "03_Life_experience/Others/15 rules may change your life/15 rules may change your life.md",
+    "03_Life_experience/Storytelling/Framework - Hero's journey/Framework - Hero's journey.md",
+    "03_Life_experience/Storytelling/Books to level up your storytelling/Books to level up your storytelling.md",
+    "03_Life_experience/Storytelling/World Building/World Building.md",
+    "99_Others/Current_work/Unfinished work/Unfinished work.md",
+    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M Error/Z2M Error.md",
+    "01_Experience/IoT/Zigbee2MQTT/Others/CTKT app base/CTKT app base.md",
+    "01_Experience/IoT/Zigbee2MQTT/Others/Device pair behavior/Device pair behavior.md",
+    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
+    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M currently used Zigbee channels/Z2M currently used Zigbee channels.md"
   ]
 }

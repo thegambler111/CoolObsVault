@@ -1,5 +1,4 @@
 [
-  "better-word-count",
   "calendar",
   "hotkeysplus-obsidian",
   "obsidian-mind-map",
@@ -16,5 +15,8 @@
   "table-editor-obsidian",
   "markdown-prettifier",
   "obsidian-text-format",
-  "folder-note-plugin"
+  "folder-note-plugin",
+  "number-headings-obsidian",
+  "obsidian-dynamic-toc",
+  "obsidian-git"
 ]
