@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03_Life_experience/Others/3 big advice lies/3 big advice lies.md",
+            "file": "99_Others/Current_work/Unfinished work/Unfinished work.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/Others/3 big advice lies/3 big advice lies.md",
+                "file": "99_Others/Current_work/Unfinished work/Unfinished work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Life_experience/Others/3 big advice lies/3 big advice lies.md"
+                "file": "99_Others/Current_work/Unfinished work/Unfinished work.md"
               }
             }
           },
@@ -124,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2ed78a85f2368194",
+  "active": "cb090464329b9d98",
   "lastOpenFiles": [
+    "03_Life_experience/Others/3 big advice lies/3 big advice lies.md",
+    "99_Others/Current_work/Unfinished work/Unfinished work.md",
     "03_Life_experience/Others/15 rules may change your life/15 rules may change your life.md",
     "03_Life_experience/Storytelling/Framework - Hero's journey/Framework - Hero's journey.md",
     "03_Life_experience/Storytelling/Books to level up your storytelling/Books to level up your storytelling.md",
     "03_Life_experience/Storytelling/World Building/World Building.md",
-    "99_Others/Current_work/Unfinished work/Unfinished work.md",
     "01_Experience/IoT/Zigbee2MQTT/Others/Z2M Error/Z2M Error.md",
     "01_Experience/IoT/Zigbee2MQTT/Others/CTKT app base/CTKT app base.md",
     "01_Experience/IoT/Zigbee2MQTT/Others/Device pair behavior/Device pair behavior.md",
-    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
-    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M currently used Zigbee channels/Z2M currently used Zigbee channels.md"
+    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md"
   ]
 }
