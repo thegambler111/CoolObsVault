@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M python restart/Z2M python restart.md",
+            "file": "03_Life_experience/Growing up/30 SKILLS TO LEARN IN YOUR 30s/30 SKILLS TO LEARN IN YOUR 30s.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M python restart/Z2M python restart.md",
+                "file": "03_Life_experience/Growing up/30 SKILLS TO LEARN IN YOUR 30s/30 SKILLS TO LEARN IN YOUR 30s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M python restart/Z2M python restart.md"
+                "file": "03_Life_experience/Growing up/30 SKILLS TO LEARN IN YOUR 30s/30 SKILLS TO LEARN IN YOUR 30s.md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "46e552e3f76149a9",
   "lastOpenFiles": [
+    "03_Life_experience/Others/12 laws of karma/12 laws of karma.md",
+    "99_Others/Current_work/Unfinished work/Unfinished work.md",
+    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M python restart/Z2M python restart.md",
     "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md",
     "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision draft/Z2M vision draft.md",
     "01_Experience/IoT/Zigbee2MQTT/Others/Z2M Error/Z2M Error.md",
     "01_Experience/IoT/Zigbee2MQTT/Others/CTKT app base/CTKT app base.md",
-    "99_Others/Current_work/Unfinished work/Unfinished work.md",
     "99_Others/Lab IoT Viettel/Internet Lab/Internet Lab.md",
     "03_Life_experience/Writing_Sharing is caring/17 tips for great copywriting/17 tips for great copywriting.md",
-    "README.md",
-    "conflict-files-obsidian-git.md",
-    "03_Life_experience/Storytelling/Storytelling engine/Storytelling engine.md"
+    "README.md"
   ]
 }
