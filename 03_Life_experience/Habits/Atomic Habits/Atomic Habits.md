@@ -16,4 +16,4 @@
 	- 
 
 - Related:
-	- 
+	- [Sahil Bloom: How to Change Your Life in 1 Year](https://www.sahilbloom.com/newsletter/how-to-change-your-life-in-1-year)
