@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8832f8d51744079",
+        "id": "46e552e3f76149a9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "03_Life_experience/Writing_Sharing is caring/17 tips for great copywriting/17 tips for great copywriting.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#story_telling_tips",
+                "query": "package",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/Writing_Sharing is caring/17 tips for great copywriting/17 tips for great copywriting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03_Life_experience/Writing_Sharing is caring/17 tips for great copywriting/17 tips for great copywriting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -124,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a8832f8d51744079",
+  "active": "46e552e3f76149a9",
   "lastOpenFiles": [
-    "03_Life_experience/Others/23 lies you have been told by the world/23 lies you have been told by the world.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "03_Life_experience/Storytelling/Storytelling engine/Storytelling engine.md",
-    "03_Life_experience/Habits/Atomic Habits/Atomic Habits.md",
     "03_Life_experience/Storytelling/Interesting stories/Interesting stories.md",
-    "03_Life_experience/Storytelling/World Building/World Building.md",
-    "03_Life_experience/Storytelling/Books to level up your storytelling/Books to level up your storytelling.md",
-    "03_Life_experience/Others/The Framework handbook/The Framework handbook.md",
-    "03_Life_experience/Others/Memory improvement/Memory improvement.md",
-    "03_Life_experience/Others/11 harsh truths that might change your life/11 harsh truths that might change your life.md",
-    "03_Life_experience/Others/20 books that will 20x your productivity/20 books that will 20x your productivity.md"
+    "03_Life_experience/Others/23 lies you have been told by the world/23 lies you have been told by the world.md",
+    "03_Life_experience/Others/20 books that will 20x your productivity/20 books that will 20x your productivity.md",
+    "03_Life_experience/Others/20+ powerful razors that simplify decision making/20+ powerful razors that simplify decision making.md",
+    "03_Life_experience/Leadership/How to get better at influence/How to get better at influence.md",
+    "03_Life_experience/How to learn/How to remember everything/How to remember everything.md",
+    "01_Experience/AI_notes/Knowledge source/Ultimate-Awesome-Transformer-Attention/Ultimate-Awesome-Transformer-Attention.md"
   ]
 }
