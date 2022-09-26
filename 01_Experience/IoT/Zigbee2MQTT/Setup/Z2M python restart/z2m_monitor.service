@@ -1,0 +1,17 @@
+[Unit]
+Description=z2m_monitor
+After=network.target
+
+[Service]
+#User=$MYUSERNAME
+#Group=$MYUSERNAMEGROUP
+ExecStart=/usr/bin/python3 /opt/z2m_mon/z2m_monitor.py
+WorkingDirectory=/opt/z2m_mon
+StandardOutput=inherit
+# Or use StandardOutput=null if you don't want Zigbee2MQTT messages filling syslog, for more options see systemd.exec(5)
+StandardError=inherit
+Restart=always
+User=labiot
+
+[Install]
+WantedBy=multi-user.target
