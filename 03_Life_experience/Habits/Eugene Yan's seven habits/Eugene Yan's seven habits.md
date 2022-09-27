@@ -44,7 +44,7 @@ Feel better, sleep better, get more energy, and oh, look better
 - Start small with 200 - 500 word posts
 - You don't find your niche; your niche finds you.
 - https://eugeneyan.com/writing/what-i-did-not-learn-about-writing-in-school/
-- [[03_Life_experience/Writing_Sharing is caring/14 Ideas on How to Grow Your Business by Writing/14 Ideas on How to Grow Your Business by Writing]]
+- [[03_Life_experience/Writing_Sharing is caring/Others/14 Ideas on How to Grow Your Business by Writing/14 Ideas on How to Grow Your Business by Writing]]
 
 
 # Investing

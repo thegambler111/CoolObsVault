@@ -132,7 +132,7 @@ I’ve written (far too much) about writing and will refer you to a few of the b
 -   [The importance of writing in a tech career](https://eugeneyan.com/speaking/writing-for-a-tech-career/)
 
 
-[[03_Life_experience/Writing_Sharing is caring/14 Ideas on How to Grow Your Business by Writing/14 Ideas on How to Grow Your Business by Writing]]
+[[03_Life_experience/Writing_Sharing is caring/Others/14 Ideas on How to Grow Your Business by Writing/14 Ideas on How to Grow Your Business by Writing]]
 **How much effort does it take?** A couple hours weekly.
 
 Writing is not just about writing

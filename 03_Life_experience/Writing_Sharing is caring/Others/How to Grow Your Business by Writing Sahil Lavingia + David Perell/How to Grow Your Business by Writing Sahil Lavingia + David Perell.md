@@ -1,4 +1,5 @@
 #
+Start here: wip
 2/ conversations & real-time debates serve people, writing serves ideas. 
 
 writing is a way to think deeply. text-to-text also levels the playing field, whereas someone more charismatic might "win" in person

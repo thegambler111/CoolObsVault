@@ -24,4 +24,4 @@
 	- [Book: Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered (Austin Kleon)](https://www.amazon.com/gp/product/B00GU2RGGI/)
 
 - Related:
-	- [[03_Life_experience/Writing_Sharing is caring/Show your work_Austin Kleon/Show your work_Austin Kleon]]
+	- [[03_Life_experience/Writing_Sharing is caring/Books/Show your work_Austin Kleon/Show your work_Austin Kleon]]

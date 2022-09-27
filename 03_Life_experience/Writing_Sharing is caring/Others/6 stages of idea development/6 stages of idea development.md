@@ -1,5 +1,5 @@
 # 6 stages of idea development
-![[03_Life_experience/Writing_Sharing is caring/6 stages of idea development/Idea development.png]]
+![[03_Life_experience/Writing_Sharing is caring/Others/6 stages of idea development/Idea development.png]]
 
 ## Capture
 - The process of collecting the spark of an idea. It could be with a web clipper, your phone's notes app, or in pocket notebook.

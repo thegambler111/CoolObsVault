@@ -16,7 +16,7 @@
 	2. Leave page
 - Telling a story? Study this:
 	- Using different sentence lengths
-![[03_Life_experience/Writing_Sharing is caring/9 step-by-step tips to make you a better copywriter/tell_story_effectively.jpeg]]
+![[03_Life_experience/Writing_Sharing is caring/Copywriting/9 step-by-step tips to make you a better copywriter/tell_story_effectively.jpeg]]
 
 
 # 2.Write below a 5th grade level.

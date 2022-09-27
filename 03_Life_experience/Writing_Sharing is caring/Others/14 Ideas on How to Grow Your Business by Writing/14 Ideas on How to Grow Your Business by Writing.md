@@ -89,7 +89,7 @@
 
 And here’s another summary by [@paigefinnn](https://twitter.com/paigefinnn):
 
-[[03_Life_experience/Writing_Sharing is caring/How to Grow Your Business by Writing Sahil Lavingia + David Perell/How to Grow Your Business by Writing Sahil Lavingia + David Perell]]
+[[03_Life_experience/Writing_Sharing is caring/Others/How to Grow Your Business by Writing Sahil Lavingia + David Perell/How to Grow Your Business by Writing Sahil Lavingia + David Perell]]
 
 
 # 
