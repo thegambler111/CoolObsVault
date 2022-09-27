@@ -79,12 +79,57 @@
 	- Using low level language like C
 
 
+# Plan
+- 4/2022: 2 weeks devices <-> 2 weeks new features
+	- Master code flow
+		- Event handling
+		- Znp
+	- Setup a process to update code from KKoen without conflicts
+	- Redesign DB
+	- Change z2m log settings: better storage management
+	- Build a process to evaluate device response time
+	- Build a monitoring system for GW -> send to Platform
+	- 100 devices
 
+- 1/2022
+	- Create universal way to check device connection status
+	- Accidental deletion prevention
+	- Optimize execution time
+		- Improve command - response cycle
+		- Improve pairing time: Can multiple devices be paired at the same time
+		- Improve boot time, restart time
+	- Create log for MQTT connection
+	- Test GW capability
+		- Max concurrent connected devices
+		- Max concurrent command
+	- Build a monitoring system for GW + platform connection
 
+- 2/2022
+	- Device automation
+	- Check local linkage feature
+	- Optimize Zigbee network optimization behavior
+	- Implement GW hot swap (replace GW without down time)
+	- Check group management
+		- And group control
+	- Read about USB
+		- How it work
+		- Log
+		- What to improve
+		- Auto repair
 
+- 3+4/2022
+	- OTA update for devices
+	- OTA update for GW + USB
+	- Auto create device definition
+	- Joining with Install-Code Derived Link Key
+	- Design GW physical requirement
+		- Hardware requirement <-> performance: Should be in 2-3 levels
+		- Physical appearance: buttons, lights, ports
 
-
-
+- Future consideration
+	- Improve security
+	- Change language, OS
+	- Zigbee network auto repair
 
 
 

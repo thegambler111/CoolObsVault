@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03_Life_experience/Writing_Sharing is caring/Books/Show your work_Austin Kleon/Show your work_Austin Kleon.md",
+            "file": "01_Experience/IoT/Zigbee2MQTT/Devices_specific_notes/20. Bulb/20.3 DTS/20.3 DTS.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/Writing_Sharing is caring/Books/Show your work_Austin Kleon/Show your work_Austin Kleon.md",
+                "file": "01_Experience/IoT/Zigbee2MQTT/Devices_specific_notes/20. Bulb/20.3 DTS/20.3 DTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Life_experience/Writing_Sharing is caring/Books/Show your work_Austin Kleon/Show your work_Austin Kleon.md"
+                "file": "01_Experience/IoT/Zigbee2MQTT/Devices_specific_notes/20. Bulb/20.3 DTS/20.3 DTS.md"
               }
             }
           },
@@ -124,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b94a1955f054606b",
+  "active": "46e552e3f76149a9",
   "lastOpenFiles": [
-    "03_Life_experience/Writing_Sharing is caring/Others/Create contents with obsession not niche/Create contents with obsession not niche.md",
+    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision draft/Z2M vision draft.md",
+    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
+    "01_Experience/IoT/Zigbee2MQTT/Documentations/Zigbee device interview/Zigbee device interview.md",
+    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M python restart/Z2M python restart.md",
     "03_Life_experience/Writing_Sharing is caring/Books/Show your work_Austin Kleon/Show your work_Austin Kleon.md",
+    "03_Life_experience/Writing_Sharing is caring/Others/Create contents with obsession not niche/Create contents with obsession not niche.md",
     "03_Life_experience/Writing_Sharing is caring/Others/How to Grow Your Business by Writing Sahil Lavingia + David Perell/How to Grow Your Business by Writing Sahil Lavingia + David Perell.md",
     "03_Life_experience/Writing_Sharing is caring/Copywriting/17 tips for great copywriting/17 tips for great copywriting.md",
     "03_Life_experience/Storytelling/3 keys to creating an effective villain/3 keys to creating an effective villain.md",
-    "03_Life_experience/Career building/20 books that will help you start & grow a business/20 books that will help you start & grow a business.md",
-    "03_Life_experience/Growing up/30 SKILLS TO LEARN IN YOUR 30s/30 SKILLS TO LEARN IN YOUR 30s.md",
-    "03_Life_experience/Others/12 laws of karma/12 laws of karma.md",
-    "99_Others/Current_work/Unfinished work/Unfinished work.md",
-    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M python restart/Z2M python restart.md"
+    "03_Life_experience/Career building/20 books that will help you start & grow a business/20 books that will help you start & grow a business.md"
   ]
 }
