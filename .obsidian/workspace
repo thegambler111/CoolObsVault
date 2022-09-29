@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03_Life_experience/Writing_Sharing is caring/Others/Become better at social media/Become better at social media.md",
+            "file": "01_Experience/IoT/Zigbee2MQTT/Devices_specific_notes/20. Bulb/20.3 DTS/20.3 DTS.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/Writing_Sharing is caring/Others/Become better at social media/Become better at social media.md",
+                "file": "01_Experience/IoT/Zigbee2MQTT/Devices_specific_notes/20. Bulb/20.3 DTS/20.3 DTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Life_experience/Writing_Sharing is caring/Others/Become better at social media/Become better at social media.md"
+                "file": "01_Experience/IoT/Zigbee2MQTT/Devices_specific_notes/20. Bulb/20.3 DTS/20.3 DTS.md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "46e552e3f76149a9",
   "lastOpenFiles": [
+    "99_Others/Current_work/Unfinished work/Unfinished work.md",
+    "01_Experience/IoT/Zigbee2MQTT/Devices_specific_notes/20. Bulb/20.3 DTS/20.3 DTS.md",
+    "03_Life_experience/Writing_Sharing is caring/Others/Become better at social media/Become better at social media.md",
     "03_Life_experience/Business building/Lessons from my Failed Startup/Lessons from my Failed Startup.md",
     "03_Life_experience/Business building/20 books that will help you start & grow a business/20 books that will help you start & grow a business.md",
     "03_Life_experience/Career building/The Ladders of Wealth Creation/The Ladders of Wealth Creation.md",
     "03_Life_experience/Career building/The 10 most important qualities when hiring/The 10 most important qualities when hiring.md",
     "03_Life_experience/Learn to sell/10 tax hacks for business owners/10 tax hacks for business owners.md",
     "03_Life_experience/Storytelling/10 dead-simple tips to become a better storyteller/10 dead-simple tips to become a better storyteller.md",
-    "01_Experience/AI_in_production/Lifecycle/3_1_Model_training/Statistical Modeling - The Two Cultures/Statistical Modeling - The Two Cultures.md",
-    "01_Experience/AI_in_production/Lifecycle/3_1_Model_training/Weight initialization/Weight initialization.md",
-    "01_Experience/IoT/Zigbee2MQTT/Devices_specific_notes/20. Bulb/20.3 DTS/20.3 DTS.md",
-    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision draft/Z2M vision draft.md"
+    "01_Experience/AI_in_production/Lifecycle/3_1_Model_training/Statistical Modeling - The Two Cultures/Statistical Modeling - The Two Cultures.md"
   ]
 }

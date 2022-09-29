@@ -75,7 +75,7 @@
 		- Define an object to store command send time (Something that can be accessed by both sender and reaceiver)
 			- When receiving response, search that object for send time
 				- Compare send time with receive time -> execute time
-	- [ ] Thiết kế app base: Hỏi ý kiến: 20-21, hoàn thiện (họp nếu cần) 22-23, 26 ký
+	- [x] Thiết kế app base: Hỏi ý kiến: 20-21, hoàn thiện (họp nếu cần) 22-23, 26 ký
 		- Văn bản đặt hàng tt cđs trình ký 26/9 -> CTKT cho app do cđs phát triển
 		- App mở để tích hợp thêm thiết bị mới -> cho người cung cấp tự cấu hình (như NBox)
 		- Deadline version 1
@@ -87,14 +87,14 @@
 	- [x] Git ultimate
 	- [ ] Add default profile for device for Mr Hungpm8 -> 21/9
 	- [ ] New feature plan -> 26-28/9
-		- [ ] Vision
+		- [x] Vision
 		- [ ] Slogan
 			- [ ] Ritual
 			- [ ] Language
 		- [ ] **Định hướng công việc**
 	- [ ] Check pull requests -> Q4
 	- [ ] CTKT GW -> Q4
-	- [ ] Process to auto reset GW -> 21/9
+	- [x] Process to auto reset GW -> 21/9
 - [x] Camera
 	- [x] Check camera performance
 - [ ] Khung năng lực
@@ -105,8 +105,6 @@
 - [x] GW z5
 
 
-
-test
 
 
 
