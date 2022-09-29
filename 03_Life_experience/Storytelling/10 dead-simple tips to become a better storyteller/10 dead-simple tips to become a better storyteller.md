@@ -9,6 +9,7 @@
 8. Use data (numbers) sparingly
 9. Build to one moment
 10. Shape your story -> Use some framework
+![[03_Life_experience/Storytelling/10 dead-simple tips to become a better storyteller/10 tips.png]]
 
 # 1. Cut the fluff
 - Try a “cold open” - jump straight into the action.

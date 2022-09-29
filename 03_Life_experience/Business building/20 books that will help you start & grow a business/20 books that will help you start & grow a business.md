@@ -31,7 +31,7 @@
 ---
 - Status: #done
 
-- Tags: #career
+- Tags: #business 
 
 - References:
 	- [Source](https://twitter.com/AlexAndBooks_/status/1573305429849153536)
