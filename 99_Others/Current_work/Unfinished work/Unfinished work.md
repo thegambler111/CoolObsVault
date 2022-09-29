@@ -85,7 +85,7 @@
 			- Cho phép chủ đầu tư phát triển thành ứng dụng riêng
 - [ ] Team GW
 	- [x] Git ultimate
-	- [ ] Add default profile for device for Mr Hungpm8 -> 21/9
+	- [x] Add default profile for device for Mr Hungpm8 -> 21/9
 	- [ ] New feature plan -> 26-28/9
 		- [x] Vision
 		- [ ] Slogan
