@@ -35,7 +35,7 @@
 	- My insights based on last week's data
 
 
-Hello, từ khi relocate đến giờ, mọi chuyện vẫn ổn chứ?
+
 
 
 # 
