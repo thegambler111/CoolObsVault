@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "99_Others/Current_work/Unfinished work/Unfinished work.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "2bd301b85588eaaf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
+            "file": "01_Experience/IoT/Thingsboard/Setup/Untitled/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
+                "file": "01_Experience/IoT/Thingsboard/Setup/Untitled/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md"
+                "file": "01_Experience/IoT/Thingsboard/Setup/Untitled/Untitled.md"
               }
             }
           },
@@ -136,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2bd301b85588eaaf",
+  "active": "7846da238a4965e0",
   "lastOpenFiles": [
+    "01_Experience/IoT/IoT_platform_comparison/IoT_platform_md/Smartfactoryvn draft.md",
+    "01_Experience/IoT/Thingsboard/Setup/Untitled/Untitled.md",
+    "01_Experience/IoT/Thingsboard/Vision/Vision.md",
     "99_Others/Current_work/Unfinished work/Unfinished work.md",
-    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
-    "03_Life_experience/Leadership/Weekly memo that moves your business forward/Weekly memo that moves your business forward.md",
-    "conflict-files-obsidian-git.md",
-    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision draft/Z2M vision draft.md",
-    "01_Experience/IoT/Some IoT notes/Some IoT notes.md",
-    "01_Experience/IoT/Zigbee2MQTT/Documentations/Zigbee device interview/Zigbee device interview.md",
-    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M ultimate guide to configure a device in converters/Z2M ultimate guide to configure a device in converters.md",
-    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M currently used Zigbee channels/Z2M currently used Zigbee channels.md",
-    "01_Experience/IoT/Zigbee2MQTT/Documentations/How to use git in Z2M project/How to use git in Z2M project.md"
+    "01_Experience/IoT/IoT_platform_comparison/IoT_platform_md/Report a Cong.md",
+    "01_Experience/IoT/IoT_platform_comparison/IoT_platform_md/Outline.md",
+    "01_Experience/IoT/IoT_platform_comparison/IoT_platform_md/Intel's IoT Reference architecture.md",
+    "01_Experience/IoT/IoT_platform_comparison/IoT_platform_md/Huawei IoT platform structure.png",
+    "01_Experience/IoT/IoT_platform_comparison/IoT_platform_md/Gartner Industrial IoT Platform.md",
+    "01_Experience/IoT/IoT_platform_comparison/IoT_platform_md/draft.md"
   ]
 }

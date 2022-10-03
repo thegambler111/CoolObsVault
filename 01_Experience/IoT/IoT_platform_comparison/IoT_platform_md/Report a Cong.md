@@ -227,7 +227,7 @@ Its biggest problems are weak analytics layer and high cost.
 # Additional information
 
 ## Huawei IoT platform structure
-![[01_Experience/IoT/IoT_platform/IoT_platform_md/Huawei IoT platform structure.png]]
+![[01_Experience/IoT/IoT_platform_comparison/IoT_platform_md/Huawei IoT platform structure.png]]
 
 
 # 
