@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cb090464329b9d98",
+        "id": "7846da238a4965e0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03_Life_experience/Leadership/Weekly memo that moves your business forward/Weekly memo that moves your business forward.md",
+            "file": "99_Others/Current_work/Unfinished work/Unfinished work.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2bd301b85588eaaf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#story_telling_tips",
+                "query": "no passive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5007801055908
+    "width": 333.5007801055908
   },
   "right": {
     "id": "8e736dfd05cd9185",
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/Leadership/Weekly memo that moves your business forward/Weekly memo that moves your business forward.md",
+                "file": "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Life_experience/Leadership/Weekly memo that moves your business forward/Weekly memo that moves your business forward.md"
+                "file": "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md"
               }
             }
           },
@@ -124,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb090464329b9d98",
+  "active": "2bd301b85588eaaf",
   "lastOpenFiles": [
-    "03_Life_experience/Leadership/13 concepts to understand before you lead a team/13 concepts to understand before you lead a team.md",
-    "99_Others/Setup/templates/base_template.md",
-    "99_Others/Setup/templates/book_template.md",
     "99_Others/Current_work/Unfinished work/Unfinished work.md",
-    "03_Life_experience/Others/3 big advice lies/3 big advice lies.md",
-    "03_Life_experience/Others/15 rules may change your life/15 rules may change your life.md",
-    "03_Life_experience/Storytelling/Framework - Hero's journey/Framework - Hero's journey.md",
-    "03_Life_experience/Storytelling/Books to level up your storytelling/Books to level up your storytelling.md",
-    "03_Life_experience/Storytelling/World Building/World Building.md",
-    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M Error/Z2M Error.md"
+    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
+    "03_Life_experience/Leadership/Weekly memo that moves your business forward/Weekly memo that moves your business forward.md",
+    "conflict-files-obsidian-git.md",
+    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision draft/Z2M vision draft.md",
+    "01_Experience/IoT/Some IoT notes/Some IoT notes.md",
+    "01_Experience/IoT/Zigbee2MQTT/Documentations/Zigbee device interview/Zigbee device interview.md",
+    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M ultimate guide to configure a device in converters/Z2M ultimate guide to configure a device in converters.md",
+    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M currently used Zigbee channels/Z2M currently used Zigbee channels.md",
+    "01_Experience/IoT/Zigbee2MQTT/Documentations/How to use git in Z2M project/How to use git in Z2M project.md"
   ]
 }

@@ -86,7 +86,7 @@
 - [ ] Team GW
 	- [x] Git ultimate
 	- [x] Add default profile for device for Mr Hungpm8 -> 21/9
-	- [ ] New feature plan -> 26-28/9
+	- [x] New feature plan -> 26-28/9
 		- [x] Vision
 		- [ ] Slogan
 			- [ ] Ritual
@@ -105,6 +105,10 @@
 - [x] GW z5
 
 
+
+Mission:
+
+Values:
 
 
 

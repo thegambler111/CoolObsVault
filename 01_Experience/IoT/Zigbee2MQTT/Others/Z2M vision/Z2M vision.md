@@ -84,12 +84,19 @@
 	- Master code flow
 		- Event handling
 		- Znp
+		- MQTT
 	- Setup a process to update code from KKoen without conflicts
 	- Redesign DB
 	- Change z2m log settings: better storage management
 	- Build a process to evaluate device response time
 	- Build a monitoring system for GW -> send to Platform
 	- 100 devices
+	- Backup:
+		- Accidental deletion prevention
+		- Test GW capability
+			- Max concurrent connected devices
+			- Max concurrent command
+		- Build a monitoring system for GW + platform connection
 
 - 1/2022
 	- Create universal way to check device connection status
