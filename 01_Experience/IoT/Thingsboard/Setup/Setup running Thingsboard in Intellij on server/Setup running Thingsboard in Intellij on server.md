@@ -1,4 +1,4 @@
-# 1. Update OS:
+# 1. Install necessary tools for CentOS:
 
 ## a. For CentOS 7:
 
@@ -18,57 +18,52 @@ sudo yum install -y nano wget
 sudo yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
 ```
 
-# 2. Install java:
+# 2. Install java 11 (OpenJDK):
+
+- ThingsBoard service is running on Java 11. Follow this instructions to install OpenJDK 11:
 
 ```bash
 sudo yum install java-11-openjdk
+```
+
+- (Need verification) Configure your operating system to use OpenJDK 11 by default. You can configure which version is the default using the following command:
+
+```bash
 sudo yum install java-11-openjdk-devel
 ```
 
-# 3. Firewall:
-
+# 3. Config firewall to open public ports:
+- Open public port on server to communicate with devices and end users:
 ```bash
 sudo firewall-cmd --zone=public --add-port=5683-5688/udp --permanent
 sudo firewall-cmd --reload
 ```
 
+## Additional commands
+- List all firewall rules:
 ```bash
 firewall-cmd --list-all
 ```
-
-From <https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/security_guide/sec-viewing_current_status_and_settings_of_firewalld>
-
+- List all currently allowed services:
 ```bash
 firewall-cmd --list-services
 ```
+- List all opened ports:
+```bash
+firewall-cmd --list-ports
+```
 
 From <https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/security_guide/sec-viewing_current_status_and_settings_of_firewalld>
 
-# 4. Setup test environment:
+# 4. Install Database
 
-## a. ThingsboardInstallApplication
+- By default ThingsBoard uses PostgreSQL database to store entities and timeseries data.
 
-```
-SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/thingsboard_congnt16
-SPRING_DATASOURCE_USERNAME=postgres
-SPRING_DATASOURCE_PASSWORD=1
-install.load_demo=true
-install.data_dir=D:\smb\opensource\thingsboard\application\target\data
-```
+- Please use [this link](https://wiki.postgresql.org/wiki/Detailed_installation_guides) for the PostgreSQL installation instructions.
 
-From <https://www.jianshu.com/p/7ad9d265b953>
-![[01_Experience/IoT/Thingsboard/Setup/Setup test os and environment/User environment variable.png]]
-## b. ThingsboardServerApplication
+- Once PostgreSQL is installed you may want to create a new user or set the password for the main user.
 
-```
-SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/thingsboard_congnt16
-SPRING_DATASOURCE_USERNAME=postgres
-SPRING_DATASOURCE_PASSWORD=1
-```
-
-From <https://www.jianshu.com/p/7ad9d265b953>
-
-# 5. PostgreSqL
+- Then, press “Ctrl+D” to return to main user console and connect to the database to create thingsboard DB:
 
 - Connect to database:
 
@@ -81,8 +76,14 @@ psql -U postgres -d postgres -h127.0.0.1 -W
 ```
 CREATE DATABASE thingsboard;
 ```
+- Exit Postgres terminal:
+```bash
+\q
+```
 
 From <https://thingsboard.io/docs/user-guide/install/rhel/>
+
+## Additional command for PostgreSQL
 
 - List database:
 - List database: `\l`
@@ -116,13 +117,59 @@ From <https://www.geeksforgeeks.org/postgresql-psql-commands/>
 | \H                                               | Switch the output to HTML format                                    |                                                                                                           |
 | \q                                               | Exit psql shell                                                     |                                                                                                           |
 
-# 
+# 5. Setup environment in Intellij:
 
+## Clone thingsboard's repository
 
+```bash
+git clone https://github.com/thingsboard/thingsboard.git
+```
 
+## Open Thingsboard in IntelliJ
 
+## Get dependencies and build Thingsboard Project
 
+- In terminal tab in IntelliJ, run command:
 
+```bash
+mvn clean install -DskipTest
+```
+
+## Configure Environment variables in application 
+
+- In directory `\thingsboard\application\src\java\org\thingsboard\server`
+
+### ThingsboardInstallApplication
+
+```
+SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/your_thingsboard_database_name
+SPRING_DATASOURCE_USERNAME=postgres
+SPRING_DATASOURCE_PASSWORD=1
+install.load_demo=true
+install.data_dir=thingsboard\application\target\data
+```
+
+![[01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Install application.png]]
+From <https://www.jianshu.com/p/7ad9d265b953>
+
+### ThingsboardServerApplication
+
+```
+SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/your_thingsboard_database_name
+SPRING_DATASOURCE_USERNAME=postgres
+SPRING_DATASOURCE_PASSWORD=1
+```
+
+![[01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Server application.png]]
+From <https://www.jianshu.com/p/7ad9d265b953>
+
+## Run application `ThingsboardServerApplication`
+
+- Navigate to <http://localhost:4200/> or <http://localhost:8080/> and login into ThingsBoard using demo data credentials:
+	- User: <tenant@thingsboard.org>
+	- Password: tenant
+
+- Any configuration (i.e. server port, username/password database) can be change in `thingsboard\application\src\java\org\thingsboard\server\thingsboard.yml`
 
 #
 
@@ -133,6 +180,6 @@ From <https://www.geeksforgeeks.org/postgresql-psql-commands/>
 - Tags: #thingsboard
 
 - References:
-  - 
+	- [Source](https://thingsboard.io/docs/user-guide/install/rhel/)
 
 - Related:
