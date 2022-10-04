@@ -20,7 +20,7 @@
 - Nike doesn't sell sneakers...
 - They sell greatness.
 
-![[03_Life_experience/Learn to sell/Top 7 things that motivate people/Success.png]]
+![[03_Life_experience/Learn to sell - Business building/Top 7 things that motivate people/Success.png]]
 
 
 # 6/ Fear
@@ -32,7 +32,7 @@
 
 - People don't want to miss out.
 - Nobody gets joy out of clicking a link that says: "No, I don't like free stuff"
-![[03_Life_experience/Learn to sell/Top 7 things that motivate people/Fear.png]]
+![[03_Life_experience/Learn to sell - Business building/Top 7 things that motivate people/Fear.png]]
 
 
 # 5/ Money
@@ -40,7 +40,7 @@
 - No surprise to see money as one of the top motivators.
 - Mr. Beast uses money as an attention-grabber in many of his YouTube headlines.
 
-![[03_Life_experience/Learn to sell/Top 7 things that motivate people/Money.png]]
+![[03_Life_experience/Learn to sell - Business building/Top 7 things that motivate people/Money.png]]
 
 
 # 4/ Purpose
@@ -52,7 +52,7 @@
 - Brands that connect with their customers through a common Purpose are built to last.
 
 - Patagonia's entire business is built around its Purpose.
-![[03_Life_experience/Learn to sell/Top 7 things that motivate people/Purpose.png]]
+![[03_Life_experience/Learn to sell - Business building/Top 7 things that motivate people/Purpose.png]]
 
 
 # 3/ Freedom
@@ -66,7 +66,7 @@
 - A perfect example is The 4-Hour Workweek by Tim Ferriss .
 - "Escape 9-5. Live Anywhere. And Join The New Rich."
 
-![[03_Life_experience/Learn to sell/Top 7 things that motivate people/Freedom.png]]
+![[03_Life_experience/Learn to sell - Business building/Top 7 things that motivate people/Freedom.png]]
 
 
 # 2/ Family

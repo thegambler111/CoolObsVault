@@ -113,7 +113,13 @@ Values:
 
 
 
-
+- Kiểm tra lại các thiết bị fail lúc nghiệm thu
+	- Do độ nhạy bản tin:
+		- Lỗi GW hay thiết bị
+			- Sniff bản tin
+		- So sánh với GW hãng
+- Bổ sung ảnh chứng minh lỗi của camera
+- Đặt lịch định kỳ họp chuyên môn vs anh Công
 
 
 

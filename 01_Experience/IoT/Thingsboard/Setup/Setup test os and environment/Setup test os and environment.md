@@ -1,6 +1,6 @@
-# 1.	Update OS:
+# 1. Update OS:
 
-## a.	For CentOS 7:
+## a. For CentOS 7:
 
 ```bash
 # Install wget
@@ -9,7 +9,7 @@ sudo yum install -y nano wget
 sudo yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest--7.noarch.rpm
 ```
 
-## b.	For CentOS 8:
+## b. For CentOS 8:
 
 ```bash
 # Install wget
@@ -18,14 +18,14 @@ sudo yum install -y nano wget
 sudo yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
 ```
 
-# 2.	Install java:
+# 2. Install java:
 
 ```bash
 sudo yum install java-11-openjdk
 sudo yum install java-11-openjdk-devel
 ```
 
-# 3.	Firewall:
+# 3. Firewall:
 
 ```bash
 sudo firewall-cmd --zone=public --add-port=5683-5688/udp --permanent
@@ -44,9 +44,9 @@ firewall-cmd --list-services
 
 From <https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/security_guide/sec-viewing_current_status_and_settings_of_firewalld>
 
-# 4.	Setup test environment:
+# 4. Setup test environment:
 
-## a.	ThingsboardInstallApplication
+## a. ThingsboardInstallApplication
 
 ```
 SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/thingsboard_congnt16
@@ -57,8 +57,8 @@ install.data_dir=D:\smb\opensource\thingsboard\application\target\data
 ```
 
 From <https://www.jianshu.com/p/7ad9d265b953>
-
-## b.	ThingsboardServerApplication
+![[01_Experience/IoT/Thingsboard/Setup/Setup test os and environment/User environment variable.png]]
+## b. ThingsboardServerApplication
 
 ```
 SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/thingsboard_congnt16
@@ -68,7 +68,7 @@ SPRING_DATASOURCE_PASSWORD=1
 
 From <https://www.jianshu.com/p/7ad9d265b953>
 
-# 5.	PostgreSqL
+# 5. PostgreSqL
 
 - Connect to database:
 
@@ -116,15 +116,23 @@ From <https://www.geeksforgeeks.org/postgresql-psql-commands/>
 | \H                                               | Switch the output to HTML format                                    |                                                                                                           |
 | \q                                               | Exit psql shell                                                     |                                                                                                           |
 
+# 
+
+
+
+
+
+
+
 #
 
 ---
 
 - Status: #done
 
-- Tags:
+- Tags: #thingsboard
 
 - References:
-	- [Source]()
+  - 
 
-- Related: 
+- Related:

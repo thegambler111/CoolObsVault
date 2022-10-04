@@ -27,7 +27,7 @@
 ---
 - Status: #done 
 
-- Tags: 
+- Tags: #thingsboard
 
 - References:
 	- 
