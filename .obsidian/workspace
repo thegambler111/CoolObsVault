@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7846da238a4965e0",
+        "id": "ac11e6a01c48d788",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -124,11 +124,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7846da238a4965e0",
+  "active": "b94a1955f054606b",
   "lastOpenFiles": [
-    "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Server application.png",
-    "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Setup running Thingsboard in Intellij on server.md",
     "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/User environment variable.png",
+    "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Setup running Thingsboard in Intellij on server.md",
+    "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Server application.png",
     "01_Experience/IoT/Thingsboard/Setup/Setup test os and environment/User environment variable.png.md",
     "99_Others/Current_work/Unfinished work/Unfinished work.md",
     "01_Experience/Code/Algorithms/Algorithms you should know before taking System Design Interviews/Algorithms you should know before taking System Design Interviews.md",
