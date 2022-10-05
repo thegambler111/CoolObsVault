@@ -13,10 +13,10 @@
   "obsidian-outliner",
   "tag-wrangler",
   "table-editor-obsidian",
-  "markdown-prettifier",
   "obsidian-text-format",
   "folder-note-plugin",
   "number-headings-obsidian",
   "obsidian-dynamic-toc",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-linter"
 ]

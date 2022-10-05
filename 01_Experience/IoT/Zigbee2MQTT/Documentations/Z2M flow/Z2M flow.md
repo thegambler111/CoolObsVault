@@ -82,5 +82,4 @@ _Adapter Event: deviceJoined_
 - References:
 	- [Source]()
 
-- | Related: |
-	| -------- |
+- Related:
