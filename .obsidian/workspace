@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md",
+            "file": "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Setup running Thingsboard in Intellij on server.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md",
+                "file": "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Setup running Thingsboard in Intellij on server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md"
+                "file": "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Setup running Thingsboard in Intellij on server.md"
               }
             }
           },
@@ -126,6 +126,7 @@
   },
   "active": "ac11e6a01c48d788",
   "lastOpenFiles": [
+    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md",
     "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Setup running Thingsboard in Intellij on server.md",
     "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/User environment variable.png",
     "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Server application.png",
@@ -134,7 +135,6 @@
     "01_Experience/Code/Algorithms/Algorithms you should know before taking System Design Interviews/Algorithms you should know before taking System Design Interviews.md",
     "03_Life_experience/Learn to sell - Business building/Lessons from my Failed Startup/Lessons from my Failed Startup.md",
     "01_Experience/Code/Think like a programmer/How to think like a programmer/How to think like a programmer.md",
-    "03_Life_experience/Learn to sell - Business building/20 books that will help you start & grow a business/20 books that will help you start & grow a business.md",
-    "01_Experience/IoT/Thingsboard/Vision/Vision.md"
+    "03_Life_experience/Learn to sell - Business building/20 books that will help you start & grow a business/20 books that will help you start & grow a business.md"
   ]
 }
