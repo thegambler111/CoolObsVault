@@ -260,7 +260,7 @@ mvn clean install -P yarn-start
 ```
 
 ## 5.7. Login Thingsboard
-- Navigate to <http://localhost:4200/> or <http://localhost:8080/> and login into ThingsBoard using demo data credentials:
+- Navigate to <http://localhost:4200/> or <http://localhost:8080/> and login into Thingsboard using demo data credentials:
 	- User: <tenant@thingsboard.org>
 	- Password: tenant
 - Any configuration (i.e. server port, username/password database) can be change in `thingsboard\application\src\java\org\thingsboard\server\thingsboard.yml`
