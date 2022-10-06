@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03_Life_experience/Career building/How to think like a programmer/How to think like a programmer.md",
+            "file": "01_Experience/AI_notes/Basic_knowledge/Latent and latent space/Latent and latent space.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/Career building/How to think like a programmer/How to think like a programmer.md",
+                "file": "01_Experience/AI_notes/Basic_knowledge/Latent and latent space/Latent and latent space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Life_experience/Career building/How to think like a programmer/How to think like a programmer.md"
+                "file": "01_Experience/AI_notes/Basic_knowledge/Latent and latent space/Latent and latent space.md"
               }
             }
           },
@@ -126,8 +126,8 @@
   },
   "active": "350fb11510162fd2",
   "lastOpenFiles": [
-    "03_Life_experience/Career building/Principles for career building/Principles for career building.md",
     "03_Life_experience/Career building/How to think like a programmer/How to think like a programmer.md",
+    "03_Life_experience/Career building/Principles for career building/Principles for career building.md",
     "03_Life_experience/Career building/How to think like a programmer/duck.png",
     "03_Life_experience/Career building/How to think like a programmer/duck.png.md",
     "03_Life_experience/Career building/How to think like a programmer/Pasted image 20221005174641.png.md",
