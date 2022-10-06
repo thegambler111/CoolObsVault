@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Experience/IoT/Thingsboard/Documentation/Thingsboard overview/Thingsboard overview.md",
+            "file": "01_Experience/AI_notes/Tips_and_tricks/Calculate the important of features/Calculate the important of features.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Experience/IoT/Thingsboard/Documentation/Thingsboard overview/Thingsboard overview.md",
+                "file": "01_Experience/AI_notes/Tips_and_tricks/Calculate the important of features/Calculate the important of features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Experience/IoT/Thingsboard/Documentation/Thingsboard overview/Thingsboard overview.md"
+                "file": "01_Experience/AI_notes/Tips_and_tricks/Calculate the important of features/Calculate the important of features.md"
               }
             }
           },
@@ -138,10 +138,10 @@
   },
   "active": "e24d94a390721e60",
   "lastOpenFiles": [
-    "01_Experience/AI_notes/Basic_knowledge/Latent and latent space/Latent and latent space.md",
-    "01_Experience/AI_notes/Basic_knowledge/Lost functions/Lost functions.md",
     "01_Experience/IoT/Thingsboard/Documentation/Thingsboard overview/Thingsboard overview.md",
     "99_Others/Current_work/Unfinished work/Unfinished work.md",
+    "01_Experience/AI_notes/Basic_knowledge/Latent and latent space/Latent and latent space.md",
+    "01_Experience/AI_notes/Basic_knowledge/Lost functions/Lost functions.md",
     "01_Experience/IoT/Thingsboard/Documentation/Samples/Samples.md",
     "01_Experience/IoT/Thingsboard/Documentation/Documentation links/Documentation links.md",
     "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Setup running Thingsboard in Intellij on server.md",

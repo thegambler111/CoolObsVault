@@ -36,11 +36,33 @@
 	- [NB IoT and other protocols](https://thingsboard.io/docs/user-guide/integrations/)
 
 ---
+
 # Entities and relations
+
 ## Entities
+- List of supported entities:
+	- [Tenants](https://thingsboard.io/docs/user-guide/ui/tenants/): This is an individual or an organization who owns or produce devices and assets
+	- [Customers](https://thingsboard.io/docs/user-guide/ui/customers/): This is an individual or organization who purchase or uses tenant devices and/or assets
+	- [Users](https://thingsboard.io/docs/user-guide/ui/users/): Users are able to browse dashboards and manage entities
+	- [Devices](https://thingsboard.io/docs/user-guide/ui/devices/): These are basic IoT entities that may produce telemetry data and handle RPC commands.
+	- [Assets](https://thingsboard.io/docs/user-guide/ui/assets/): These are abstract IoT entities that may be related to other devices and assets. For example factory, field, vehicle.
+	- [Entity Views](https://thingsboard.io/docs/user-guide/entity-views/): You can use this to share only part of device or asset data to the customers;
+	- [Alarms](https://thingsboard.io/docs/user-guide/alarms/): These events identify issues with your assets, devices, or other entities;
+	- [Dashboards](https://thingsboard.io/docs/user-guide/dashboards/): They are used to visualize your IoT data and to control particular devices through the user interface
+	- Rule Node: These are processing units for incoming messages, entity lifecycle events, etc.
+	- Rule Chain: It defines the flow of the processing in the [Rule Engine](https://thingsboard.io/docs/user-guide/rule-engine-2-0/re-getting-started/). May contain many rule nodes and links to other rule chains
+- Each entity supports:
+	- [Attributes](https://thingsboard.io/docs/user-guide/attributes/) are static and semi-static key-value pairs associated with entities.
+	- [Time-series data](https://thingsboard.io/docs/user-guide/telemetry/) are data points available for storage, querying and visualization. For example temperature, humidity, battery level.
+	- [Relations](https://thingsboard.io/docs/user-guide/entities-and-relations/#relations) are directed connections to other entities. For example contains, manages, owns, produces.
+- Some entities support profiles:
+	- [Tenant Profiles](https://thingsboard.io/docs/user-guide/tenant-profiles/): Each tenant has only one profile which contains common settings: entity, API and rate limits, etc
+	- [Device Profiles](https://thingsboard.io/docs/user-guide/device-profiles/): Each device has only one profile which contains common settings: processing and transport configuration, etc
 
-
-
+## Relations
+- Entity relation defines connection between two entities that belong to the same Tenant
+- The relation has an arbitrary type: Contains, Manages, Supports, etc
+- The relation is directional
 
 #
 ---
