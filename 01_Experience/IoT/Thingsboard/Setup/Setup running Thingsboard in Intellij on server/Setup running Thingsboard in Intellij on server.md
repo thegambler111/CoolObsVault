@@ -1,7 +1,6 @@
-# 1. Install necessary tools for CentOS:
+# 1. Install necessary tools for CentOS
 
-## a. For CentOS 7:
-
+## 1.1. For CentOS 7:
 ```bash
 # Install wget
 sudo yum install -y nano wget
@@ -9,8 +8,7 @@ sudo yum install -y nano wget
 sudo yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest--7.noarch.rpm
 ```
 
-## b. For CentOS 8:
-
+## 1.2. For CentOS 8:
 ```bash
 # Install wget
 sudo yum install -y nano wget
@@ -18,9 +16,8 @@ sudo yum install -y nano wget
 sudo yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
 ```
 
-# 2. Install java 11 (OpenJDK):
-
-- ThingsBoard service is running on Java 11. Follow this instructions to install OpenJDK 11:
+# 2. Install java 11 (OpenJDK)
+- Thingsboard service is running on Java 11. Follow this instructions to install OpenJDK 11:
 
 ```bash
 sudo yum install java-11-openjdk
@@ -32,23 +29,29 @@ sudo yum install java-11-openjdk
 sudo yum install java-11-openjdk-devel
 ```
 
-# 3. Config firewall to open public ports:
+# 3. Config firewall to open public ports
 - Open public port on server to communicate with devices and end users:
+
 ```bash
 sudo firewall-cmd --zone=public --add-port=5683-5688/udp --permanent
 sudo firewall-cmd --reload
 ```
 
-## Additional commands
+## 3.1. Additional commands
 - List all firewall rules:
+
 ```bash
 firewall-cmd --list-all
 ```
+
 - List all currently allowed services:
+
 ```bash
 firewall-cmd --list-services
 ```
+
 - List all opened ports:
+
 ```bash
 firewall-cmd --list-ports
 ```
@@ -56,14 +59,12 @@ firewall-cmd --list-ports
 From <https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/security_guide/sec-viewing_current_status_and_settings_of_firewalld>
 
 # 4. Install PostgreSQL Database
-
 - By default ThingsBoard uses PostgreSQL database to store entities and timeseries data.
 
-## Install PostgreSQL
+## 4.1. Install PostgreSQL
 - Please use [this link](https://wiki.postgresql.org/wiki/Detailed_installation_guides) for the PostgreSQL installation instructions.
 
-### For CentOS 7
-
+### 4.1.1. For CentOS 7
 ```bash
 # Install the repository RPM (for CentOS 7):
 sudo yum -y install https://download.postgresql.org/pub/repos/yum/reporpms/EL-7-x86_64/pgdg-redhat-repo-latest.noarch.rpm
@@ -78,8 +79,7 @@ sudo systemctl start postgresql-12
 sudo systemctl enable --now postgresql-12
 ```
 
-### For CentOS 8
-
+### 4.1.2. For CentOS 8
 ```bash
 # Install the repository RPM (for CentOS 8):
 sudo yum -y install https://download.postgresql.org/pub/repos/yum/reporpms/EL-8-x86_64/pgdg-redhat-repo-latest.noarch.rpm
@@ -93,13 +93,13 @@ sudo systemctl start postgresql-12
 sudo systemctl enable --now postgresql-12
 ```
 
-## Change password
+## 4.2. Change password
 - Once PostgreSQL is installed you may want to
 	- Create a new user
 	- OR set the password for the the main user.
 - This instructions below will help to set the password for main postgresql user
 
-```
+```bash
 sudo su - postgres
 psql
 \password
@@ -108,7 +108,7 @@ psql
 
 - Then, press “Ctrl+D” to return to main user console.
 
-## Enable MD5 authentication
+## 4.3. Enable MD5 authentication
 - After configuring the password, edit the `pg_hba.conf` to use MD5 authentication with the postgres user.
 
 ```bash
@@ -130,7 +130,7 @@ host    all             all             127.0.0.1/32            ident
 host    all             all             127.0.0.1/32            md5
 ```
 
-## Restart PostgreSQL
+## 4.4. Restart PostgreSQL
 - Finally, you should restart the PostgreSQL service to initialize the new configuration:
 
 ```bash
@@ -139,26 +139,26 @@ sudo systemctl restart postgresql-12.service
 
 - Then, press “Ctrl+D” to return to main user console and connect to the database to create thingsboard DB:
 
-## Create Thingsboard database
+## 4.5. Create Thingsboard database
 - Access Postgre terminal:
 
-```
+```bash
 psql -U postgres -d postgres -h 127.0.0.1 -W
 ```
 
 - Create database:
 
-```
+```sql
 CREATE DATABASE thingsboard;
 ```
 
 - Exit Postgres terminal:
+
 ```bash
 \q
 ```
 
-## Additional command for PostgreSQL
-
+## 4.6. Additional command for PostgreSQL
 - List database:
 - List database: `\l`
 - Connect to database: `\c database_name`
@@ -193,29 +193,27 @@ From <https://www.geeksforgeeks.org/postgresql-psql-commands/>
 
 # 5. Setup environment in Intellij:
 
-## Clone thingsboard's repository
-
+## 5.1. Clone thingsboard's repository
 ```bash
 git clone https://github.com/thingsboard/thingsboard.git
 ```
 
-## Open Thingsboard in IntelliJ
+## 5.2. Open Thingsboard in IntelliJ
+- You can open Thingsboard Project at server over Remote Development (SSH) in IntelliJ
 
-## Get dependencies and build Thingsboard Project
-
+## 5.3. Get dependencies and build Thingsboard Project
 - In terminal tab in IntelliJ, run command:
 
 ```bash
+cd home/user/thingsboard
 mvn clean install -DskipTest
 ```
 
-## Connect Thingsboard with created PostgreSQL database 
-
+## 5.4. Connect Thingsboard with created PostgreSQL database 
 - In directory `\thingsboard\application\src\java\org\thingsboard\server`
 
-### Load Thingsboard schemas to Database
-
-```
+### 5.4.1. Load Thingsboard schemas to Database
+```txt
 SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/your_thingsboard_database_name
 SPRING_DATASOURCE_USERNAME=postgres
 SPRING_DATASOURCE_PASSWORD=1
@@ -225,9 +223,8 @@ install.data_dir=thingsboard\application\target\data      # Location of initiali
 
 ![[01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Install application.png]]
 
-### Connect database to Thingsboard server
-
-```
+### 5.4.2. Connect database to Thingsboard server
+```txt
 SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/your_thingsboard_database_name
 SPRING_DATASOURCE_USERNAME=postgres
 SPRING_DATASOURCE_PASSWORD=1
@@ -235,47 +232,45 @@ SPRING_DATASOURCE_PASSWORD=1
 
 ![[01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Server application.png]]
 
+- Run application `ThingsboardInstallApplication`
 
-## Running server-side service
+## 5.5. Running server-side service
 - There are multiple ways to start server-side container service at port 8080:
 
-### First option:
+### 5.5.1. First option:
 - You can run the main method of `org.thingsboard.server.ThingsboardServerApplication` class that is located in application module from your IDE.
 
-### Second option
+### 5.5.2. Second option:
 - You can start the server from command line as a regular Spring boot application:
+
 ```bash
 cd ${THINGSBOARD_DIR}
 java -jar application/target/thingsboard-${VERSION}-boot.jar
 ```
 
-## Running UI container in hot redeploy mode
+## 5.6. Running UI container in hot redeploy mode
 - Normally, port 8080 is the main application port.
 - However, there is hot redeploy mode which can be used to change frontend code without the need to restart backend.
 - To start UI in hot redeploy mode (at port 4200), run these commands:
 	- This will launch a special server that will listen on 4200 port. All REST API and websocket requests will be forwarded to 8080 port.
+
 ```bash
 cd ${THINGSBOARD_DIR}/ui-ngx
 mvn clean install -P yarn-start
 ```
 
-## Login Thingsboard
+## 5.7. Login Thingsboard
 - Navigate to <http://localhost:4200/> or <http://localhost:8080/> and login into ThingsBoard using demo data credentials:
 	- User: <tenant@thingsboard.org>
 	- Password: tenant
-
 - Any configuration (i.e. server port, username/password database) can be change in `thingsboard\application\src\java\org\thingsboard\server\thingsboard.yml`
 
 #
-
 ---
 
 - Status: #done
-
 - Tags: #thingsboard
-
 - References:
 	- [Source](https://thingsboard.io/docs/user-guide/install/rhel/)
 	- [Source2](https://www.jianshu.com/p/7ad9d265b953)
-
 - Related:

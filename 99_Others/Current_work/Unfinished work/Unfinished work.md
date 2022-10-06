@@ -31,12 +31,10 @@
 		- [ ] Not connect to MQTT server
 		- [ ] Accidental deletion prevention
 		- [ ] PIR frozen
-
 - [ ] Current work:
 	- [ ] Camera:
 		- [x] **Xin mở đường Ethernet mạng ngoài**
 		- [ ] Hệ thống hoạt động ko ổn định (11/7/2022)
-
 	- [ ] Gateway
 		- [ ] Quick CI/CD
 		- [ ] Verify newly added manufactureName from KKoen's repos
@@ -44,14 +42,9 @@
 		- [ ] Check bulb: auto select color_temp range
 			- [ ] => Have not found a way yet
 
-
-
-
-
-
+---
 
 - [ ] Pair programming?
-
 - [ ] Bài test GW => Hỏi Team VCar
 	- [ ] Tải
 		- [ ] Thiết bị
@@ -60,12 +53,9 @@
 	- [ ] Performance
 		- [ ] Công cụ Performance NodeJS (Clinic doctor)
 	- [ ] => Kế hoạch chi tiết
-
 - [ ] Test `option` in fromZ and toZ
 
-
-
-
+---
 
 - [ ] Platform
 	- [x] Thời gian phản hồi của platform
@@ -104,14 +94,13 @@
 	- [ ] MQTT
 - [x] GW z5
 
-
+---
 
 Mission:
 
 Values:
 
-
-
+---
 
 - Kiểm tra lại các thiết bị fail lúc nghiệm thu
 	- Do độ nhạy bản tin:
@@ -121,42 +110,55 @@ Values:
 - Bổ sung ảnh chứng minh lỗi của camera
 - Đặt lịch định kỳ họp chuyên môn vs anh Công
 
+---
 
+- Sự kiện 14/10:
+	- Kinh doanh thử nghiệm 3-6 tháng
+	- CĐS sẽ dựng IoT platform trên cloud của VHKT:
+	- Demo app trên IoT Platform:
+		- Ứng dụng tích hợp sẵn:
+			- Cảm biến khói Zigbee + NBIoT
+				- => Mua GW để demo
+				- **A Trình + a Tân** tích hợp
+			- Ứng dụng demo để tích hợp -> Tích hợp thiết bị
+				- Bãi đỗ xe
+				- Đồng hồ nước
+				- Backup: Tracking - Máy phát điện
+	- Chuẩn bị thông tin về IoT Platform:
+		- Slide:
+			- Thế mạnh:
+				- Hệ sinh thái
+					- Slide + Catalog các nhóm thiết bị đang được tích hợp Zigbee + Cellular
+					- Smart city + Smart home + Smart agriculture
+				- Giao thức
+	- Portal để mua Platform:
+		- Báo giá:
+			- Mô hình tính cước cloud IoT platform khác: Đóng vai startup hỏi thông tin
+				- AWS -> **Kiệt**
+				- Trung quốc -> **Mai Anh**
+	- Đặt tên
+		- Có liên quan đến Viettel
+- Quý 4:
+	- IoT Platform Cần bổ sung gì để kinh doanh được trên cloud -> Lộ trình
+		- Tính năng:
+			- ATTT
+			- API
+			- Time
+		- Tính cước
+		- Mô hình trên thế giới
+			- Bài toán đặt ra
+				- Cho team
+				- Cho CĐS
+		- Mục tiêu:
+			- Cung cấp cho khách hàng developer
+				- Cung cấp cho người dùng
+		- CMP tự làm
+		- AEP -> CĐS
+		- Lên danh sách đầu mục các công việc cần làm để phát triển IoT platform
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 
-
+#
 ---
 - Status: #writing
-
-- Tags: 
-
+- Tags:
 - References:
-	- 
-
 - Related:
-	- 
