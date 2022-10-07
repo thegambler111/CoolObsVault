@@ -4,7 +4,8 @@
 - We can measure distance in latent space and use it to determine how similar two points are.
 
 # Latent
-- We use the word “Latent” to refer to the compressed representation of data.
+- We usually use the word “Latent” to refer to the compressed representation of data.
+	- Yes, there is latent data that is not compressed at all
 - The encoder creates the latent representation from the input while the decoder reverses the process.
 
 # Latent space
