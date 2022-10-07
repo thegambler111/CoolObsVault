@@ -11,30 +11,33 @@
 - Connect through Ethernet
 - SSH into the machine with default user: root/1234
 	- Remove old hostkey if needed:
+
  ```bash
  ssh-keygen -R hostname
  ```
+
 - Select terminal type: zsh, instead of ~~bash~~
 - Set new account: labiot/Vtnet@1812
 - Update OS:
+
  ```bash
  sudo apt update
  sudo apt upgrade
  ```
 
+
 ## [Disable USB autosuspend](https://www.zigbee2mqtt.io/guide/faq/#zigbee2mqtt-crashes-after-some-time)
 - if `cat /sys/module/usbcore/parameters/autosuspend` returns `1` or `2`, USB autosuspend is enabled
 - To disable it, run
+
 ```bash
 sed -i 's/GRUB_CMDLINE_LINUX_DEFAULT="/&usbcore.autosuspend=-1 /' /etc/default/grub
 update-grub
 systemctl reboot
 ```
 
-
-## 
+##
 - NOTE: Disable wifi ?????
-
 
 # Setup Zigbee2MQTT
 
@@ -45,13 +48,16 @@ systemctl reboot
 ## Installation in Linux OS
 
 ### Determine location of the adapter and checking user permissions
+
 #### For Linux
 - Use this command to get the information:
 
 ```bash
 ls -l /dev/serial/by-id
 ```
+
 - => Example output:
+
 ```
 total 0 
 lrwxrwxrwx 1 root root 13 Mar  3 11:03 usb-ITead_Sonoff_Zigbee_3.0_USB_Dongle_Plus_cc121a1f3939ec11ae6de0680aac08d5-if00-port0 -> ../../ttyUSB0 
@@ -60,15 +66,20 @@ lrwxrwxrwx 1 root root 13 Mar  3 11:03 usb-ITead_Sonoff_Zigbee_3.0_USB_Dongle_Pl
 - [Check if current user has permission to connect to the adapter](https://www.zigbee2mqtt.io/guide/installation/20_zigbee2mqtt-fails-to-start.html#verify-that-the-user-you-run-zigbee2mqtt-as-has-write-access-to-the-port)
 - Location of mounted device to fill in `configuration.yaml` file:
 	- **(Recommended)** Using `/dev/tty*` path: Use the part after `->`
-		- In the example, it is `../../ttyUSB0` -> The path is `/dev/ttyUSB0`
+		- In the example, it is `../../ttyUSB0` 
+			- -> The path is `/dev/ttyUSB0`
+		- Sometimes, this value is changed. If that happens frequently, use the second option instead as it will never be changed
 	- Using the `/dev/serial/by-id/` path: Use the part after hour, before `->`
-		- In the example, it is `usb-ITead_Sonoff_Zigbee_3.0_USB_Dongle_Plus_cc121a1f3939ec11ae6de0680aac08d5-if00-port0` -> The path is `/dev/serial/by-id/usb-ITead_Sonoff_Zigbee_3.0_USB_Dongle_Plus_cc121a1f3939ec11ae6de0680aac08d5-if00-port0
-
+		- In the example, it is `usb-ITead_Sonoff_Zigbee_3.0_USB_Dongle_Plus_cc121a1f3939ec11ae6de0680aac08d5-if00-port0`
+			- -> The path is `/dev/serial/by-id/usb-ITead_Sonoff_Zigbee_3.0_USB_Dongle_Plus_cc121a1f3939ec11ae6de0680aac08d5-if00-port0
 - You can check the `/dev/serial/by-id/` path using `/dev/tty*` path:
+
 ```bash
 find -L /dev/serial/by-id/ -samefile /dev/ttyUSB0
 ```
+
 - => Example output:
+
 ```bash
 /dev/serial/by-id/usb-ITead_Sonoff_Zigbee_3.0_USB_Dongle_Plus_cc121a1f3939ec11ae6de0680aac08d5-if00-port0
 ```
@@ -78,6 +89,7 @@ find -L /dev/serial/by-id/ -samefile /dev/ttyUSB0
 > - `/dev/serial/by-id/` path depends on adapter devices
 
 - Another way of finding adapter is using `sudo dmesg`: [read more](https://www.zigbee2mqtt.io/guide/getting-started/#_1-find-the-zigbee-adapter)
+
 #### For Windows
 - Find port in 'Device manager'
 
@@ -87,7 +99,6 @@ find -L /dev/serial/by-id/ -samefile /dev/ttyUSB0
 - [Source](https://www.mathworks.com/help/supportpkg/arduinoio/ug/find-arduino-port-on-windows-mac-and-linux.html)
 
 ### Installing
-
 ```bash
 # Install Node.js and required dependencies
 # In Debian/Raspbian bullseye and up (11 and up), NodeJS v12.X is packaged, this is the safest method of installing NodeJS (from official repositories) for Zigbee2MQTT. Older i386 hardware can work with [unofficial-builds.nodejs.org](https://unofficial-builds.nodejs.org/download/release/v12.16.3/ e.g. Version 12.16.3 should work.
@@ -112,6 +123,7 @@ npm ci
 ### Add environmental variable
 - Fix error: JavaScript heap out of memory
 - Add this line (not include comments) to `~/.zshrc` file (for zsh) or `~/.bashrc` (for bash):
+
 ```bash
 # Increase Javascript heap memory (https://github.com/Koenkk/zigbee2mqtt/issues/12081)
 # Limit memory of OrangePiZero is 500MB
@@ -126,18 +138,17 @@ export NODE_OPTIONS=--max_old_space_size=300
 ```
 
 - Reload `~/.zshrc` for Debian OR `~/.bashrc` for Ubuntu
+
 ```bash
 source ~/.zshrc
 # OR
 source ~/.bashrc
 ```
 
-
 ### Configuring
-- Detailed configuration can be found here: https://www.zigbee2mqtt.io/guide/configuration/
-
-
+- Detailed configuration can be found here: <https://www.zigbee2mqtt.io/guide/configuration/>
 - Create `/opt/zigbee2mqtt/data/secret.yaml` file to store MQTT server authentication:
+
 ```bash
 user: admin
 password: admin
@@ -150,6 +161,7 @@ network_key: GENERATE
 	- base_topic: MQTT base topic for Zigbee2MQTT MQTT messages
 	- server: MQTT server URL
 	- user/password: MQTT server authentication
+
 ```yaml
 mqtt:
 base_topic: z2m/TBH/Z2
@@ -157,7 +169,9 @@ base_topic: z2m/TBH/Z2
   user: '!secret user' // admin
   password: '!secret password' // admin
 ```
+
 - Add:
+
 ```yaml
 # Disable join when starting Zigbee2MQTT. If enable here, joining will not automatically disable
 permit_join: false
@@ -174,6 +188,7 @@ external_converters:
 ```
 
 - Example configuration:
+
 ```yaml
 ```yaml
 homeassistant:
@@ -227,6 +242,7 @@ frontend:
   port: 8084
   host: 0.0.0.0
 ```
+
 ```
 
 
@@ -236,18 +252,18 @@ cd /opt/zigbee2mqtt
 npm start
 ```
 
-
 ## Running as a daemon with systemctl
 
 ### Setup
 - Purpose: To run Zigbee2MQTT as daemon (in background) and start it automatically on boot
-
 - Create a systemctl configuration file for Zigbee2MQTT
+
 ```bash
 sudo vi /etc/systemd/system/zigbee2mqtt.service
 ```
 
 - Paste the below into systemctl file:
+
 ```
 [Unit]
 Description=zigbee2mqtt
@@ -268,9 +284,11 @@ WantedBy=multi-user.target
 ```
 
 - Check directory of command `npm` and compare with field: ExecStart
+
 ```bash
 whereis npm
 ```
+
 - Compare username of Armbian with field: User
 - Change field StandardOutput if storage is limited: [Read here for more information](https://www.zigbee2mqtt.io/guide/installation/01_linux.html#optional-running-as-a-daemon-with-systemctl)
 
@@ -284,14 +302,13 @@ systemctl status zigbee2mqtt.service
 ```
 
 ### Run
-
 - Enable systemctl to start Zigbee2MQTT automatically on boot
+
 ```bash
 sudo systemctl enable zigbee2mqtt.service
 ```
 
 ### Check Zigbee2MQTT service status
-
 ```bash
 # Stopping Zigbee2MQTT
 sudo systemctl stop zigbee2mqtt
@@ -322,16 +339,14 @@ User=labiot
 [Install]
 WantedBy=multi-user.target
 ```
-- Source:
-	- https://gist.github.com/patoi/f725a9a39d0145bcda4c3796b6419db7
-	- https://gist.github.com/joepie91/73ce30dd258296bd24af23e9c5f761aa
 
+- Source:
+	- <https://gist.github.com/patoi/f725a9a39d0145bcda4c3796b6419db7>
+	- <https://gist.github.com/joepie91/73ce30dd258296bd24af23e9c5f761aa>
 
 ## Tuya.js
 
-
 # Update Zigbee2MQTT to the latest version
-
 ```bash
 # Stop Zigbee2MQTT and go to directory
 sudo systemctl stop zigbee2mqtt
@@ -353,10 +368,9 @@ rm -rf data-backup
 sudo systemctl start zigbee2mqtt
 ```
 
-
 # Configuration
-## Adapter settings
 
+## Adapter settings
 ```yaml
 serial:
   # Required: location of the adapter
@@ -371,7 +385,6 @@ advanced:
 - It's also possible to connect Adapters over TCP. See how to connect a [remote adapter](https://www.zigbee2mqtt.io/advanced/remote-adapter/connect_to_a_remote_adapter.html).
 
 ## MQTT
-
 ```yaml
 mqtt:
   # MQTT base topic for Zigbee2MQTT MQTT messages
@@ -382,6 +395,7 @@ mqtt:
   user: my_user
   password: my_password
 ```
+
 ```yaml
 advanced:
   # Disables the legacy api
@@ -400,7 +414,6 @@ advanced:
 ```
 
 ## Frontend
-
 ```yaml
 frontend:
   # Optional, default 8080
@@ -449,19 +462,17 @@ availability:
 ## Network map
 - Config appearance of network map => Skip
 
-
 ## External converters
 - You can define external converters to e.g. add support for a DiY device
+
 ```yaml
 external_converters:
   - tuya.js
 ```
 
-
 # Error handling
 
 ## Configuration is not consistent with adapter state/backup!
-
 - Behavior:
 	- Happened when start the app
 - Cause:
@@ -476,7 +487,7 @@ external_converters:
 		- Default logging to files under `data/log`
 - Solution:
 	- Change in file `/etc/systemd/system/zigbee2mqtt.service`, field StandardOutput
-	- Read here for more information: https://www.zigbee2mqtt.io/guide/installation/01_linux.html#optional-running-as-a-daemon-with-systemctl
+	- Read here for more information: <https://www.zigbee2mqtt.io/guide/installation/01_linux.html#optional-running-as-a-daemon-with-systemctl>
 
 ## Limited log files:
 - There are only 10 log folders
@@ -492,13 +503,11 @@ external_converters:
 - How to fix: Changing `configuration.yaml` file
 - => Problem might be in the default configuration file
 
-
 ## Error: JavaScript heap out of memory
 - Happened when build and allocated JavaScript memory is too low
 - How to fix: Add environmental variables (view in setup steps)
 
-
-##  Error: Could not locate the bindings file
+## Error: Could not locate the bindings file
 - Happened when update nodejs and npm
 - How to fix:
 	- Remove `sudo apt-get remove nodejs npm git make g++ gcc`
@@ -508,19 +517,10 @@ external_converters:
 - [Check if current user has permission to connect to the adapter](https://www.zigbee2mqtt.io/guide/installation/20_zigbee2mqtt-fails-to-start.html#verify-that-the-user-you-run-zigbee2mqtt-as-has-write-access-to-the-port)
 - `test -w [PORT] && echo success || echo failure` command does not work correctly, use it with caution
 
-
-
-
-
-# 
-
+#
 ---
 - Status: #writing
-
-- Tags: #z2m #IoT 
-
+- Tags: #z2m #IoT
 - References:
 	- [Source](https://www.zigbee2mqtt.io/guide/installation/01_linux.html#determine-location-of-the-adapter-and-checking-user-permissions)
-
 - Related:
-	- 

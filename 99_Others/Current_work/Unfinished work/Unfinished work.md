@@ -53,7 +53,6 @@
 	- [ ] Performance
 		- [ ] Công cụ Performance NodeJS (Clinic doctor)
 	- [ ] => Kế hoạch chi tiết
-- [ ] Test `option` in fromZ and toZ
 
 ---
 
@@ -100,15 +99,6 @@ Mission:
 
 Values:
 
----
-
-- Kiểm tra lại các thiết bị fail lúc nghiệm thu
-	- Do độ nhạy bản tin:
-		- Lỗi GW hay thiết bị
-			- Sniff bản tin
-		- So sánh với GW hãng
-- Bổ sung ảnh chứng minh lỗi của camera
-- Đặt lịch định kỳ họp chuyên môn vs anh Công
 
 ---
 
