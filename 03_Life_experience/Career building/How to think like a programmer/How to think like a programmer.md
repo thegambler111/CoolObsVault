@@ -47,7 +47,7 @@
 > Reduce the problem to the point where you know how to solve it and write the solution. Then expand the problem slightly and rewrite the solution to match, and keep going until you are back where you started.”
 >  — [V. Anton Spraul](http://vantonspraul.com/)
 
-## 4. Never give up
+## 4. Stuck?
 - What to do when you are stuck, when you can't even solve a sub-problem
 - First off, take a deep breath.
 - Second, that’s fair.
@@ -56,44 +56,52 @@
 
 ### How to
 - There are three things to try when facing a whammy:
-- Debug: Go step by step through your solution trying to find where you went wrong. 
+- Debug: Go step by step through your solution trying to find where you went wrong.
 	- Programmers call this _debugging_ (in fact, this is all a debugger does).
 
 > “The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.”” — Andrew Singer
 
 - Reassess:
-	- Take a step back
-	- Look at the problem from another perspective
-	- Is there anything that can be abstracted to a more general approach?
+	- Take a step back:
+		- Get away from your desk, take a walk
+			- Sometimes getting fresh air can help you decompress and approach your task with renewed energy.
+		- Look at the problem from another perspective
+			- Is there anything that can be abstracted to a more general approach?
+	- Another way of reassessing is starting anew.
+		- Delete everything and begin again with fresh eyes.
 
 > “Sometimes we get so lost in the details of a problem that we overlook general principles that would solve the problem at a more general level. […]
 
 > The classic example of this, of course, is the summation of a long list of consecutive integers, 1 + 2 + 3 + … + n, which a very young Gauss quickly recognized was simply n(n+1)/2, thus avoiding the effort of having to do the addition.” — [C. Jordan Ball](https://www.linkedin.com/in/cjordanball/)
 
-- Sidenote:
-	- Another way of reassessing is starting anew.
-	- Delete everything and begin again with fresh eyes.
-
 - Research:
-	- Ahh, good old Google.
 	- No matter what problem you have, someone has probably solved it.
-
-- Caveat:
+	- Use good old Google to find that person/ solution
 	- Don’t look for a solution to the big problem. Only look for solutions to sub-problems.
-	- Because unless you struggle, you won’t learn anything and wasted your time.
+		- Because unless you struggle, you won’t learn anything and wasted your time.
 
 ## Practice
-Don’t expect to be great after just one week. If you want to be a good problem-solver, solve a lot of problems!
+- If you want to be a good problem-solver, solve a lot of problems!
 
-Practice. Practice. Practice. It’ll only be a matter of time before you recognize that “this problem could easily be solved with insert concept here.”
+### How to
+- You can practice by solving chess puzzles, math problems, Sudoku, Go, Monopoly, video-games, cryptokitties, etc
+- Find something that allows you to solve many micro-problems (ideally, something you enjoy).
 
-How to practice? There are options out the wazoo!
+# Adopting the right mindset
+- Be persistent
+- Be patient
+- Think of a difficult problem as an opportunity to learn and grow
+	- Try to enjoy it
+- Keep your eye on the big picture, solve the "real" problem
 
-Chess puzzles, math problems, Sudoku, Go, Monopoly, video-games, cryptokitties, bla… bla… bla….
-
-So, what you should do is find an outlet to practice. Something that allows you to solve many micro-problems (ideally, something you enjoy).
-
-For example, I enjoy coding challenges. Every day, I try to solve at least one challenge (usually on [Coderbyte](https://coderbyte.com/) ).
+# Growing
+- Start as soon as possible
+- Break problems into smaller steps
+- Review your work
+- Use past experience to guide your future work
+- Think creatively
+- Develop a desire to improve your skills
+- Ask for help if you need it
 
 #
 ---
