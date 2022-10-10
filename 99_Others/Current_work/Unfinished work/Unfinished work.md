@@ -99,7 +99,6 @@ Mission:
 
 Values:
 
-
 ---
 
 - Sự kiện 14/10:
@@ -146,17 +145,7 @@ Values:
 		- AEP -> CĐS
 		- Lên danh sách đầu mục các công việc cần làm để phát triển IoT platform
 ---
-- Công việc
-	- Zigbee
-		- Tích hợp thiết bị có 1 số thiết bị đặc thù cần tích hợp tại phòng lab:
-			- Loa báo
-			- Lắp đặt dây nguồn
-			- Khu vực thử nghiệm tính năng
-- Tình trạng chỗ ngồi
-	- 6 người ngồi bàn làm việc
-	- 5 người ngồi bàn họp
-
-
+- Kiểm tra lại các dây usb tầng 2,6
 
 #
 ---
