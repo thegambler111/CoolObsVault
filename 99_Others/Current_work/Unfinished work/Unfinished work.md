@@ -154,8 +154,9 @@ Values:
 
 
 
-- Bổ sung GPU, làm tương tự CPU
+- Bổ sung GPU, làm tương tự CPU (Do hiện tại có nhiều ứng dụng cần sử dụng GPU để tối ưu thời gian tính toán)
 - Tốc độ đọc/ghi dữ liệu của RAM -> có gây ảnh hưởng đến các tác vụ không (do thời gian đọc/ghi của RAM thường nhỏ hơn ổ cứng nhiều)
+- Có cần định cỡ về năng lượng sử dụng?
 - 
 
 #

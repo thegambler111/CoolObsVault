@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03_Life_experience/Career building/How to think like a programmer/How to think like a programmer.md",
+            "file": "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md",
             "mode": "source",
             "source": false
           }
@@ -138,15 +138,15 @@
   },
   "active": "e24d94a390721e60",
   "lastOpenFiles": [
+    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md",
+    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup debug lauch.json/Z2M setup debug lauch.json.md",
+    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M python restart/Z2M python restart.md",
+    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M flash Gateway and USB Sonoff/Z2M flash Gateway and USB Sonoff.md",
+    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M fix static IP for GW/Z2M fix static IP for GW.md",
     "03_Life_experience/Career building/How to think like a programmer/How to think like a programmer.md",
     "99_Others/Current_work/Unfinished work/Unfinished work.md",
     "03_Life_experience/Growing up/7 lessons from Steve Jobs speech in 2005 at Stanford Uni/7 lessons from Steve Jobs speech in 2005 at Stanford Uni.md",
     "03_Life_experience/Career building/Principles for career building/Principles for career building.md",
-    "().md",
-    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
-    "01_Experience/IoT/Zigbee2MQTT/Documentations/Hardware information in Thai Binh building/Hardware information in Thai Binh building.md",
-    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M python restart/Z2M python restart.md",
-    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
-    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup debug lauch.json/Z2M setup debug lauch.json.md"
+    "().md"
   ]
 }
