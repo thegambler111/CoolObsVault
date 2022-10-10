@@ -146,6 +146,11 @@ Values:
 		- Lên danh sách đầu mục các công việc cần làm để phát triển IoT platform
 ---
 - Kiểm tra lại các dây usb tầng 2,6
+- Setup GW 14/10
+- Fix camera report
+- Read dung's report
+- Plan Platform
+- Plan Zigbee
 
 #
 ---
