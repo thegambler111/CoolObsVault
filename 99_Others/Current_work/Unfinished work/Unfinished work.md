@@ -152,6 +152,12 @@ Values:
 - Plan Platform
 - Plan Zigbee
 
+
+
+- Bổ sung GPU, làm tương tự CPU
+- Tốc độ đọc/ghi dữ liệu của RAM -> có gây ảnh hưởng đến các tác vụ không (do thời gian đọc/ghi của RAM thường nhỏ hơn ổ cứng nhiều)
+- 
+
 #
 ---
 - Status: #writing
