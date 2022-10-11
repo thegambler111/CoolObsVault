@@ -146,18 +146,14 @@ Values:
 		- Lên danh sách đầu mục các công việc cần làm để phát triển IoT platform
 ---
 - Kiểm tra lại các dây usb tầng 2,6
-- Setup GW 14/10
-- Fix camera report
-- Read dung's report
+- [ ] Setup GW 14/10
+	- [x] Raspberry
+	- [ ] Orange Pi Zero 2
+- [x] Fix camera report
+- Read Dung's report
+- Read Tu's report
 - Plan Platform
 - Plan Zigbee
-
-
-
-- Bổ sung GPU, làm tương tự CPU (Do hiện tại có nhiều ứng dụng cần sử dụng GPU để tối ưu thời gian tính toán)
-- Tốc độ đọc/ghi dữ liệu của RAM -> có gây ảnh hưởng đến các tác vụ không (do thời gian đọc/ghi của RAM thường nhỏ hơn ổ cứng nhiều)
-- Có cần định cỡ về năng lượng sử dụng?
-- 
 
 #
 ---
