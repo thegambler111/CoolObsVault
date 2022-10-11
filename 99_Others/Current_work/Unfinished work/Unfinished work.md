@@ -144,6 +144,7 @@ Values:
 		- AEP -> CĐS
 		- Lên danh sách đầu mục các công việc cần làm để phát triển IoT platform
 ---
+- Đặt lại lịch họp -> Sáng T4, chia 2 cuộc họp 2h
 - [ ] Kiểm tra lại các dây usb tầng 2,6
 	- [ ] Test dây usb
 - [ ] Setup GW 14/10
