@@ -144,17 +144,55 @@ Values:
 		- AEP -> CĐS
 		- Lên danh sách đầu mục các công việc cần làm để phát triển IoT platform
 ---
-- Kiểm tra lại các dây usb tầng 2,6
-	- Test dây usb
+- [ ] Kiểm tra lại các dây usb tầng 2,6
+	- [ ] Test dây usb
 - [ ] Setup GW 14/10
 	- [x] Raspberry
-	- [ ] Orange Pi Zero 2
+	- [ ] Orange Pi Zero 2 -> Đức
 - [x] Fix camera report
 - [ ] Báo cáo thống nhất ctkt ứng dụng app base
-- Read Dung's report
-- Read Tu's report
-- Plan Platform
-- Plan Zigbee
+	- [ ] Chuẩn bị slide
+- [x] Read Dung's report
+- [ ] Read Tú's report
+- [ ] Read Đức's report
+- [ ] Plan Platform
+	- [ ] Read Platform structure with Kiệt
+- [ ] Plan Zigbee
+	- [ ] Định cỡ
+		- [ ] Mở rộng theo chiều rộng (tính năng):
+			- Tích hợp với router wifi
+			- Kịch bản tự động tại GW
+			- Phân chia chức năng giữa GW và platform
+			- Tại sao MQTT?
+			- Thêm phương thức tích hợp: QR code?
+			- Tự động tạo profile thiết bị mới
+		- [ ] Mở rộng theo chiều sâu (code + tối ưu):
+			- Bổ sung tính năng:
+				- Theo Zigbee
+				- Theo GW
+			- Tính năng:
+				- Lựa chọn tần số
+				- Group
+				- Đánh giá phần cứng
+		- [ ] Lộ trình Zigbee:
+			- Về tính năng vs GW vendor
+			- Chạy song song với việc tối ưu
+		- [ ] Kế hoạch dài hạn:
+			- Kế hoạch năm, hoàn thành trong quý 4 -> Xin ngân sách
+				- Nhân sự
+				- Mua thiết bị
+				- Tư vấn
+				- Outsource
+	- [ ] Đánh giá lại công việc của Tú
+		- [ ] Giám sát
+		- [ ] Quản lý chất lượng
+		- [ ] Đánh giá Prometheus có phù hợp với GW ko? (về phần cứng)
+- [ ] Platform: Tập trung phần
+	- [ ] Transport
+	- [ ] Rule engine: -> Tham khảo Home Assistant
+		- Message
+		- Method
+	- [ ] A Công gợi ý: Làm sâu giao thức HTTP (do có nhiều mục đính sử dụng)
 
 ---
 - Tú:
