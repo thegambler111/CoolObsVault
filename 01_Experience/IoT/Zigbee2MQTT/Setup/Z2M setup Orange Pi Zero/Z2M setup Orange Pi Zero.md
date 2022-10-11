@@ -1,5 +1,12 @@
 # Flash new Armbian OS
 
+## Check MicroSD card read/write speed
+- Minimum 10MBytes/sec
+- [Source](https://docs.armbian.com/User-Guide_Getting-Started/#how-to-prepare-a-sd-card)
+
+## Use Rufus to format the MicroSD card
+- Choose FAT32 format
+
 ## Download Armbian for Orange Pi Zero
 - [Website](https://www.armbian.com/orange-pi-zero/)
 - Download **stable** version
@@ -12,13 +19,16 @@
 - SSH into the machine with default user: root/1234
 	- Remove old hostkey if needed:
 
+
  ```bash
  ssh-keygen -R hostname
  ```
 
+
 - Select terminal type: zsh, instead of ~~bash~~
 - Set new account: labiot/Vtnet@1812
 - Update OS:
+
 
  ```bash
  sudo apt update
@@ -66,7 +76,7 @@ lrwxrwxrwx 1 root root 13 Mar  3 11:03 usb-ITead_Sonoff_Zigbee_3.0_USB_Dongle_Pl
 - [Check if current user has permission to connect to the adapter](https://www.zigbee2mqtt.io/guide/installation/20_zigbee2mqtt-fails-to-start.html#verify-that-the-user-you-run-zigbee2mqtt-as-has-write-access-to-the-port)
 - Location of mounted device to fill in `configuration.yaml` file:
 	- **(Recommended)** Using `/dev/tty*` path: Use the part after `->`
-		- In the example, it is `../../ttyUSB0` 
+		- In the example, it is `../../ttyUSB0`
 			- -> The path is `/dev/ttyUSB0`
 		- Sometimes, this value is changed. If that happens frequently, use the second option instead as it will never be changed
 	- Using the `/dev/serial/by-id/` path: Use the part after hour, before `->`

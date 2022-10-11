@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "633fed83285d8d28",
+        "id": "78bd3889187b6d0f",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,12 +16,12 @@
         }
       },
       {
-        "id": "78bd3889187b6d0f",
+        "id": "37238950fc7ea738",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
+            "file": "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "network",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5007801055908
+    "width": 295.5036334991455
   },
   "right": {
     "id": "8e736dfd05cd9185",
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
+                "file": "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md"
+                "file": "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md"
               }
             }
           },
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b94a1955f054606b",
+  "active": "37238950fc7ea738",
   "lastOpenFiles": [
-    "01_Experience/IoT/Zigbee2MQTT/Code/Z2M pakage_json/Z2M pakage_json.md",
-    "01_Experience/IoT/Zigbee2MQTT/Code/Z2M MQTT/Z2M MQTT.md",
-    "01_Experience/IoT/Zigbee2MQTT/Code/Z2M debug node modules/Z2M debug node modules.md",
-    "01_Experience/IoT/Zigbee2MQTT/Code/Z2M code structure/Z2M code structure.md",
-    "01_Experience/IoT/Zigbee2MQTT/Code/Z2M adding new devices to converter/Z2M adding new devices to converter.md",
-    "01_Experience/IoT/Zigbee2MQTT/Code/Z2M add configure additional attributes (not in cluster)/Z2M add configure additional attributes (not in cluster).md",
+    "01_Experience/IoT/Zigbee2MQTT/Z2M flow/Zigbee-Document/sub_flow/4_declare_instance_controller_of_zigbee2mqtt.md",
+    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md",
+    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M flash Gateway and USB Sonoff/Z2M flash Gateway and USB Sonoff.md",
+    "01_Experience/IoT/Zigbee2MQTT/Documentations/How to use git in Z2M project/How to use git in Z2M project.md",
     "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
-    "99_Others/Current_work/Unfinished work/Unfinished work.md",
-    "01_Experience/IoT/Thingsboard/Documentation/Transport protocols/Transport protocols.md",
-    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M flash Gateway and USB Sonoff/Z2M flash Gateway and USB Sonoff.md"
+    "01_Experience/IoT/Some IoT notes/Some IoT notes.md",
+    "01_Experience/IoT/Zigbee2MQTT/Z2M flow/Zigbee-Document/README.md",
+    "01_Experience/IoT/Zigbee2MQTT/Z2M flow/Zigbee-Document/sub_flow/5_3_4_2_3_1_declare_class_znp_of_zstackadapter_(znp_=_zigbee_network_processor).md",
+    "01_Experience/IoT/Zigbee2MQTT/Z2M flow/Zigbee-Document/sub_flow/5_1_start_state_instance_of_zigbee2mqtt.md",
+    "01_Experience/IoT/Zigbee2MQTT/Z2M flow/Herdsman events/Ctrl C/Ctrl C.md"
   ]
 }
