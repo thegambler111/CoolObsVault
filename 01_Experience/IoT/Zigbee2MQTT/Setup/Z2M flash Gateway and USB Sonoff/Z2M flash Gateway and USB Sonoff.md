@@ -23,7 +23,7 @@ There are two ways for Dongle to enter Bootloader:
 #### Automatically enter the serial port Bootloader through a python script
 - Step to execute python script:
 
-1. [Download](https://sonoff.synology.me:5001/d/s/mkaJDnFsnqMHQA4kFty9lpMDBKfA764v/rKPut07ljxL6DF3nmYr-LyrBAxjLe4aS-2bHA65meKAk), unzip and execute the file
+1. [Download](https://sonoff.tech/wp-content/uploads/2022/08/uartLog.zip), unzip and execute the file
 
 ![](file:///C:/Users/HP/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png)
 
@@ -164,6 +164,7 @@ sudo reboot
 
 - References:
 	- [Source for USB flash](https://sonoff.tech/wp-content/uploads/2021/12/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-1-1.pdf)
+	- [(Updated 202208) Source](https://sonoff.tech/wp-content/uploads/2022/08/SONOFF-Zigbee-3.0-USB-dongle-plus-firmware-flashing-.pdf)
 
 - Related:
 	- 

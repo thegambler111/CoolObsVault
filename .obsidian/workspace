@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03_Life_experience/Habits/7 simple habits to prevent procrastination/7 simple habits to prevent procrastination.md",
+            "file": "99_Others/Crack/Intellij/Intellij.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/Habits/7 simple habits to prevent procrastination/7 simple habits to prevent procrastination.md",
+                "file": "99_Others/Crack/Intellij/Intellij.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Life_experience/Habits/7 simple habits to prevent procrastination/7 simple habits to prevent procrastination.md"
+                "file": "99_Others/Crack/Intellij/Intellij.md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "37238950fc7ea738",
   "lastOpenFiles": [
+    "01_Experience/IoT/Related accounts/Related accounts.md",
+    "01_Experience/IoT/Some IoT notes/Some IoT notes.md",
+    "99_Others/Current_work/Unfinished work/Unfinished work.md",
+    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M flash Gateway and USB Sonoff/Z2M flash Gateway and USB Sonoff.md",
     "03_Life_experience/Habits/7 simple habits to prevent procrastination/7 simple habits to prevent procrastination.md",
     "03_Life_experience/Career building/How to think like a programmer/How to think like a programmer.md",
-    "99_Others/Current_work/Unfinished work/Unfinished work.md",
     "03_Life_experience/Writing_Sharing is caring/Books/8 Books That Will Teach You All You Need to Know About Writing/8 Books That Will Teach You All You Need to Know About Writing.md",
     "03_Life_experience/Writing_Sharing is caring/Others/Become better at social media/Become better at social media.md",
     "03_Life_experience/Writing_Sharing is caring/Books/Show your work_Austin Kleon/Show your work_Austin Kleon.md",
-    "99_Others/Chrome/Extensions/Extensions.md",
-    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
-    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md",
-    "01_Experience/IoT/Zigbee2MQTT/Z2M flow/Zigbee-Document/sub_flow/4_declare_instance_controller_of_zigbee2mqtt.md"
+    "99_Others/Chrome/Extensions/Extensions.md"
   ]
 }

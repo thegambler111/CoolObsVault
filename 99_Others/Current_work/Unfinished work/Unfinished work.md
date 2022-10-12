@@ -32,7 +32,7 @@
 		- [ ] Accidental deletion prevention
 		- [ ] PIR frozen
 - [ ] Current work:
-	- [ ] Camera:
+	- [x] Camera:
 		- [x] **Xin mở đường Ethernet mạng ngoài**
 		- [ ] Hệ thống hoạt động ko ổn định (11/7/2022)
 	- [ ] Gateway
@@ -44,7 +44,7 @@
 
 ---
 
-- [ ] Pair programming?
+- [x] Pair programming?
 - [ ] Bài test GW => Hỏi Team VCar
 	- [ ] Tải
 		- [ ] Thiết bị
@@ -200,8 +200,12 @@ Values:
 	- Không liên quan code
 
 ---
-- Thống nhất app base
-- Loa Maika
+- Tổng hợp tính năng thiết bị IoT để gửi kèm CTKT
+- Thống nhất luồng thiết bị Cellular
+
+---
+
+# Daily:
 - Platform breakdown
 
 #
