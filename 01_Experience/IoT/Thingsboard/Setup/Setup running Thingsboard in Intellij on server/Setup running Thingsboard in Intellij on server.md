@@ -210,7 +210,7 @@ mvn clean install -DskipTest
 ```
 
 ## 5.4. Connect Thingsboard with created PostgreSQL database 
-- In directory `\thingsboard\application\src\java\org\thingsboard\server`
+- In directory `\thingsboard\application\src\main\java\org\thingsboard\server`
 
 ### 5.4.1. Load Thingsboard schemas to Database
 ```txt

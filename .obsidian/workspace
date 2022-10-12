@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "37238950fc7ea738",
+        "id": "56061e8bbd4b38b0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "99_Others/Crack/Intellij/Intellij.md",
+            "file": "03_Life_experience/Writing_Sharing is caring/Others/How to make people watch your video in Mr Beast way/How to make people watch your video in Mr Beast way.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99_Others/Crack/Intellij/Intellij.md",
+                "file": "03_Life_experience/Writing_Sharing is caring/Others/How to make people watch your video in Mr Beast way/How to make people watch your video in Mr Beast way.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99_Others/Crack/Intellij/Intellij.md"
+                "file": "03_Life_experience/Writing_Sharing is caring/Others/How to make people watch your video in Mr Beast way/How to make people watch your video in Mr Beast way.md"
               }
             }
           },
@@ -124,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37238950fc7ea738",
+  "active": "56061e8bbd4b38b0",
   "lastOpenFiles": [
+    "03_Life_experience/Others/7 insights on relationships to craft a good life/7 insights on relationships to craft a good life.md",
     "01_Experience/IoT/Related accounts/Related accounts.md",
+    "99_Others/Lab IoT Viettel/Internet Lab/Internet Lab.md",
     "01_Experience/IoT/Some IoT notes/Some IoT notes.md",
     "99_Others/Current_work/Unfinished work/Unfinished work.md",
-    "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M flash Gateway and USB Sonoff/Z2M flash Gateway and USB Sonoff.md",
-    "03_Life_experience/Habits/7 simple habits to prevent procrastination/7 simple habits to prevent procrastination.md",
-    "03_Life_experience/Career building/How to think like a programmer/How to think like a programmer.md",
-    "03_Life_experience/Writing_Sharing is caring/Books/8 Books That Will Teach You All You Need to Know About Writing/8 Books That Will Teach You All You Need to Know About Writing.md",
-    "03_Life_experience/Writing_Sharing is caring/Others/Become better at social media/Become better at social media.md",
-    "03_Life_experience/Writing_Sharing is caring/Books/Show your work_Austin Kleon/Show your work_Austin Kleon.md",
-    "99_Others/Chrome/Extensions/Extensions.md"
+    "03_Life_experience/Mediation/6 Steps To Fall Asleep In Under 2 Mins/6 Steps To Fall Asleep In Under 2 Mins.md",
+    "03_Life_experience/Mediation/Meditation - The Art of Doing Nothing/Meditation - The Art of Doing Nothing.md",
+    "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Setup running Thingsboard in Intellij on server.md",
+    "01_Experience/IoT/Thingsboard/Documentation/Samples/Samples.md",
+    "01_Experience/IoT/Thingsboard/Documentation/Documentation links/Documentation links.md"
   ]
 }
