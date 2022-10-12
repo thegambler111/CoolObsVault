@@ -144,7 +144,7 @@ Values:
 		- AEP -> CĐS
 		- Lên danh sách đầu mục các công việc cần làm để phát triển IoT platform
 ---
-- Đặt lại lịch họp -> Sáng T4, chia 2 cuộc họp 2h
+- [ ] Đặt lại lịch họp -> Sáng T4, chia 2 cuộc họp 2h
 - [ ] Kiểm tra lại các dây usb tầng 2,6
 	- [ ] Test dây usb
 - [ ] Setup GW 14/10
@@ -194,54 +194,15 @@ Values:
 		- Message
 		- Method
 	- [ ] A Công gợi ý: Làm sâu giao thức HTTP (do có nhiều mục đính sử dụng)
-
----
-- Tú:
-	- Quản lý chất lượng GW + Platform
-	- Test chất lượng
-	- Yêu cầu phần cứng
-		- -> Đánh giá lại: cân bằng phần cứng ~ giám sát gì
-	- Cần giám sát gì, lược bỏ cái không cần thiết
-- Đức:
-	- Test GW
-
-=> Nhìn lại tính năng, chất lượng GW
-
-- GW
-	- **Mở rộng theo chiều rộng**: -> Báo cáo với sếp theo hướng này
-		- Tích hợp với router wifi
-		- Kịch bản tự động tại GW
-		- Phân chia chức năng giữa GW và platform
-		- Tại sao MQTT?
-		- Thêm phương thức tích hợp: QR code?
-		- Tự động tạo profile thiết bị mới
-	- **Mở rộng theo chiều sâu**:
-		- Bổ sung tính năng:
-			- Theo Zigbee
-			- Theo GW
-		- Tính năng:
-			- Lựa chọn tần số
-			- Group
-			- Đánh giá phần cứng
-	- Lộ trình Zigbee:
-		- Về tính năng vs GW vendor
-		- Chạy song song với việc tối ưu
-	- Kế hoạch dài hạn:
-		- Kế hoạch năm, hoàn thành trong quý 4 -> Xin ngân sách
-			- Nhân sự
-			- Mua thiết bị
-			- Tư vấn
-			- Outsource
-- Platform:
-	- Transport
-	- Rule engine: -> Tham khảo Home Assistant
-		- Message
-		- Method
-	- A Công gợi ý: Làm sâu HTTP
-- Tài liệu VTNet
+- [ ] Tài liệu VTNet
 	- Lựa chọn kiến trúc
 	- Lựa chọn môi trường
 	- Không liên quan code
+
+---
+- Thống nhất app base
+- Loa Maika
+- Platform breakdown
 
 #
 ---
