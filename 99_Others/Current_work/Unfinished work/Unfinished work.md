@@ -206,6 +206,8 @@ Values:
 ---
 
 # Daily:
+- Verify writing Duc and Trung
+- Help Tu setup
 - Platform breakdown
 
 #
