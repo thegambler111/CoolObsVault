@@ -77,7 +77,7 @@
 
 ```
 
-# Extensions
+# Extensions for JavaScript
 - Prettier
 - ESLint
 - Prettier ESLint
@@ -91,25 +91,9 @@
 - GitLens — Git supercharged
 - autoDocstring - Python Docstring Generator
 
-
-
-
-
-
-
-
-
-
-
-# 
-
+#
 ---
 - Status: #done
-
-- Tags: #vscode 
-
+- Tags: #vscode
 - References:
-	- 
-
 - Related:
-	- 
