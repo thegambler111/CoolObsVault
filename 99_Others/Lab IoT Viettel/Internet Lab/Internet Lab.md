@@ -13,7 +13,7 @@
 	- Nhakhanh@1212
 
 # Deco
-- Nguyenminhthi90
+- nguyenminhthi90@gmail.com
 - Jerry@2412
 
 #

@@ -201,6 +201,12 @@ git clone https://github.com/thingsboard/thingsboard.git
 ## 5.2. Open Thingsboard in IntelliJ
 - You can open Thingsboard Project at server over Remote Development (SSH) in IntelliJ
 
+## Setup SDK
+- Select: File -> Project structure
+
+![[01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/sdk.png]
+
+
 ## 5.3. Get dependencies and build Thingsboard Project
 - In terminal tab in IntelliJ, run command:
 
