@@ -201,13 +201,17 @@ git clone https://github.com/thingsboard/thingsboard.git
 ## 5.2. Open Thingsboard in IntelliJ
 - You can open Thingsboard Project at server over Remote Development (SSH) in IntelliJ
 
-## Setup SDK
+## 5.3. Install npm
+```bash
+sudo yum install npm
+```
+
+## 5.4. Setup SDK
 - Select: File -> Project structure
 
-![[npm]]
+![[01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/sdk.png]]
 
-
-## 5.3. Get dependencies and build Thingsboard Project
+## 5.5. Get dependencies and build Thingsboard Project
 - In terminal tab in IntelliJ, run command:
 
 ```bash
@@ -215,10 +219,10 @@ cd home/user/thingsboard
 mvn clean install -DskipTests
 ```
 
-## 5.4. Connect Thingsboard with created PostgreSQL database 
+## 5.6. Connect Thingsboard with created PostgreSQL database 
 - In directory `\thingsboard\application\src\main\java\org\thingsboard\server`
 
-### 5.4.1. Load Thingsboard schemas to Database
+### 5.6.1. Load Thingsboard schemas to Database
 ```txt
 SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/your_thingsboard_database_name
 SPRING_DATASOURCE_USERNAME=postgres
@@ -229,7 +233,7 @@ install.data_dir=thingsboard\application\target\data      # Location of initiali
 
 ![[01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Install application.png]]
 
-### 5.4.2. Connect database to Thingsboard server
+### 5.6.2. Connect database to Thingsboard server
 ```txt
 SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/your_thingsboard_database_name
 SPRING_DATASOURCE_USERNAME=postgres
@@ -240,13 +244,13 @@ SPRING_DATASOURCE_PASSWORD=1
 
 - Run application `ThingsboardInstallApplication`
 
-## 5.5. Running server-side service
+## 5.7. Running server-side service
 - There are multiple ways to start server-side container service at port 8080:
 
-### 5.5.1. First option:
+### 5.7.1. First option:
 - You can run the main method of `org.thingsboard.server.ThingsboardServerApplication` class that is located in application module from your IDE.
 
-### 5.5.2. Second option:
+### 5.7.2. Second option:
 - You can start the server from command line as a regular Spring boot application:
 
 ```bash
@@ -254,7 +258,7 @@ cd ${THINGSBOARD_DIR}
 java -jar application/target/thingsboard-${VERSION}-boot.jar
 ```
 
-## 5.6. Running UI container in hot redeploy mode
+## 5.8. Running UI container in hot redeploy mode
 - Normally, port 8080 is the main application port.
 - However, there is hot redeploy mode which can be used to change frontend code without the need to restart backend.
 - To start UI in hot redeploy mode (at port 4200), run these commands:
@@ -265,7 +269,7 @@ cd ${THINGSBOARD_DIR}/ui-ngx
 mvn clean install -P yarn-start
 ```
 
-## 5.7. Login Thingsboard
+## 5.9. Login Thingsboard
 - Navigate to <http://localhost:4200/> or <http://localhost:8080/> and login into Thingsboard using demo data credentials:
 	- User: <tenant@thingsboard.org>
 	- Password: tenant
@@ -273,7 +277,6 @@ mvn clean install -P yarn-start
 
 #
 ---
-
 - Status: #done
 - Tags: #thingsboard
 - References:
