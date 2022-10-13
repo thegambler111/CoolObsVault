@@ -78,3 +78,4 @@
 	- [Rule 16 source](https://twitter.com/dickiebush/status/1432714944387158023)
 	- [Rule 18 source](https://twitter.com/dickiebush/status/1420177361295880192)
 - Related:
+	- Rule 16: [[03_Life_experience/Storytelling/3 frameworks to build your story-spotting muscle from storyworthy/3 frameworks to build your story-spotting muscle from storyworthy]]
