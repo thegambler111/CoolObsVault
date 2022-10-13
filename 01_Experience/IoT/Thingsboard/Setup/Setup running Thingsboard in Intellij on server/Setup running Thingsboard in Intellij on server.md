@@ -204,7 +204,7 @@ git clone https://github.com/thingsboard/thingsboard.git
 ## Setup SDK
 - Select: File -> Project structure
 
-![[01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/sdk.png]
+![[npm]]
 
 
 ## 5.3. Get dependencies and build Thingsboard Project
@@ -212,7 +212,7 @@ git clone https://github.com/thingsboard/thingsboard.git
 
 ```bash
 cd home/user/thingsboard
-mvn clean install -DskipTest
+mvn clean install -DskipTests
 ```
 
 ## 5.4. Connect Thingsboard with created PostgreSQL database 

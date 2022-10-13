@@ -1,6 +1,7 @@
 ## **CTRL + C on terminal**
 
-![](https://i.ibb.co/DpnHTFN/CTRL-C-drawio.png)
+![](https://i.ibb.co/cy17NGX/Ctrl-C-official1.png)
+
 ### **Step 1: SIGTERM signal will trigger the stop process**
 
 ### **Step 2: Stop all extension of zigbee2mqtt**
