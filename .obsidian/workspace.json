@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Experience/Code/Java/BigDecimal/BigDecimal.md",
+                "file": "03_Life_experience/Learn to sell - Business building/12 pricing psychology tips to help you sell more stuff/12 pricing psychology tips to help you sell more stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Experience/Code/Java/BigDecimal/BigDecimal.md",
+                "file": "03_Life_experience/Learn to sell - Business building/12 pricing psychology tips to help you sell more stuff/12 pricing psychology tips to help you sell more stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Experience/Code/Java/BigDecimal/BigDecimal.md"
+                "file": "03_Life_experience/Learn to sell - Business building/12 pricing psychology tips to help you sell more stuff/12 pricing psychology tips to help you sell more stuff.md"
               }
             }
           },
@@ -150,15 +150,15 @@
   },
   "active": "abb4f9afcf7f701b",
   "lastOpenFiles": [
-    "01_Experience/Code/Java/a=a++/a=a++.md",
+    "03_Life_experience/Learn to sell - Business building/7 ways to make your price look like a steal without discounts/7 ways to make your price look like a steal without discounts.md",
+    "03_Life_experience/Learn to sell - Business building/12 pricing psychology tips to help you sell more stuff/12 pricing psychology tips to help you sell more stuff.md",
+    "03_Life_experience/Storytelling/The Heroic Customer Story framework/The Heroic Customer Story framework.md",
+    "03_Life_experience/Storytelling/Framework - Hero's journey/Framework - Hero's journey.md",
+    "03_Life_experience/Writing_Sharing is caring/Others/Self reviewing your writing_13 common mistakes/Self reviewing your writing_13 common mistakes.md",
+    "03_Life_experience/Reading book/A few good rules for reading/A few good rules for reading.md",
+    "03_Life_experience/Writing_Sharing is caring/Others/English crash course/English crash course.md",
+    "03_Life_experience/Learn to sell - Business building/Create buying trigger/Create buying trigger.md",
     "01_Experience/Code/Java/BigDecimal/BigDecimal.md",
-    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
-    "01_Experience/IoT/Thingsboard/Documentation/Samples/Samples.md",
-    "01_Experience/IoT/Thingsboard/Documentation/Documentation links/Documentation links.md",
-    "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Setup running Thingsboard in Intellij on server.md",
-    "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Server application.png",
-    "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/sdk.png",
-    "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Install application.png",
-    "01_Experience/IoT/Some IoT notes/Some IoT notes.md"
+    "01_Experience/Code/Java/a=a++/a=a++.md"
   ]
 }
