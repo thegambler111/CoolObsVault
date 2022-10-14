@@ -1,6 +1,6 @@
 ## **CTRL + C on terminal**
 
-![](https://i.ibb.co/cy17NGX/Ctrl-C-official1.png)
+![](https://i.ibb.co/tcHGPCz/Ctrl-C-1-4.png)
 
 ### **Step 1: SIGTERM signal will trigger the stop process**
 

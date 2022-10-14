@@ -13,42 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Life_experience/Storytelling/3 frameworks to build your story-spotting muscle from storyworthy/3 frameworks to build your story-spotting muscle from storyworthy.md",
+                "file": "01_Experience/Code/Java/a=a++/a=a++.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "55d1374838390dff",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d7d6efaa83a9334c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Life_experience/Storytelling/Pixar 22 Rules For Storytelling/Pixar 22 Rules For Storytelling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75e7d7d7bf232db9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
               }
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -114,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/Storytelling/Pixar 22 Rules For Storytelling/Pixar 22 Rules For Storytelling.md",
+                "file": "01_Experience/Code/Java/a=a++/a=a++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Life_experience/Storytelling/Pixar 22 Rules For Storytelling/Pixar 22 Rules For Storytelling.md"
+                "file": "01_Experience/Code/Java/a=a++/a=a++.md"
               }
             }
           },
@@ -164,17 +136,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "75e7d7d7bf232db9",
+  "active": "abb4f9afcf7f701b",
   "lastOpenFiles": [
-    "03_Life_experience/Storytelling/3 frameworks to build your story-spotting muscle from storyworthy/3 frameworks to build your story-spotting muscle from storyworthy.md",
-    "03_Life_experience/Storytelling/Pixar 22 Rules For Storytelling/Pixar 22 Rules For Storytelling.md",
-    "03_Life_experience/Storytelling/3 keys to creating an effective villain/3 keys to creating an effective villain.md",
-    "99_Others/Lab IoT Viettel/Internet Lab/Internet Lab.md",
-    "03_Life_experience/Storytelling/10 dead-simple tips to become a better storyteller/10 dead-simple tips to become a better storyteller.md",
-    "03_Life_experience/Storytelling/Interesting stories/Interesting stories.md",
-    "03_Life_experience/Writing_Sharing is caring/Others/How to make people watch your video in Mr Beast way/How to make people watch your video in Mr Beast way.md",
+    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
+    "01_Experience/IoT/Thingsboard/Documentation/Samples/Samples.md",
+    "01_Experience/IoT/Thingsboard/Documentation/Documentation links/Documentation links.md",
     "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Setup running Thingsboard in Intellij on server.md",
+    "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Server application.png",
     "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/sdk.png",
-    "01_Experience/IoT/Thingsboard/Documentation/Samples/Samples.md"
+    "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Install application.png",
+    "01_Experience/IoT/Some IoT notes/Some IoT notes.md",
+    "01_Experience/IoT/Courses/Courses.md",
+    "01_Experience/IoT/MQTT/MQTT Essentials/MQTT Essentials.md"
   ]
 }
