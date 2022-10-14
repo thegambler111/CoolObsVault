@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "01_Experience/Code/Java/BigDecimal/BigDecimal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b695780463a6a762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "01_Experience/Code/Java/a=a++/a=a++.md",
                 "mode": "source",
                 "source": false
@@ -70,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5007801055908
+    "width": 243.50260543823242
   },
   "right": {
     "id": "8e736dfd05cd9185",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Experience/Code/Java/a=a++/a=a++.md",
+                "file": "01_Experience/Code/Java/BigDecimal/BigDecimal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Experience/Code/Java/a=a++/a=a++.md"
+                "file": "01_Experience/Code/Java/BigDecimal/BigDecimal.md"
               }
             }
           },
@@ -138,6 +150,8 @@
   },
   "active": "abb4f9afcf7f701b",
   "lastOpenFiles": [
+    "01_Experience/Code/Java/a=a++/a=a++.md",
+    "01_Experience/Code/Java/BigDecimal/BigDecimal.md",
     "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
     "01_Experience/IoT/Thingsboard/Documentation/Samples/Samples.md",
     "01_Experience/IoT/Thingsboard/Documentation/Documentation links/Documentation links.md",
@@ -145,8 +159,6 @@
     "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Server application.png",
     "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/sdk.png",
     "01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Install application.png",
-    "01_Experience/IoT/Some IoT notes/Some IoT notes.md",
-    "01_Experience/IoT/Courses/Courses.md",
-    "01_Experience/IoT/MQTT/MQTT Essentials/MQTT Essentials.md"
+    "01_Experience/IoT/Some IoT notes/Some IoT notes.md"
   ]
 }
