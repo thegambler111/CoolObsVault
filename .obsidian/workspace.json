@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "294d91928a095836",
+        "id": "a0b2fc1d11f003da",
         "type": "tabs",
         "children": [
           {
-            "id": "abb4f9afcf7f701b",
+            "id": "55556f6ceae12749",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Life_experience/Learn to sell - Business building/12 pricing psychology tips to help you sell more stuff/12 pricing psychology tips to help you sell more stuff.md",
+                "file": "03_Life_experience/Leadership/9 rules to build an ecosystem and workforce/9 rules to build an ecosystem and workforce.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b695780463a6a762",
+            "id": "a9c4ecc10dcf5820",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Experience/Code/Java/a=a++/a=a++.md",
+                "file": "03_Life_experience/Leadership/9 rules to build an ecosystem and workforce/9 rules to build an ecosystem and workforce.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#story_telling_tips",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.50260543823242
+    "width": 274.5007801055908
   },
   "right": {
     "id": "8e736dfd05cd9185",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/Learn to sell - Business building/12 pricing psychology tips to help you sell more stuff/12 pricing psychology tips to help you sell more stuff.md",
+                "file": "03_Life_experience/Leadership/9 rules to build an ecosystem and workforce/9 rules to build an ecosystem and workforce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Life_experience/Learn to sell - Business building/12 pricing psychology tips to help you sell more stuff/12 pricing psychology tips to help you sell more stuff.md"
+                "file": "03_Life_experience/Leadership/9 rules to build an ecosystem and workforce/9 rules to build an ecosystem and workforce.md"
               }
             }
           },
@@ -148,17 +148,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "abb4f9afcf7f701b",
+  "active": "55556f6ceae12749",
   "lastOpenFiles": [
-    "03_Life_experience/Learn to sell - Business building/7 ways to make your price look like a steal without discounts/7 ways to make your price look like a steal without discounts.md",
-    "03_Life_experience/Learn to sell - Business building/12 pricing psychology tips to help you sell more stuff/12 pricing psychology tips to help you sell more stuff.md",
-    "03_Life_experience/Storytelling/The Heroic Customer Story framework/The Heroic Customer Story framework.md",
+    "03_Life_experience/Leadership/__10 ideas for building great culture in a distributed team/__10 ideas for building great culture in a distributed team.md",
+    "03_Life_experience/Leadership/Weekly memo that moves your business forward/Weekly memo that moves your business forward.md",
+    "03_Life_experience/Leadership/13 concepts to understand before you lead a team/13 concepts to understand before you lead a team.md",
+    "99_Others/Setup/templates/base_template.md",
+    "99_Others/Setup/templates/book_template.md",
+    "99_Others/Current_work/Unfinished work/Unfinished work.md",
+    "03_Life_experience/Others/3 big advice lies/3 big advice lies.md",
+    "03_Life_experience/Others/15 rules may change your life/15 rules may change your life.md",
     "03_Life_experience/Storytelling/Framework - Hero's journey/Framework - Hero's journey.md",
-    "03_Life_experience/Writing_Sharing is caring/Others/Self reviewing your writing_13 common mistakes/Self reviewing your writing_13 common mistakes.md",
-    "03_Life_experience/Reading book/A few good rules for reading/A few good rules for reading.md",
-    "03_Life_experience/Writing_Sharing is caring/Others/English crash course/English crash course.md",
-    "03_Life_experience/Learn to sell - Business building/Create buying trigger/Create buying trigger.md",
-    "01_Experience/Code/Java/BigDecimal/BigDecimal.md",
-    "01_Experience/Code/Java/a=a++/a=a++.md"
+    "03_Life_experience/Storytelling/Books to level up your storytelling/Books to level up your storytelling.md"
   ]
 }
