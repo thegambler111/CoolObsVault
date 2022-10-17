@@ -196,11 +196,17 @@ Values:
 				- Nhận dữ liệu -> xử lý payload -> Rule chain
 - HTTP:
 	- Quy hoạch
-- CTKT GW:
+- CTKT GW: -> Assign
+	- Phần cứng
 	- Tính năng
-	- Hiệu năng
-- App base -> chậm
-
+		- Coordinator: Mạng Zigbee
+		- GW: MQTT
+	- Hiệu năng:
+		- Zigbee:
+			- Khả năng quản lý:
+		- GW:
+			- Wifi/Ethernet
+			- Ipv6
 
 ---
 
@@ -210,7 +216,7 @@ Values:
 - Help Tu setup
 - Platform breakdown
 - [x] FTTH
-- Update GW HCM
+- [x] Update GW HCM
 - Chuyển cảm biến Moes -> HCM
 - [x] Anh Tân
 

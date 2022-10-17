@@ -9,13 +9,11 @@
 - Update remote repo: `git push`
 - Update remote reference: `git fetch`
 - Combine 2 branches: `git merge` or `git rebase`
-
-
+``
 # What is Git
 - Git is a free and open source distributed version control system
 	- It is used to store the development history of any projects
 	- You can easily change the state of your project to previous version
-
 
 # Git components
 
@@ -54,6 +52,7 @@
 	- SSH
 	- GitHub CLI
 - Git clone command:
+
 ```bash
 git clone your_remote_repo_address
 ```
@@ -65,6 +64,7 @@ git clone your_remote_repo_address
 		- Your current branch
 		- Your local branch state compared to tracking remote branch state
 		- Your code state compared to the last commit
+
 ```bash
 git status
 ```
@@ -74,18 +74,25 @@ git status
 
 ### Git branch commands
 - To show all remotes:
+
 ```bash
 git remote show
 ```
+
 - To add new remote:
+
 ```bash
 git remote add new_remote_name new_remote_repo_address
 ```
+
 - To delete remote:
+
 ```bash
 git remote remove remote_name
 ```
+
 - To rename remote:
+
 ```bash
 git remote rename old_remote_name new_remote_name
 ```
@@ -95,22 +102,26 @@ git remote rename old_remote_name new_remote_name
 
 ### Git branch commands
 - To show all your branches:
+
 ```bash
 git branch
 ```
+
 - To delete a branch:
 	- `-d` will not allow you to delete your branch if it has not been merge to its tracking remote branch
 	- `-D` = `-d` + `-f`
+
 ```bash
 git branch -d your_branch_namne
 OR
 git branch -D your_branch_namne
 ```
+
 - To create a new branch:
+
 ```bash
 git branch your_new_branch_name
 ```
-
 
 ## Git checkout
 - Git checkout is used to move between branches
@@ -118,11 +129,14 @@ git branch your_new_branch_name
 ### Git checkout commands
 - To move to a specific branch
 	- If you checkout a branch not on local but there is a branch with the same name exist on remote, git will create a new branch with the commit history of that remote branch
+
 ```bash
 git checkout your_branch_name
 ```
+
 - To create a new branch and move to it:
 	- Your new branch will have the same commits history as the branch when you checkout
+
 ```bash
 git checkout -b your_new_branch_name
 ```
@@ -133,28 +147,35 @@ git checkout -b your_new_branch_name
 ### Git switch commands
 - To move to a specific branch:
 	- This will not create a new branch in any situation
+
 ```bash
 git switch your_branch_name
 ```
+
 - To create a new branch and tell it to track a specific remote branch:
+
 ```bash
 git switch -c your_new_branch_name your_tracking_remote_branch
 ```
-
 
 ## Git add
 - Git add is used to move your changes from working area to staging area, preparing to commit
 
 ### Git add commands
 - To add changed files:
+
 ```bash
 git add file1 file2 file3
 ```
+
 - To add all changed files:
+
 ```bash
 git add .
 ```
+
 - NOTE: To remove staged/added files:
+
 ```bash
 git restore --stage file1 file2
 ```
@@ -164,14 +185,19 @@ git restore --stage file1 file2
 
 ### Git commit commands
 - To commit all staged changes:
+
 ```bash
 git commit -m "your_commit_messagee"
 ```
+
 - To add all staged changes to the last commit:
+
 ```bash
 git commit --amend -m "your_commit_messagee"
 ```
+
 - To add all staged changes to the last commit without changing commit message:
+
 ```bash
 git commit --amend --no-edit
 ```
@@ -186,51 +212,59 @@ git commit --amend --no-edit
 		- Author
 		- Commit time
 		- Commit message
+
 ```bash
 git log
 ```
+
 - To view the short version of commit history:
 	- Showed information of each commit:
 		- Short commit code
 		- Commit message
+
 ```bash
 git log --oneine
 ```
+
 - To view the short version of commit history with graph showing relation of commits:
+
 ```bash
 git log --oneine --graph
 ```
-
 
 ## Git reset
 - Git reset is used to undo some commits
 
 ### Git reset commands
 - To remove commits but keep changes:
+
 ```bash
 git reset last_kept_commit_code
 ```
+
 - To remove commits and changes:
+
 ```bash
 git reset -h last_kept_commit_code
 ```
 
-
 ## Git push
 - Git push is used to move your changes from local repository to remote repository
+
 ```bash
 git push remote_repo_name local_branch_name:remote_branch_name
 ```
 
-
 ## Git fetch
 - Git fetch is used to update your remote-tracking reference to remote repository
+
 ```bash
 git fetch remote_repo_name
 ```
 
 ## Git merge
 - Git merge is used to combine commits another branch to your current branch
+
 ```bash
 git merge another_branch_name
 ```
@@ -240,28 +274,18 @@ git merge another_branch_name
 	- Copy commit history of another branch
 	- Check if there are any new commits in the current branch compared to the other branch
 	- Add all new commits after the other branch commits
+
 ```bash
 git rebase another_branch_name
 ```
-
-
 
 # Additional material
 - [Learn Git series - Youtube](https://www.youtube.com/playlist?list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU)
 - [Git introduction](https://viblo.asia/p/gioi-thieu-ve-git-aWj53448K6m)
 
-
-
-
-# 
-
+#
 ---
 - Status: #done
-
 - Tags: #git
-
 - References:
-	- 
-
 - Related:
-	- 
