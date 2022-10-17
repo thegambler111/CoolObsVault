@@ -157,7 +157,7 @@ source ~/.bashrc
 
 ### Configuring
 - Detailed configuration can be found here: <https://www.zigbee2mqtt.io/guide/configuration/>
-- Create `/opt/zigbee2mqtt/data/secret.yaml` file to store MQTT server authentication:
+- (Optional) Create `/opt/zigbee2mqtt/data/secret.yaml` file to store MQTT server authentication:
 
 ```bash
 user: admin
@@ -193,18 +193,16 @@ advanced:
 frontend:
   port: 8084
   host: 0.0.0.0
-external_converters:
-  - tuya.js
 ```
 
+- For `homeassistant`, set: `legacy_triggers: false` so that `action` attribute in scene switch is not empty in the report
 - Example configuration:
 
 ```yaml
-```yaml
 homeassistant:
   discovery_topic: homeassistant
-  legacy_entity_attributes: true
-  legacy_triggers: true
+  legacy_entity_attributes: false
+  legacy_triggers: false
   status_topic: hass/status
 permit_join: false
 mqtt:
@@ -233,7 +231,7 @@ advanced:
     type: '5424'
   transmit_power: 20
   channel: 25
-  ext_pan_id: # Change
+  ext_pan_id: # Pls change
     - 222
     - 222
     - 222
@@ -242,7 +240,7 @@ advanced:
     - 222
     - 222
     - 222
-  pan_id: 6821 # Change
+  pan_id: 6821 # Pls change
   legacy_availability_payload: false
   log_level: debug
   last_seen: ISO_8601
@@ -254,8 +252,6 @@ frontend:
 ```
 
 ```
-
-
 ### Starting Zigbee2MQTT
 ```bash
 cd /opt/zigbee2mqtt

@@ -219,23 +219,42 @@ cd home/user/thingsboard
 mvn clean install -DskipTests
 ```
 
+## Fix `gen.MsgProtos` not found after building Maven
+- Install plugins `Protobuf support`
+- In file `common/message/src/main/java/org/thingsboard/server/common/msg/TbMsg.java`
+	- In line `import org.thingsboard.server.common.msg.gen.MsgProtos;`
+		- Press Alt+Enter
+		- Choose `Add dependency ...`
+
+## 5.10. Change Thingsboard configurations
+- Any configuration (i.e. server port, username/password database) can be change in `thingsboard\application\src\java\org\thingsboard\server\thingsboard.yml`
+- Change port:
+	- Search "port:"
+		- There are 11 ports to change ??
+	- For haint126 only: add 3 to default port
+		- 8080 -> 38080
+- You can change Postgre database information here and skip "Environment variables" part
+
 ## 5.6. Connect Thingsboard with created PostgreSQL database 
 - In directory `\thingsboard\application\src\main\java\org\thingsboard\server`
 
 ### 5.6.1. Load Thingsboard schemas to Database
+- Change your database location in `SPRING_DATASOURCE_URL`
+- Change `install.data_dir`
+
 ```txt
-SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/your_thingsboard_database_name
+SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/YOUR_THINGSBOARD_DATABASE_NAME
 SPRING_DATASOURCE_USERNAME=postgres
 SPRING_DATASOURCE_PASSWORD=1
 install.load_demo=true
-install.data_dir=thingsboard\application\target\data      # Location of initialized data
+install.data_dir=YOUR_THINGSBOARD_DIRECTORY/application/target/data      # Location of initialized data
 ```
 
 ![[01_Experience/IoT/Thingsboard/Setup/Setup running Thingsboard in Intellij on server/Install application.png]]
 
 ### 5.6.2. Connect database to Thingsboard server
 ```txt
-SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/your_thingsboard_database_name
+SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/YOUR_THINGSBOARD_DATABASE_NAME
 SPRING_DATASOURCE_USERNAME=postgres
 SPRING_DATASOURCE_PASSWORD=1
 ```
@@ -258,7 +277,7 @@ cd ${THINGSBOARD_DIR}
 java -jar application/target/thingsboard-${VERSION}-boot.jar
 ```
 
-## 5.8. Running UI container in hot redeploy mode
+## 5.8. (Optional) Running UI container in hot redeploy mode
 - Normally, port 8080 is the main application port.
 - However, there is hot redeploy mode which can be used to change frontend code without the need to restart backend.
 - To start UI in hot redeploy mode (at port 4200), run these commands:
@@ -271,9 +290,8 @@ mvn clean install -P yarn-start
 
 ## 5.9. Login Thingsboard
 - Navigate to <http://localhost:4200/> or <http://localhost:8080/> and login into Thingsboard using demo data credentials:
-	- User: <tenant@thingsboard.org>
+	- User: tenant@thingsboard.org
 	- Password: tenant
-- Any configuration (i.e. server port, username/password database) can be change in `thingsboard\application\src\java\org\thingsboard\server\thingsboard.yml`
 
 #
 ---
