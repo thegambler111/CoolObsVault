@@ -228,11 +228,12 @@ mvn clean install -DskipTests
 
 ## 5.10. Change Thingsboard configurations
 - Any configuration (i.e. server port, username/password database) can be change in `thingsboard\application\src\java\org\thingsboard\server\thingsboard.yml`
-- Change port:
+- Change all ports:
 	- Search "port:"
-		- There are 11 ports to change ??
+		- There are 11 ports to change (need verification)
 	- For haint126 only: add 3 to default port
 		- 8080 -> 38080
+	- Read [[01_Experience/IoT/Thingsboard/Setup/Setup LWM2M/Setup LWM2M]]
 - You can change Postgre database information here and skip "Environment variables" part
 
 ## 5.6. Connect Thingsboard with created PostgreSQL database 

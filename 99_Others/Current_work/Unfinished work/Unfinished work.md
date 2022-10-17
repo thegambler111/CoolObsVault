@@ -100,32 +100,6 @@ Mission:
 Values:
 
 ---
-- Sự kiện 14/10:
-	- Kinh doanh thử nghiệm 3-6 tháng
-	- CĐS sẽ dựng IoT platform trên cloud của VHKT:
-	- Demo app trên IoT Platform:
-		- Ứng dụng tích hợp sẵn:
-			- Cảm biến khói Zigbee + NBIoT
-				- => Mua GW để demo
-				- **A Trình + a Tân** tích hợp
-			- Ứng dụng demo để tích hợp -> Tích hợp thiết bị
-				- Bãi đỗ xe
-				- Đồng hồ nước
-				- Backup: Tracking - Máy phát điện
-	- Chuẩn bị thông tin về IoT Platform:
-		- Slide:
-			- Thế mạnh:
-				- Hệ sinh thái
-					- Slide + Catalog các nhóm thiết bị đang được tích hợp Zigbee + Cellular
-					- Smart city + Smart home + Smart agriculture
-				- Giao thức
-	- Portal để mua Platform:
-		- Báo giá:
-			- Mô hình tính cước cloud IoT platform khác: Đóng vai startup hỏi thông tin
-				- AWS -> **Kiệt**
-				- Trung quốc -> **Mai Anh**
-	- Đặt tên
-		- Có liên quan đến Viettel
 - Quý 4:
 	- IoT Platform Cần bổ sung gì để kinh doanh được trên cloud -> Lộ trình
 		- Tính năng:
@@ -147,17 +121,17 @@ Values:
 - [ ] Đặt lại lịch họp -> Sáng T4, chia 2 cuộc họp 2h
 - [ ] Kiểm tra lại các dây usb tầng 2,6
 	- [ ] Test dây usb
-- [ ] Setup GW 14/10
+- [x] Setup GW 14/10
 	- [x] Raspberry
-	- [ ] Orange Pi Zero 2 -> Đức
+	- [x] Orange Pi Zero 2 -> Đức
 - [x] Fix camera report
-- [ ] Báo cáo thống nhất ctkt ứng dụng app base
-	- [ ] Chuẩn bị slide
+- [x] Báo cáo thống nhất ctkt ứng dụng app base
+	- [x] Chuẩn bị slide
 - [x] Read Dung's report
 - [ ] Read Tú's report
 - [ ] Read Đức's report
 - [ ] Plan Platform
-	- [ ] Read Platform structure with Kiệt
+	- [ ] Read Platform structure
 - [ ] Plan Zigbee
 	- [ ] Định cỡ
 		- [ ] Mở rộng theo chiều rộng (tính năng):
@@ -204,11 +178,41 @@ Values:
 - Thống nhất luồng thiết bị Cellular
 
 ---
+- Việt:
+	- Flow tích hợp thiết bị
+		- Xác thực
+		- Dịch tin
+			- Hướng 1: theo Byte -> word -> data
+			- Hướng 2: Json
+	- UDP:
+		- Ko có chuẩn bản tin
+		- Chỉ có 2 thông tin src/des port và payload
+		- IP định trước
+		- Xác thực:
+			- Chọn rule chain để xử lý
+				- Quy hoạch theo port
+				- Phân loại trong rule chain
+			- Định danh:
+				- Nhận dữ liệu -> xử lý payload -> Rule chain
+- HTTP:
+	- Quy hoạch
+- CTKT GW:
+	- Tính năng
+	- Hiệu năng
+- App base -> chậm
+
+
+---
 
 # Daily:
 - Verify writing Duc and Trung
+- GW setup Đức
 - Help Tu setup
 - Platform breakdown
+- [x] FTTH
+- Update GW HCM
+- Chuyển cảm biến Moes -> HCM
+- [x] Anh Tân
 
 #
 ---
