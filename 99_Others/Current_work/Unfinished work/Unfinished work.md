@@ -219,6 +219,7 @@ Values:
 - [x] Update GW HCM
 - Chuyển cảm biến Moes -> HCM
 - [x] Anh Tân
+- [ ] ssh tb server
 
 #
 ---
