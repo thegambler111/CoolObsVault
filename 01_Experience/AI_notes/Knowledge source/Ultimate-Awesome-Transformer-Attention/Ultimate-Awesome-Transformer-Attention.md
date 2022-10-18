@@ -1,4 +1,4 @@
-# # Ultimate-Awesome-Transformer-Attention
+# Ultimate-Awesome-Transformer-Attention
 - https://github.com/cmhungsteve/Awesome-Transformer-Attention
 
 

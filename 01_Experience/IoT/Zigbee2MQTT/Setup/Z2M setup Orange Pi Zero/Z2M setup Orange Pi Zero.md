@@ -19,24 +19,23 @@
 - SSH into the machine with default user: root/1234
 	- Remove old hostkey if needed:
 
-
- ```bash
- ssh-keygen -R hostname
- ```
-
+```bash
+ssh-keygen -R hostname
+```
 
 - Select terminal type: zsh, instead of ~~bash~~
 - Set new account: labiot/Vtnet@1812
 - Update OS:
 
+```bash
+sudo apt update
+sudo apt upgrade
+```
 
- ```bash
- sudo apt update
- sudo apt upgrade
- ```
+## Disable USB autosuspend
 
-
-## [Disable USB autosuspend](https://www.zigbee2mqtt.io/guide/faq/#zigbee2mqtt-crashes-after-some-time)
+### Method 1:
+- [Source](https://www.zigbee2mqtt.io/guide/faq/#zigbee2mqtt-crashes-after-some-time)
 - if `cat /sys/module/usbcore/parameters/autosuspend` returns `1` or `2`, USB autosuspend is enabled
 - To disable it, run
 
@@ -46,7 +45,52 @@ update-grub
 systemctl reboot
 ```
 
-##
+### Method 2, if method 1 failed
+- if `cat /sys/module/usbcore/parameters/autosuspend` not return `-1` after rebooting, do the following steps:
+- Get the information of adapter:
+
+```bash
+lsusb
+```
+
+- Example results:
+	- In this case we can get information of the adapter;
+	- `idVendor` = `10c4`
+	- `idProduct` = `ea60`
+	- `bus` = `002`
+	- `deviceNumber` = `002`
+
+```bash
+Bus 002 Device 002: ID 10c4:ea60 Silicon Labs CP210x UART Bridge
+Bus 002 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+```
+
+- Creating a device-specific rules file for `udev` (the device manager for the Linux kernel):
+
+```bash
+sudo nano /etc/udev/rules.d/usb-power.rules
+```
+
+- Add below line to `usb-power.rules` file and replace `$idVendor` and `$idProduct` with corresponding values
+
+```bash
+ACTION=="add", SUBSYSTEM=="usb", ATTR{idVendor}==$idVendor, ATTR{idProduct}==$idProduct, TEST=="power/control", ATTR{power/control}="on"
+```
+
+- Reboot
+
+```bash
+sudo reboot
+```
+
+- After rebooting, run the command below. If it log "on", you have succeeded
+
+```bash
+cat /sys/bus/usb/devices/usb${bus}/${bus}-${deviceNumber-1}/power/control
+```
+
+## Disable WIFI
 - NOTE: Disable wifi ?????
 
 # Setup Zigbee2MQTT
@@ -57,10 +101,10 @@ systemctl reboot
 
 ## Installation in Linux OS
 
-### Determine location of the adapter and checking user permissions
+### Determine adapter path and check user permission
 
 #### For Linux
-- Use this command to get the information:
+- Use this command to get adapter location information:
 
 ```bash
 ls -l /dev/serial/by-id
@@ -73,15 +117,18 @@ total 0
 lrwxrwxrwx 1 root root 13 Mar  3 11:03 usb-ITead_Sonoff_Zigbee_3.0_USB_Dongle_Plus_cc121a1f3939ec11ae6de0680aac08d5-if00-port0 -> ../../ttyUSB0 
 ```
 
+##### Check adapter permission
 - [Check if current user has permission to connect to the adapter](https://www.zigbee2mqtt.io/guide/installation/20_zigbee2mqtt-fails-to-start.html#verify-that-the-user-you-run-zigbee2mqtt-as-has-write-access-to-the-port)
-- Location of mounted device to fill in `configuration.yaml` file:
+
+##### Get adapter path
+- There are 2 ways to add path of mounted device in `configuration.yaml` file:
 	- **(Recommended)** Using `/dev/tty*` path: Use the part after `->`
 		- In the example, it is `../../ttyUSB0`
-			- -> The path is `/dev/ttyUSB0`
+			- **->** The path is `/dev/ttyUSB0`
 		- Sometimes, this value is changed. If that happens frequently, use the second option instead as it will never be changed
 	- Using the `/dev/serial/by-id/` path: Use the part after hour, before `->`
 		- In the example, it is `usb-ITead_Sonoff_Zigbee_3.0_USB_Dongle_Plus_cc121a1f3939ec11ae6de0680aac08d5-if00-port0`
-			- -> The path is `/dev/serial/by-id/usb-ITead_Sonoff_Zigbee_3.0_USB_Dongle_Plus_cc121a1f3939ec11ae6de0680aac08d5-if00-port0
+			- **->** The path is `/dev/serial/by-id/usb-ITead_Sonoff_Zigbee_3.0_USB_Dongle_Plus_cc121a1f3939ec11ae6de0680aac08d5-if00-port0
 - You can check the `/dev/serial/by-id/` path using `/dev/tty*` path:
 
 ```bash
@@ -144,6 +191,7 @@ npm ci
 # https://stackoverflow.com/a/63495296
 # For example: On a machine with 2GB of memory, consider setting this to 1536 (1.5GB)
 # For OrangePiZero running Armbian, the upper limit is ~ 350MB
+# For OrangePiZero2 running Armbian, the upper limit is ~ 800MB
 export NODE_OPTIONS=--max_old_space_size=300
 ```
 
@@ -268,7 +316,7 @@ npm start
 sudo vi /etc/systemd/system/zigbee2mqtt.service
 ```
 
-- Paste the below into systemctl file:
+- Paste the default content below into `.service` file:
 
 ```
 [Unit]
@@ -289,14 +337,14 @@ User=pi
 WantedBy=multi-user.target
 ```
 
-- Check directory of command `npm` and compare with field: ExecStart
+- Modify service file:
+	- Change field `User` with correct current username
+	- Change field `StandardOutput` if storage is limited: [Read here for more information](https://www.zigbee2mqtt.io/guide/installation/01_linux.html#optional-running-as-a-daemon-with-systemctl)
+	- In field `ExecStart`, change directory of command `npm`
 
 ```bash
 whereis npm
 ```
-
-- Compare username of Armbian with field: User
-- Change field StandardOutput if storage is limited: [Read here for more information](https://www.zigbee2mqtt.io/guide/installation/01_linux.html#optional-running-as-a-daemon-with-systemctl)
 
 ### Test
 ``` bash
@@ -349,8 +397,6 @@ WantedBy=multi-user.target
 - Source:
 	- <https://gist.github.com/patoi/f725a9a39d0145bcda4c3796b6419db7>
 	- <https://gist.github.com/joepie91/73ce30dd258296bd24af23e9c5f761aa>
-
-## Tuya.js
 
 # Update Zigbee2MQTT to the latest version
 ```bash
