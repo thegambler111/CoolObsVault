@@ -7,7 +7,7 @@
 ---
 Status: #done
 
-Tags:  #roadmap #learning 
+Tags:  #roadmap #ai_learning 
 
 References:
 -  

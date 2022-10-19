@@ -7,7 +7,7 @@
 ---
 Status: #done
 
-Tags: #pytorch #learning 
+Tags: #pytorch #ai_learning 
 
 References:
 - 

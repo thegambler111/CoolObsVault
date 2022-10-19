@@ -17,7 +17,7 @@
 
 
 # 
-- [ ] [# Machine Learning PhD Survival Guide 2021 | Advice on Topic Selection, Papers, Conferences & more!](https://www.youtube.com/watch?app=desktop&v=rHQPBqMULXo&feature=youtu.be)
+- [# Machine Learning PhD Survival Guide 2021 | Advice on Topic Selection, Papers, Conferences & more!](https://www.youtube.com/watch?app=desktop&v=rHQPBqMULXo&feature=youtu.be)
 
 
 
@@ -26,7 +26,7 @@
 ---
 Status: #done 
 
-Tags: #machine_learning #learning
+Tags: #machine_learning #ai_learning
 
 References:
 - 

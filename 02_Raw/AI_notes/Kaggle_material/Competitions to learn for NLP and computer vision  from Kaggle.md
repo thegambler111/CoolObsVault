@@ -35,7 +35,7 @@
 ---
 Status: #done
 
-Tags: #NLP #kaggle #learning
+Tags: #NLP #kaggle #ai_learning
 
 References:
 - [# Best NLP competitions on Kaggle (to learn from)](https://www.youtube.com/watch?v=-nH4OSyjwSI)

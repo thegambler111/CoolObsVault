@@ -27,7 +27,7 @@
 --- 
 Status: #writing
 
-Tags: #learning #leadership #life_experience 
+Tags: #how_to_learn #leadership #life_experience 
 
 References:
 - [# How great leaders inspire action | Simon Sinek | TED](https://www.youtube.com/watch?v=qp0HIF3SfI4)

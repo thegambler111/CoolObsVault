@@ -55,7 +55,7 @@
 ---
 - Status: #done
 
-- Tags: #learning 
+- Tags: #how_to_learn 
 
 - References:
 	- [Source](https://twitter.com/SahilBloom/status/1553717736932532224)

@@ -7,7 +7,7 @@
 ---
 Status: #writing
 
-Tags: #python #learning 
+Tags: #python #ai_learning 
 
 References:
 - 

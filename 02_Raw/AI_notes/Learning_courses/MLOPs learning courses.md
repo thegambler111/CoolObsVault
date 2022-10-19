@@ -9,7 +9,7 @@
 ---
 Status: #done 
 
-Tags: #mlops #learning 
+Tags: #mlops #learning_course 
 
 References:
 - 

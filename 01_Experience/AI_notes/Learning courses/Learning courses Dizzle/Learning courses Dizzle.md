@@ -7,7 +7,7 @@
 ---
 - Status: #done 
 
-- Tags: #machine_learning #learning_course #learning
+- Tags: #machine_learning #learning_course
 
 - References:
 	- [Source](https://deep-learning-drizzle.github.io/)
