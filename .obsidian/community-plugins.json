@@ -15,7 +15,7 @@
   "obsidian-text-format",
   "folder-note-plugin",
   "number-headings-obsidian",
-  "obsidian-dynamic-toc",
   "obsidian-git",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-dynamic-toc"
 ]
