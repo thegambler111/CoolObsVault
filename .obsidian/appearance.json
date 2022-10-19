@@ -6,7 +6,7 @@
   "enabledCssSnippets": [
     "obsidian"
   ],
-  "accentColor": "",
+  "accentColor": "#730ed8",
   "showViewHeader": false,
   "nativeMenus": false,
   "baseFontSizeAction": true
