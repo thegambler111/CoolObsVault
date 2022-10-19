@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Life_experience/Habits/Atomic Habits/Atomic Habits.md",
+                "file": "03_Life_experience/Mediation/6 Steps To Fall Asleep In Under 2 Mins/6 Steps To Fall Asleep In Under 2 Mins.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#story_telling_tips",
+                "query": "sleep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/Habits/Atomic Habits/Atomic Habits.md",
+                "file": "03_Life_experience/Mediation/6 Steps To Fall Asleep In Under 2 Mins/6 Steps To Fall Asleep In Under 2 Mins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Life_experience/Habits/Atomic Habits/Atomic Habits.md"
+                "file": "03_Life_experience/Mediation/6 Steps To Fall Asleep In Under 2 Mins/6 Steps To Fall Asleep In Under 2 Mins.md"
               }
             }
           },
@@ -150,6 +151,7 @@
   },
   "active": "55556f6ceae12749",
   "lastOpenFiles": [
+    "03_Life_experience/Habits/Atomic Habits/Atomic Habits.md",
     "03_Life_experience/Leadership/9 rules to build an ecosystem and workforce/9 rules to build an ecosystem and workforce.md",
     "03_Life_experience/Leadership/__10 ideas for building great culture in a distributed team/__10 ideas for building great culture in a distributed team.md",
     "03_Life_experience/Leadership/Weekly memo that moves your business forward/Weekly memo that moves your business forward.md",
@@ -158,7 +160,6 @@
     "99_Others/Setup/templates/book_template.md",
     "99_Others/Current_work/Unfinished work/Unfinished work.md",
     "03_Life_experience/Others/3 big advice lies/3 big advice lies.md",
-    "03_Life_experience/Others/15 rules may change your life/15 rules may change your life.md",
-    "03_Life_experience/Storytelling/Framework - Hero's journey/Framework - Hero's journey.md"
+    "03_Life_experience/Others/15 rules may change your life/15 rules may change your life.md"
   ]
 }
