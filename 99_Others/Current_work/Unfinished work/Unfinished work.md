@@ -212,14 +212,16 @@ Values:
 
 # Daily:
 - Verify writing Duc and Trung
-- GW setup Đức
 - Help Tu setup
 - Platform breakdown
+- CTKT GW
+- Vision
+- [x] GW setup Đức
 - [x] FTTH
 - [x] Update GW HCM
-- Chuyển cảm biến Moes -> HCM
+- [x] Chuyển cảm biến Moes -> HCM
 - [x] Anh Tân
-- [ ] ssh tb server
+- [x] ssh tb server
 
 #
 ---
