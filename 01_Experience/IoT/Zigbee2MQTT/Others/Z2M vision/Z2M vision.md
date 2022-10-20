@@ -139,8 +139,38 @@
 	- Zigbee network auto repair
 
 
-
-
+# Old vision
+- Features:
+	- [ ] Gateway functionality
+		- [ ] Create CTKT
+	- [ ] Create new GW flash image
+	- [ ] Cannot connect to MQTT server
+	- [ ] SRSP - AF - dataRequest after 6000ms -> Failed to open system journal: No space left on device
+	- [x] Fix PIR bugs? -> Broadcast binding
+	- [x] Auto check device online status
+	- [x] Converter for new devices
+		- [x] Making changes in new files only
+	- [ ] Bigger and controllable log storage: Currently store ~ logs of 3 days
+	- [ ] Zigbee2mqtt front end: file npm run build != file npm install
+	- [ ] Logging and reset USB from GW
+	- [x] Fix error: changing configuration -> have to delete coordinator_backup ??
+	- [ ] Get OTA link for devices
+	- [ ] Update GW, USB, devices firmware on the fly
+	- [ ] Control GW from platform: Create APIs
+	- [ ] Migrate GW to GW using PanID: To replace GW
+	- [ ] White list for permit joins: Auto permit join when receive request from devices in this list -> Seem impossible
+	- [ ] Disable router ability of some device types
+	- [ ] Low LQI warning
+		- [ ] Individual device routing
+	- [ ] Control all devices of the same type (or have the same function like onOff) (Can we use group?)
+- [ ] Dev environments
+	- [x] Windows alias
+	- [x] Windows auto sync files
+	- [x] npm debug -> Save to file
+- [ ] Request
+	- [ ] Not connect to MQTT server
+	- [ ] Accidental deletion prevention
+	- [ ] PIR frozen
 
 
 

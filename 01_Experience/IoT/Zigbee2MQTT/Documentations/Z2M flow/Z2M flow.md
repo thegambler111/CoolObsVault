@@ -142,6 +142,7 @@ process.on('SIGTERM', handleQuit);
 ### Step 5: Update device's last_seen attribute
 
 ### Step 6: Send pending requests for each endpoint
+- `device.implicitCheckin();`
 - Pending requests are unhandled requests (only happen when old device rejoins)
 
 ### Step 7: Interview device
@@ -239,7 +240,6 @@ process.on('SIGTERM', handleQuit);
 
 ## Adapter receive AF message from device
 - _Adapter Event: zclOrRawData_
-
 - Trigger when adapter receive cmd:
 	- Type=AREQ
 	- Subsystem=AF
@@ -249,19 +249,24 @@ process.on('SIGTERM', handleQuit);
 ### Step 1: Listen to events and trigger callback function
 
 ### Step 2: Delete Cluster field of payload frame if datatype is ZCL
+- ?
 
 ### Step 3: Special handle for cluster Touchlink or Green Power
 - If cluster is Touchlink => Return (it will be handled at another function)
-- If cluster is Green Power => handle with different types of Green Power messages: GP Commissioning, GP Success, GP Channel Request, GP Manufacturer-specific Attribute Reporting
+- If cluster is Green Power => handle in `greenPower.onZclGreenPowerData()` with different types of Green Power messages:
+	- GP Commissioning
+	- GP Success
+	- GP Channel Request
+	- GP Manufacturer-specific Attribute Reporting
 
 ### Step 4: Handling of re-transmitted Xiaomi messages
 - Some Xiaomi router devices re-transmit messages from Xiaomi end devices. The network address of these message is set to the one of the Xiaomi router.
 - Therefore it looks like if the message came from the Xiaomi router, while in fact it came from the end device.
 - Handling these message would result in false state updates. The group ID attribute of these message defines the network address of the end device.
 
-### Step 5: Update last seen
+### Step 5: Update last_seen attribute
 
-### Step 6: Send pending request of each endpoint
+### Step 6: Send pending requests of each endpoint
 
 ### Step 7: Create endpoint
 
@@ -273,23 +278,37 @@ process.on('SIGTERM', handleQuit);
 
 ### Step 10.a: Get type and data of command
 - Get type and data of command from the frame info
-- If frame is global, its types will be: read, write, report, readRsp
-- If frame is specific, type of command should be looked up in events.ts
+- If frame's command is global, supported command types are:
+	- Read
+	- Write
+	- Report
+	- ReadRsp
+- If frame's command is specific, type of command is looked up in events.ts
 
 ### Step 11.a: Get attribute value of Basic cluster
-- Get these attributes value if they've not been gotten yet: modelID, manufacturerName, powerSource, zclVersion, applicationVersion, stackVersion, hardwareVersion, dateCode, softwareBuildID
+- Get these attributes value if they've not been gotten yet:
+	- modelID
+	- manufacturerName
+	- powerSource
+	- zclVersion
+	- applicationVersion
+	- stackVersion
+	- hardwareVersion
+	- dateCode
+	- softwareBuildID
 
 ### Step 12.a: Save Cluster and Attribute value to CLuster List
 
-### Step 13.a:
-_Do nothing if device type is Coordinator_
+### Step 13.a: Emite event: message
+- Get `endpoint` and `eventData`
+- If device type is Coordinator, skip this step
 - Check available converter for Zigbee command
 - Convert Zigbee message to MQTT
 - Bound poll endpoints and group members for state changes.
 - Run onEvent function of device
 - Check if device support OTA update and any new OTA update available
 
-### Step 14.a: Emit lastSeenChangedEvent
+### Step 14.a: Emit event: lastSeenChangedEvent
 - reason: messageEmitted
 
 ### Step 13.b:Save Cluster and Attribute value to CLuster List
@@ -299,6 +318,6 @@ _Do nothing if device type is Coordinator_
 
 ### Step 15:
 - Update reportable properties
-- Handle the respond to Enroll Request, Read Request
+- Handle the respond to Enroll Request and Read Request
 - Handle check-in from sleeping end devices
 - Send a default response if necessary

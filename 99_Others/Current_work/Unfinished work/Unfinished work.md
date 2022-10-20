@@ -1,100 +1,4 @@
 # Unfinished work
-- [ ] Z2M:
-	- [ ] Features:
-		- [ ] Gateway functionality
-			- [ ] Create CTKT
-		- [ ] Create new GW flash image
-		- [ ] Cannot connect to MQTT server
-		- [ ] SRSP - AF - dataRequest after 6000ms -> Failed to open system journal: No space left on device
-		- [x] Fix PIR bugs? -> Broadcast binding
-		- [x] Auto check device online status
-		- [x] Converter for new devices
-			- [x] Making changes in new files only
-		- [ ] Bigger and controllable log storage: Currently store ~ logs of 3 days
-		- [ ] Zigbee2mqtt front end: file npm run build != file npm install
-		- [ ] Logging and reset USB from GW
-		- [x] Fix error: changing configuration -> have to delete coordinator_backup ??
-		- [ ] Get OTA link for devices
-		- [ ] Update GW, USB, devices firmware on the fly
-		- [ ] Control GW from platform: Create APIs
-		- [ ] Migrate GW to GW using PanID: To replace GW
-		- [ ] White list for permit joins: Auto permit join when receive request from devices in this list -> Seem impossible
-		- [ ] Disable router ability of some device types
-		- [ ] Low LQI warning
-			- [ ] Individual device routing
-		- [ ] Control all devices of the same type (or have the same function like onOff) (Can we use group?)
-	- [ ] Dev environments
-		- [x] Windows alias
-		- [x] Windows auto sync files
-		- [x] npm debug -> Save to file
-	- [ ] Request
-		- [ ] Not connect to MQTT server
-		- [ ] Accidental deletion prevention
-		- [ ] PIR frozen
-- [ ] Current work:
-	- [x] Camera:
-		- [x] **Xin mở đường Ethernet mạng ngoài**
-		- [ ] Hệ thống hoạt động ko ổn định (11/7/2022)
-	- [ ] Gateway
-		- [ ] Quick CI/CD
-		- [ ] Verify newly added manufactureName from KKoen's repos
-		- [ ] backup data GW Z0-10
-		- [ ] Check bulb: auto select color_temp range
-			- [ ] => Have not found a way yet
-
----
-
-- [x] Pair programming?
-- [ ] Bài test GW => Hỏi Team VCar
-	- [ ] Tải
-		- [ ] Thiết bị
-		- [ ] Bản tin
-		- [ ] Bản tin MQTT nhận và bắn
-	- [ ] Performance
-		- [ ] Công cụ Performance NodeJS (Clinic doctor)
-	- [ ] => Kế hoạch chi tiết
-
----
-
-- [ ] Platform
-	- [x] Thời gian phản hồi của platform
-	- [ ] Thời gian phản hồi của GW -> T10
-		- Command execute: zh/endpoint.ts
-		- Command response: zh/controller/controller.ts:669
-		- Define an object to store command send time (Something that can be accessed by both sender and reaceiver)
-			- When receiving response, search that object for send time
-				- Compare send time with receive time -> execute time
-	- [x] Thiết kế app base: Hỏi ý kiến: 20-21, hoàn thiện (họp nếu cần) 22-23, 26 ký
-		- Văn bản đặt hàng tt cđs trình ký 26/9 -> CTKT cho app do cđs phát triển
-		- App mở để tích hợp thêm thiết bị mới -> cho người cung cấp tự cấu hình (như NBox)
-		- Deadline version 1
-		- Mục tiêu
-			- Test thiết bị
-			- Demo cho người dùng
-			- Cho phép chủ đầu tư phát triển thành ứng dụng riêng
-- [ ] Team GW
-	- [x] Git ultimate
-	- [x] Add default profile for device for Mr Hungpm8 -> 21/9
-	- [x] New feature plan -> 26-28/9
-		- [x] Vision
-		- [ ] Slogan
-			- [ ] Ritual
-			- [ ] Language
-		- [ ] **Định hướng công việc**
-	- [ ] Check pull requests -> Q4
-	- [ ] CTKT GW -> Q4
-	- [x] Process to auto reset GW -> 21/9
-- [x] Camera
-	- [x] Check camera performance
-- [ ] Khung năng lực
-	- [x] E-learning -> 20/9
-	- [ ] Khóa học lab -> Q4
-- [ ] Personal
-	- [ ] MQTT
-- [x] GW z5
-
----
-
 Mission:
 
 Values:
@@ -118,20 +22,7 @@ Values:
 		- AEP -> CĐS
 		- Lên danh sách đầu mục các công việc cần làm để phát triển IoT platform
 ---
-- [ ] Đặt lại lịch họp -> Sáng T4, chia 2 cuộc họp 2h
-- [ ] Kiểm tra lại các dây usb tầng 2,6
-	- [ ] Test dây usb
-- [x] Setup GW 14/10
-	- [x] Raspberry
-	- [x] Orange Pi Zero 2 -> Đức
-- [x] Fix camera report
-- [x] Báo cáo thống nhất ctkt ứng dụng app base
-	- [x] Chuẩn bị slide
-- [x] Read Dung's report
-- [ ] Read Tú's report
-- [ ] Read Đức's report
-- [ ] Plan Platform
-	- [ ] Read Platform structure
+
 - [ ] Plan Zigbee
 	- [ ] Định cỡ
 		- [ ] Mở rộng theo chiều rộng (tính năng):
@@ -174,10 +65,6 @@ Values:
 	- Không liên quan code
 
 ---
-- Tổng hợp tính năng thiết bị IoT để gửi kèm CTKT
-- Thống nhất luồng thiết bị Cellular
-
----
 - Việt:
 	- Flow tích hợp thiết bị
 		- Xác thực
@@ -216,12 +103,53 @@ Values:
 - Platform breakdown
 - CTKT GW
 - Vision
+- Khóa học
+- [ ] Thiết kế app base:
+	- Mục tiêu
+		- Test thiết bị
+		- Demo cho người dùng
+		- Cho phép chủ đầu tư phát triển thành ứng dụng riêng
+- Công việc quý 4
+	- [x] Zigbee
+	- [ ] Platform
 - [x] GW setup Đức
 - [x] FTTH
 - [x] Update GW HCM
 - [x] Chuyển cảm biến Moes -> HCM
 - [x] Anh Tân
 - [x] ssh tb server
+
+---
+
+# Quý 4
+
+## Platform
+- Mục tiêu cụ thể là: Chuẩn hóa giao thức UDP, TCP, HTTP, LWM2M để đơn giản hóa việc tích hợp các thiết bị Cellular nên nền tảng platform
+- Hiện trạng cụ thể
+	- 1.Giao thức UDP ==> Tích hợp qua một third party module, phải thực hiện case by case ==> Chưa chuẩn hóa, quy hoạch phương thức tích hợp cho nhiều loại thiết bị khác nhau.
+	- 2.Giao thức TCP, HTTP: ==> Cũng tương tự như UDP
+	- 3.Giao thức LWM2M: Thingsboard đã phát triển một service chuyên biệt cho LWM2M, nhưng làm thực tế với nhiều loại thiết bị thì sinh ra rất nhiều case khù khoằm, không hỗ trợ ==> Cần phát triển thêm
+- mục tiêu của mình trong giai đoạn này là làm chủ các giao thức truyền dữ liệu trên nền tảng platform
+	- 1.Giao thức MQTT, CoAP, LWM2M ==> Cái này hiện Thingsboard đã phát triển thành các service riêng, tuy nhiên chưa thực sự tiện dụng và adaptive cho tất cả các trường hợp
+	- 2.Giao thức HTTP cũng tương tự
+	- 3.Giao thức UDP, TCP: Hiện đang nhét hết vào con gateway, không phổ quát được cách tích hợp cho nhiều thiết bị
+- nên anh thấy mục tiêu cụ thể của anh em mình là:
+	- Với các giao thức đã có service riêng ==> Phát triển nó theo hướng phổ quát cho nhiều thiết bị, dễ dàng cho người dùng tích hợp một loại thiết bị mới (ít nhất có thể làm như kiểu rule chain)
+	- Với các giao thức chưa có service riêng ==> Tư duy tạo ra một service mới cho giao thức đó (theo kiểu microservice), cũng hướng tới phổ quát như trên
+- cách làm
+	- Với mỗi giao thức ==> Bọn em làm rõ khả năng hỗ trợ của Thingsboard hiện tại; các tồn tại, hạn chế; các tính năng mong muốn phát triển
+- để làm nhanh thì cần học người đi trước
+	- người đi trước ở đây là các nền tảng platform khác đã thương mại ==> Tham khảo nền tảng platform của Huawei, CTWing, Thingsworx
+	- ngoài ra cũng có thể tìm thêm một số nền tảng platform mã nguồn mở khác được đánh giá tốt ở phần này
+- mình làm tốt phần này thì mới tính tới làm tiếp các bước sau của platform được
+
+### Dũng
+
+### Việt
+
+### Kiệt
+
+### Mai Anh
 
 #
 ---
