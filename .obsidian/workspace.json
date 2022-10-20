@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
+                "file": "03_Life_experience/How to learn/How to take notes while reading a book/How to take notes while reading a book.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99_Others/Current_work/Unfinished work/Unfinished work.md",
+                "file": "03_Life_experience/How to learn/How to take notes while reading a book/How to take notes while reading a book.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99_Others/Current_work/Unfinished work/Unfinished work.md"
+                "file": "03_Life_experience/How to learn/How to take notes while reading a book/How to take notes while reading a book.md"
               }
             }
           },
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99_Others/Current_work/Unfinished work/Unfinished work.md",
+                "file": "03_Life_experience/How to learn/How to take notes while reading a book/How to take notes while reading a book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,17 +181,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b695780463a6a762",
+  "active": "cf2637746ad5ed6b",
   "lastOpenFiles": [
+    "03_Life_experience/Learn to sell - Business building/5 lessons when creating a new product/5 lessons when creating a new product.md",
     "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
-    "99_Others/Current_work/Unfinished work/Unfinished work.md",
+    "03_Life_experience/Learn to sell - Business building/5 lessons when creating a new product/Untitled.md",
     "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
+    "99_Others/Current_work/Unfinished work/Unfinished work.md",
     "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/flow.md",
     "03_Life_experience/Leadership/13 concepts to understand before you lead a team/13 concepts to understand before you lead a team.md",
     "03_Life_experience/Leadership/__10 biggest mistakes and lessons to avoid them/__10 biggest mistakes and lessons to avoid them.md",
     "03_Life_experience/Leadership/__10 ideas for building great culture in a distributed team/__10 ideas for building great culture in a distributed team.md",
-    "conflict-files-obsidian-git.md",
-    "01_Experience/IoT/Prometheus/Setup/Setup prom-client/Setup prom-client.md",
-    "03_Life_experience/Career building/_How to build a successful one-person business/_How to build a successful one-person business.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
