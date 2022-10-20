@@ -100,7 +100,10 @@ process.on('SIGTERM', handleQuit);
 
 ## New device joins
 - _Adapter Event: deviceJoined_
-- Trigger when adapter receives cmd: Type=AREQ, Subsystem=ZDO, command=tcDeviceInd
+- Trigger when adapter receives cmd:
+	- Type=AREQ
+	- Subsystem=ZDO
+	- command=tcDeviceInd
 ![](https://i.ibb.co/tQXwphQ/device-Joined.png)
 
 ### Step 1: Listen to events and trigger callback function
@@ -127,27 +130,29 @@ process.on('SIGTERM', handleQuit);
 	- interview_completed
 	- manufacturer
 	- endpoints
-
-- Publish Event's info to bridge/event topic with payload:
+- Publish Event's info to MQTT topic `bridge/event` with payload:
 	- friendly_name
 	- ieee_address
 	- type
 - Configure device
 - Run `onEvent` functions
 
-### Step 4: Update nwkAddr in database
+### Step 4: Update device's nwkAddr in database
 
-### Step 5: Update last seen
+### Step 5: Update device's last_seen attribute
 
-### Step 6: Send pending request for each endpoint
+### Step 6: Send pending requests for each endpoint
+- Pending requests are unhandled requests (only happen when old device rejoins)
 
 ### Step 7: Interview device
 ---
 
 ## Device Announce
-_Adapter Event: deviceAnnounce_
-
-_Trigger when adapter receive cmd_: Type=AREQ, Subsystem=ZDO, command=endDeviceAnnceInd
+- _Adapter Event: deviceAnnounce_
+- Trigger when adapter receive cmd:
+	- Type=AREQ
+	- Subsystem=ZDO
+	- command=endDeviceAnnceInd
 ![](https://i.ibb.co/W0MD4bH/announce.png)
 
 ### Step 0: Discover route then emit event
@@ -156,30 +161,46 @@ _Trigger when adapter receive cmd_: Type=AREQ, Subsystem=ZDO, command=endDeviceA
 
 ### Step 2: Initialize device by ieeeAddr
 
-### Step 3: Update last seen
+### Step 3: Update device's last_seen attribute
 
-### Step 4: Send pending request for each endpoint
+### Step 4: Send pending requests for each endpoint
 
 ### Step 5: Update nwkAddr in database
 
 ### Step 6:
-- Publish Device's info to bridge/devices topic with payload:
-	_ieee_address, type, network_address, supported, friendly_name, description, definition, power_source, software_build_id, date_code,model_id, interviewing, interview_completed, manufacturer, endpoints._
-
-- Publish Event's info to bridge/event topic with payload:
-	_friendly_name, ieee_address, type._
-- run onEvent function of device
+- Publish Device's info to MQTT topic `bridge/devices` with payload:
+	- ieee_address
+	- type
+	- network_address
+	- supported
+	- friendly_name
+	- description
+	- definition
+	- power_source
+	- software_build_id
+	- date_code
+	- model_id
+	- interviewing
+	- interview_completed
+	- manufacturer
+	- endpoints
+- Publish Event's info to MQTT topic `bridge/event` with payload:
+	- friendly_name
+	- ieee_address
+	- type
+- Run `onEvent` functions of device
 
 ---
 
 ## Send ZCL command to device failed because network address changed (while device's still on zigbee network)
-_Adapter Event: networkAddress_
-
-_Trigger when adapter receive cmd_: Type=AREQ, Subsystem=ZDO, command=nwkAddrRsp
-
-_NwkAddr Change (while not leave zigbee network) happen when_:
-- Network Address conflict
-- Network Address is changed in database while GW is powered off. (When GW need nwkAddr first time after start up, _for e.g: to send zcl cmd to device_, it will take from database)
+- _Adapter Event: networkAddress_
+- Trigger when adapter receive cmd:
+	- Type=AREQ
+	- Subsystem=ZDO
+	- command=nwkAddrRsp
+- NwkAddr Change (while not leave zigbee network) happen when:
+	- Network Address conflict (2 divice with same Network Address)
+	- Network Address is changed in database while GW is powered off. (When GW need nwkAddr first time after start up, _for e.g: to send zcl cmd to device_, it will take from database)
 
 ![](https://i.ibb.co/WfzYpcR/address-drawio.png)
 
@@ -190,17 +211,17 @@ _NwkAddr Change (while not leave zigbee network) happen when_:
 ### Step 3: Update nwkAddr in database
 
 ### Step 4:
-- Publish Device's info to bridge/devices topic with payload:
-	_ieee_address, type, network_address, supported, friendly_name, description, definition, power_source, software_build_id, date_code,model_id, interviewing, interview_completed, manufacturer, endpoints._
-
-- run onEvent function of device
+- Publish Device's info to MQTT topic `bridge/devices` with the same payload
+- Run `onEvent` functions of device
 
 ---
 
 ## Device Leave
-_Adapter Event: deviceLeave_
-
-_Trigger when adapter receive cmd_: Type=AREQ, Subsystem=ZDO, command=leaveInd
+- _Adapter Event: deviceLeave_
+- Trigger when adapter receive cmd:
+	- Type=AREQ
+	- Subsystem=ZDO
+	- command=leaveInd
 
 ![](https://i.ibb.co/hBNNz7g/leave-drawio.png)
 
@@ -209,20 +230,20 @@ _Trigger when adapter receive cmd_: Type=AREQ, Subsystem=ZDO, command=leaveInd
 ### Step 2: Delete device from database
 
 ### Step 3:
-- Delete device by ieeeAddr in state array
-- Publish Device's info to bridge/devices topic with payload:
-	_ieee_address, type, network_address, supported, friendly_name, description, definition, power_source, software_build_id, date_code,model_id, interviewing, interview_completed, manufacturer, endpoints._
-
-- Publish Event's info to bridge/event topic with payload:
-	_friendly_name, ieee_address, type._
-- Clear timeOut of device
+- Delete device by `ieeeAddr` in state array
+- Publish Device's info to MQTT topic `bridge/devices` with the same payload
+- Publish Event's info to MQTT topic `bridge/event` with payload:
+- Clear `timeOut` of device
 
 ---
 
 ## Adapter receive AF message from device
-_Adapter Event: zclOrRawData_
+- _Adapter Event: zclOrRawData_
 
-_Trigger when adapter receive cmd_: Type=AREQ, Subsystem=AF, command=incomingMessage || incomingMessageExt
+- Trigger when adapter receive cmd:
+	- Type=AREQ
+	- Subsystem=AF
+	- command=incomingMessage || incomingMessageExt
 ![](https://i.ibb.co/VmbXjsM/zcl.png)
 
 ### Step 1: Listen to events and trigger callback function
