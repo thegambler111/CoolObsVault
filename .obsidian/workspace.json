@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "960216858d457529",
+            "id": "cf2637746ad5ed6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Life_experience/Leadership/13 concepts to understand before you lead a team/13 concepts to understand before you lead a team.md",
+                "file": "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c297365b957eed39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1cbc13592587a6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "8e736dfd05cd9185",
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/Leadership/13 concepts to understand before you lead a team/13 concepts to understand before you lead a team.md",
+                "file": "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Life_experience/Leadership/13 concepts to understand before you lead a team/13 concepts to understand before you lead a team.md"
+                "file": "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md"
               }
             }
           },
@@ -152,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Life_experience/Leadership/13 concepts to understand before you lead a team/13 concepts to understand before you lead a team.md",
+                "file": "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,17 +194,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "960216858d457529",
+  "active": "cf2637746ad5ed6b",
   "lastOpenFiles": [
+    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
+    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/flow.md",
+    "99_Others/Current_work/Unfinished work/Unfinished work.md",
+    "03_Life_experience/Leadership/13 concepts to understand before you lead a team/13 concepts to understand before you lead a team.md",
     "03_Life_experience/Leadership/__10 biggest mistakes and lessons to avoid them/__10 biggest mistakes and lessons to avoid them.md",
     "03_Life_experience/Leadership/__10 ideas for building great culture in a distributed team/__10 ideas for building great culture in a distributed team.md",
-    "99_Others/Current_work/Unfinished work/Unfinished work.md",
     "conflict-files-obsidian-git.md",
     "01_Experience/IoT/Prometheus/Setup/Setup prom-client/Setup prom-client.md",
     "03_Life_experience/Career building/_How to build a successful one-person business/_How to build a successful one-person business.md",
-    "01_Experience/IoT/Zigbee2MQTT/Code/Z2M code structure/Z2M code structure.md",
-    "01_Experience/IoT/Zigbee2MQTT/Code/Z2M adding new devices to converter/Z2M adding new devices to converter.md",
-    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M ultimate guide to configure a device in converters/Z2M ultimate guide to configure a device in converters.md",
-    "03_Life_experience/Career building/How to think like a programmer/How to think like a programmer.md"
+    "01_Experience/IoT/Zigbee2MQTT/Code/Z2M code structure/Z2M code structure.md"
   ]
 }
