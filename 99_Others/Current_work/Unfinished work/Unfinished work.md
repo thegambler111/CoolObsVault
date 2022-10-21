@@ -101,7 +101,7 @@ Values:
 - Verify writing Duc and Trung
 - Help Tu setup
 - Platform breakdown
-- **CTKT GW**
+- CTKT GW
 - Vision
 - Khóa học quý 4
 - [ ] Thiết kế app base:
