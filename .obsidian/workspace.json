@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Life_experience/How to learn/How to take notes while reading a book/How to take notes while reading a book.md",
+                "file": "01_Experience/PMP/Head first PMP/4. Project integration management/4. Project integration management.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Others/Current_work/Unfinished work/Unfinished work.md",
+                "file": "03_Life_experience/Leadership/__10 lessons to avoid biggest mistakes when leading a team/__10 lessons to avoid biggest mistakes when leading a team.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/How to learn/How to take notes while reading a book/How to take notes while reading a book.md",
+                "file": "01_Experience/PMP/Head first PMP/4. Project integration management/4. Project integration management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Life_experience/How to learn/How to take notes while reading a book/How to take notes while reading a book.md"
+                "file": "01_Experience/PMP/Head first PMP/4. Project integration management/4. Project integration management.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Life_experience/How to learn/How to take notes while reading a book/How to take notes while reading a book.md",
+                "file": "01_Experience/PMP/Head first PMP/4. Project integration management/4. Project integration management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,17 +181,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "cf2637746ad5ed6b",
+  "active": "b94a1955f054606b",
   "lastOpenFiles": [
-    "03_Life_experience/Learn to sell - Business building/5 lessons when creating a new product/5 lessons when creating a new product.md",
-    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
-    "03_Life_experience/Learn to sell - Business building/5 lessons when creating a new product/Untitled.md",
-    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/Z2M flow.md",
-    "99_Others/Current_work/Unfinished work/Unfinished work.md",
-    "01_Experience/IoT/Zigbee2MQTT/Documentations/Z2M flow/flow.md",
-    "03_Life_experience/Leadership/13 concepts to understand before you lead a team/13 concepts to understand before you lead a team.md",
-    "03_Life_experience/Leadership/__10 biggest mistakes and lessons to avoid them/__10 biggest mistakes and lessons to avoid them.md",
-    "03_Life_experience/Leadership/__10 ideas for building great culture in a distributed team/__10 ideas for building great culture in a distributed team.md",
-    "conflict-files-obsidian-git.md"
+    "01_Experience/PMP/Head first PMP/2. Organizations, constraints, and projects in good company/2. Organizations, constraints, and projects in good company.md",
+    "01_Experience/PMP/Head first PMP/0. Overview/0. Overview.md",
+    "01_Experience/PMP/Head first PMP/1. Introduction_Why get certified/1. Introduction_Why get certified.md",
+    "01_Experience/PMP/Head first PMP/4. Project integration management/4. Project integration management.md",
+    "01_Experience/PMP/Head first PMP/3. The process framework/3. The process framework.md",
+    "01_Experience/AI_in_production/Overall_Strategy/Simplicity is An Advantage but Sadly Complexity Sells Better/Simplicity is An Advantage but Sadly Complexity Sells Better.md",
+    "01_Experience/AI_in_production/Overall_Strategy/Design documentations for machine learning systems/Design documentations for machine learning systems.md",
+    "01_Experience/AI_in_production/Overall_Strategy/ML system designs resources/ML system designs resources.md",
+    "01_Experience/AI_in_production/Overall_Strategy/Best Practices of ML Engineering/Best Practices of ML Engineering.md",
+    "01_Experience/AI_in_production/Overall_Strategy/Challenges in Deploying Machine Learning_A Survey of Case Studies/Challenges in Deploying Machine Learning_A Survey of Case Studies.md"
   ]
 }

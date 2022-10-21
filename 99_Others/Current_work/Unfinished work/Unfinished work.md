@@ -101,9 +101,9 @@ Values:
 - Verify writing Duc and Trung
 - Help Tu setup
 - Platform breakdown
-- CTKT GW
+- **CTKT GW**
 - Vision
-- Khóa học
+- Khóa học quý 4
 - [ ] Thiết kế app base:
 	- Mục tiêu
 		- Test thiết bị
@@ -111,7 +111,8 @@ Values:
 		- Cho phép chủ đầu tư phát triển thành ứng dụng riêng
 - Công việc quý 4
 	- [x] Zigbee
-	- [ ] Platform
+	- [ ] **Platform**
+		- [ ] Sáng T2 chia việc tích hợp thiết bị
 - [x] GW setup Đức
 - [x] FTTH
 - [x] Update GW HCM
@@ -144,12 +145,47 @@ Values:
 - mình làm tốt phần này thì mới tính tới làm tiếp các bước sau của platform được
 
 ### Dũng
+- (40%) Tích hợp, xây dựng CTKT, nghiệm thu thiết bị
+- (40%) LWM2M
+- (10%) Hoàn thành khung năng lực
+- (10%) Hoàn thành các khóa học
 
 ### Việt
+- (40%) Tích hợp, xây dựng CTKT, nghiệm thu thiết bị
+- (40%) UDP
+- (10%) Hoàn thành khung năng lực
+- (10%) Hoàn thành các khóa học
 
 ### Kiệt
+- (40%) Tích hợp, xây dựng CTKT, nghiệm thu thiết bị
+- (20%) Tìm hiểu hướng làm các giao thức HTTP, UDP, LWM2M, MQTT của
+	- Các nền tảng platform khác đã thương mại (Huawei, CTWing, Thingsworx)
+	- Các nền tảng platform mã nguồn mở khác được đánh giá tốt ở phần này
+	- Expected time: 3-5 work day
+	- Expected output:tỏn
+		- Hướng phát triển các giao thức HTTP, UDP, LWM2M, MQTT trên ThingsBoard
+		- Danh sách tổng hợp cách triển khai các giao thức HTTP, UDP, LWM2M, MQTT trên các nền tảng thao khảo
+			- Cách tích hợp, bắt tay thiết bị
+			- Nội dung bản tin và cách xử lý
+			- Bảo mật
+			- (Optional) Cách đẩy bản tin lên ứng dụng người dùng
+			- ...
+			- Nhận xét cách làm đó tại ThingsBoard -> Có nên sử dụng hay ko
+- (20%) HTTP
+- (10%) Hoàn thành khung năng lực
+- (10%) Hoàn thành các khóa học
 
 ### Mai Anh
+- (60%) Tích hợp, xây dựng CTKT, nghiệm thu thiết bị
+- (20%) MQTT
+- (20%) Tổng hợp tài liệu hướng dẫn tích hợp thiết bị qua các giao thức HTTP, UDP, LWM2M, MQTT
+
+### Hai
+- (20%) MQTT in Platform
+- (40%) Tích hợp thiết bị Zigbee
+- (20%) Xây dựng hệ thống giám sát chất lượng GW với Tú
+- (10%) Xây dựng kế hoạch năm 2023 cho team Zigbee và Platform
+- (10%) Hoàn thành các khóa học
 
 #
 ---
