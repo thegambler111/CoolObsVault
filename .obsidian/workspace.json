@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Experience/PMP/Head first PMP/4. Project integration management/4. Project integration management.md",
+                "file": "01_Experience/IoT/Zigbee2MQTT/Devices_specific_notes/Tuya/Tuya.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Experience/PMP/Head first PMP/4. Project integration management/4. Project integration management.md",
+                "file": "01_Experience/IoT/Zigbee2MQTT/Devices_specific_notes/Tuya/Tuya.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Experience/PMP/Head first PMP/4. Project integration management/4. Project integration management.md"
+                "file": "01_Experience/IoT/Zigbee2MQTT/Devices_specific_notes/Tuya/Tuya.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Experience/PMP/Head first PMP/4. Project integration management/4. Project integration management.md",
+                "file": "01_Experience/IoT/Zigbee2MQTT/Devices_specific_notes/Tuya/Tuya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,12 +181,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b94a1955f054606b",
+  "active": "cf2637746ad5ed6b",
   "lastOpenFiles": [
+    "01_Experience/PMP/Head first PMP/4. Project integration management/4. Project integration management.md",
     "01_Experience/PMP/Head first PMP/2. Organizations, constraints, and projects in good company/2. Organizations, constraints, and projects in good company.md",
     "01_Experience/PMP/Head first PMP/0. Overview/0. Overview.md",
     "01_Experience/PMP/Head first PMP/1. Introduction_Why get certified/1. Introduction_Why get certified.md",
-    "01_Experience/PMP/Head first PMP/4. Project integration management/4. Project integration management.md",
     "01_Experience/PMP/Head first PMP/3. The process framework/3. The process framework.md",
     "01_Experience/AI_in_production/Overall_Strategy/Simplicity is An Advantage but Sadly Complexity Sells Better/Simplicity is An Advantage but Sadly Complexity Sells Better.md",
     "01_Experience/AI_in_production/Overall_Strategy/Design documentations for machine learning systems/Design documentations for machine learning systems.md",
