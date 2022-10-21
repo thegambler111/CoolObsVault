@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Life_experience/Book recap/Building A Second Brain - Tiago Forte/Building A Second Brain - Tiago Forte.md",
+                "file": "03_Life_experience/Leadership/21 lessons will change how you lead/21 lessons will change how you lead.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Life_experience/Leadership/__10 lessons to avoid biggest mistakes when leading a team/__10 lessons to avoid biggest mistakes when leading a team.md",
+                "file": "03_Life_experience/Growing up/13 lies the world told me in my 20s/13 lies the world told me in my 20s.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 367.5026054382324
   },
   "right": {
     "id": "8e736dfd05cd9185",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/Book recap/Building A Second Brain - Tiago Forte/Building A Second Brain - Tiago Forte.md",
+                "file": "03_Life_experience/Leadership/21 lessons will change how you lead/21 lessons will change how you lead.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Life_experience/Book recap/Building A Second Brain - Tiago Forte/Building A Second Brain - Tiago Forte.md"
+                "file": "03_Life_experience/Leadership/21 lessons will change how you lead/21 lessons will change how you lead.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Life_experience/Book recap/Building A Second Brain - Tiago Forte/Building A Second Brain - Tiago Forte.md",
+                "file": "03_Life_experience/Leadership/21 lessons will change how you lead/21 lessons will change how you lead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,15 +183,14 @@
   },
   "active": "cf2637746ad5ed6b",
   "lastOpenFiles": [
+    "03_Life_experience/Leadership/14 concepts to understand before you lead a team/14 concepts to understand before you lead a team.md",
+    "03_Life_experience/Leadership/21 lessons will change how you lead/21 lessons will change how you lead.md",
+    "03_Life_experience/Leadership/Weekly memo that moves your business forward/Weekly memo that moves your business forward.md",
+    "03_Life_experience/Growing up/13 lies the world told me in my 20s/13 lies the world told me in my 20s.md",
     "03_Life_experience/Leadership/__10 lessons to avoid biggest mistakes when leading a team/__10 lessons to avoid biggest mistakes when leading a team.md",
+    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
     "03_Life_experience/Book recap/Building A Second Brain - Tiago Forte/Building A Second Brain - Tiago Forte.md",
     "03_Life_experience/Book recap/I Will Teach You To Be Rich - Ramit sethi/I Will Teach You To Be Rich - Ramit sethi.md",
-    "99_Others/Current_work/Unfinished work/Unfinished work.md",
-    "01_Experience/IoT/Zigbee2MQTT/Devices_specific_notes/Tuya/Tuya.md",
-    "01_Experience/PMP/Head first PMP/4. Project integration management/4. Project integration management.md",
-    "01_Experience/PMP/Head first PMP/2. Organizations, constraints, and projects in good company/2. Organizations, constraints, and projects in good company.md",
-    "01_Experience/PMP/Head first PMP/0. Overview/0. Overview.md",
-    "01_Experience/PMP/Head first PMP/1. Introduction_Why get certified/1. Introduction_Why get certified.md",
-    "01_Experience/PMP/Head first PMP/3. The process framework/3. The process framework.md"
+    "99_Others/Current_work/Unfinished work/Unfinished work.md"
   ]
 }
