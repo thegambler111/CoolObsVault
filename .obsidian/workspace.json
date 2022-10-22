@@ -4,43 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "294d91928a095836",
+        "id": "a0b2fc1d11f003da",
         "type": "tabs",
         "children": [
           {
-            "id": "cf2637746ad5ed6b",
+            "id": "55556f6ceae12749",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Life_experience/Leadership/21 lessons will change how you lead/21 lessons will change how you lead.md",
+                "file": "03_Life_experience/How to learn/5 keys to practicing effectively/5 keys to practicing effectively.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b695780463a6a762",
+            "id": "a9c4ecc10dcf5820",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Life_experience/Growing up/13 lies the world told me in my 20s/13 lies the world told me in my 20s.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dd1b2dae443e2ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -73,8 +57,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:#learning",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -94,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5026054382324
+    "width": 274.5007801055908
   },
   "right": {
     "id": "8e736dfd05cd9185",
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/Leadership/21 lessons will change how you lead/21 lessons will change how you lead.md",
+                "file": "03_Life_experience/How to learn/5 keys to practicing effectively/5 keys to practicing effectively.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Life_experience/Leadership/21 lessons will change how you lead/21 lessons will change how you lead.md"
+                "file": "03_Life_experience/How to learn/5 keys to practicing effectively/5 keys to practicing effectively.md"
               }
             }
           },
@@ -149,29 +133,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "1ac87ad324da94af",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "856fec195ce6dc41",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "03_Life_experience/Leadership/21 lessons will change how you lead/21 lessons will change how you lead.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,16 +145,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "cf2637746ad5ed6b",
+  "active": "55556f6ceae12749",
   "lastOpenFiles": [
-    "03_Life_experience/Leadership/14 concepts to understand before you lead a team/14 concepts to understand before you lead a team.md",
-    "03_Life_experience/Leadership/21 lessons will change how you lead/21 lessons will change how you lead.md",
-    "03_Life_experience/Leadership/Weekly memo that moves your business forward/Weekly memo that moves your business forward.md",
-    "03_Life_experience/Growing up/13 lies the world told me in my 20s/13 lies the world told me in my 20s.md",
-    "03_Life_experience/Leadership/__10 lessons to avoid biggest mistakes when leading a team/__10 lessons to avoid biggest mistakes when leading a team.md",
-    "01_Experience/IoT/Zigbee2MQTT/Others/Z2M vision/Z2M vision.md",
-    "03_Life_experience/Book recap/Building A Second Brain - Tiago Forte/Building A Second Brain - Tiago Forte.md",
-    "03_Life_experience/Book recap/I Will Teach You To Be Rich - Ramit sethi/I Will Teach You To Be Rich - Ramit sethi.md",
-    "99_Others/Current_work/Unfinished work/Unfinished work.md"
+    "03_Life_experience/Leadership/_10 biggest mistakes and lessons to avoid them/_10 biggest mistakes and lessons to avoid them.md",
+    "03_Life_experience/How to learn/5 keys to practicing effectively/5 keys to practicing effectively.md",
+    "01_Experience/Code/Python/22 Best Practices to Take Your API Design Skills to the Next Level.md",
+    "02_Raw/AI_notes/Kaggle_material/Competitions to learn for NLP and computer vision  from Kaggle.md",
+    "99_Others/Quotes/quote_20220401.md",
+    "02_Raw/AI_notes/Learning_courses/Pytorch 101 - Abhishek Thakur.md",
+    "02_Raw/AI_notes/Learning_courses/Machine learning PhD.md",
+    "02_Raw/AI_in_production/AI Expert Roadmap.md",
+    "02_Raw/AI_notes/Kaggle_material/Progressively approaching Kaggle.md",
+    "02_Raw/AI_notes/Learning_courses/MLOPs learning courses.md"
   ]
 }
