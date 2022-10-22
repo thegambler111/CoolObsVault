@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Life_experience/How to learn/5 keys to practicing effectively/5 keys to practicing effectively.md",
+                "file": "03_Life_experience/How to learn/How to remember everything/How to remember everything.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb8dcd23795bde2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Life_experience/How to learn/How to remember everything/How to remember everything.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "064b41381082b76c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Life_experience/How to learn/How to remember everything/How to remember everything.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Life_experience/How to learn/5 keys to practicing effectively/5 keys to practicing effectively.md",
+                "file": "03_Life_experience/How to learn/How to remember everything/How to remember everything.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Life_experience/How to learn/5 keys to practicing effectively/5 keys to practicing effectively.md"
+                "file": "03_Life_experience/How to learn/How to remember everything/How to remember everything.md"
               }
             }
           },
@@ -139,8 +163,8 @@
   },
   "active": "55556f6ceae12749",
   "lastOpenFiles": [
-    "03_Life_experience/Leadership/_10 biggest mistakes and lessons to avoid them/_10 biggest mistakes and lessons to avoid them.md",
     "03_Life_experience/How to learn/5 keys to practicing effectively/5 keys to practicing effectively.md",
+    "03_Life_experience/Leadership/_10 biggest mistakes and lessons to avoid them/_10 biggest mistakes and lessons to avoid them.md",
     "01_Experience/Code/Python/22 Best Practices to Take Your API Design Skills to the Next Level.md",
     "02_Raw/AI_notes/Kaggle_material/Competitions to learn for NLP and computer vision  from Kaggle.md",
     "99_Others/Quotes/quote_20220401.md",
