@@ -1,4 +1,4 @@
-# 
+#
 - Learn, practice, recall - repeat
 	- While reviewing make sure you recalling and not just re-reading passively.
 - Practice chunkling
@@ -10,16 +10,10 @@
 - Sleep
 	- Your brain is like a muscle, it needs proper sleep and build those long lasting connections
 
-
-# 
-
+#
 ---
 - Status: #done
-
-- Tags: #how_to_learn 
-
+- Tags: #how_to_learn
 - References:
 	- [Source](https://twitter.com/TheConquerMM/status/1573270829520982017)
-
 - Related:
-	- 
