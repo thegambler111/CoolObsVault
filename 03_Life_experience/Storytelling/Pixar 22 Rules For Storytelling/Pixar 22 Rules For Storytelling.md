@@ -1,7 +1,7 @@
 # Rule #1: You admire a character for trying more than for their successes.
 - Focus on the how and why (and less on the what).
 
-# Rule #2: You gotta keep in mind what’s interesting to you as an audience, not what’s fun to do as a writer
+# Rule #2: You have to keep in mind what’s interesting to you as an audience, not what’s fun to do as a writer
 - You, the writer, are completely irrelevant.
 - Focus on delivering to the audience.
 
@@ -11,11 +11,24 @@
 
 # Rule #4: Once upon a time there was __ . Every day, __ . One day __ . Because of that, __ . Because of that, __ . Until finally __ .
 - You can use this "story spine" to effortlessly create a narrative.
+- What each of these actually means:
+	1. Establish setting – the “normal world”
+	2. Show character in normal world
+	3. Boom, something happens to throw the normal world into chaos
+	4. Another thing happens to make it harder for your characters
+	5. Yet another thing makes it harder for your characters
+	6. Your characters overcome and are better for it
+- Pixar including the double “because of that” shows the importance of raising the stakes throughout your story.
 
 # Rule #5: Simplify. Focus. Combine characters. Hop over detours. You’ll feel like you’re losing valuable stuff but it sets you free.
 - The goal should be to add constraints and do more with less.
+- The 5th Harry Potter is an 800+ page book with one main plot and five subplots
+- There’s no need for your story to have more than that. Assuming its shorter, aiming for just one or two subplots is even better.
+- Simplicity makes it easier for your audience to track and remember your story.
 
 # Rule #6: What is your character good at, comfortable with? Throw the polar opposite at them. Challenge them. How do they deal?
+- Stories are about the transformation the Hero:
+	- You challenge her to overcome her weaknesses.
 
 # Rule #7: Come up with your ending before you figure out your middle. Seriously. Endings are hard, get yours working up front.
 
@@ -23,6 +36,7 @@
 - Don't let perfectionism keep you from publishing.
 
 # Rule #9: When you’re stuck, make a list of what WOULDN’T happen next. Lots of times the material to get you unstuck will show up.
+- You can make this step easier by changing your working location
 
 # Rule #10: Pull apart the stories you like. What you like in them is a part of you; you’ve got to recognize it before you can use it.
 - 90% of being a good writer or storyteller is being a good *noticer*
@@ -40,9 +54,11 @@
 => OR try many many times to succeed a few
 
 # Rule #13: Give your characters opinions. Passive/malleable might seem likable to you as you write, but it’s poison to the audience.
+- Give your characters traits, thoughts and characteristics
 
 # Rule #14: Why must you tell THIS story? What’s the belief burning within you that your story feeds off of? That’s the heart of it.
-
+- What about this story is uniquely you?
+- And can you embed that into the story to make it special?
 # Rule #15: If you were your character, in this situation, how would you feel? Honesty lends credibility to unbelievable situations.
 
 # Rule #16: What are the stakes? Give us a reason to root for the character. What happens if they don’t succeed? Stack the odds against.
