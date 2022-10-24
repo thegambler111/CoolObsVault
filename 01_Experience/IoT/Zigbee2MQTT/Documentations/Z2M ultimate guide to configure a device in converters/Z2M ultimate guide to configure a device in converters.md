@@ -346,6 +346,9 @@ vt_tuya_dimmer_switch_dme: {
 		- Even when device state does not change, new report is sent after maximumReportInterval senconds
 	- `reportableChange`:
 		- (Need to verify) How much the attribute changes compare to the last report to count as device state changes
+		- (ZCl 2.5.7) Depend on datatype in ZCL 2.6.2:
+			- For attributes with 'analog' data type, the field has the same data type as the attribute
+			- For attributes of 'discrete' data type, this field is omitted
 		- Example: If reportableChange = 2 for attribute temperature, device only send report when the temperature increase or decrease more than 2 (in attribute value) than the last report
 - Send configure reporting command: `await endpoint.configureReporting(cluster, payload)
 	- `cluster`: Cluster name
