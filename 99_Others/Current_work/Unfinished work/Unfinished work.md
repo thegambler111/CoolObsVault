@@ -103,6 +103,8 @@ Values:
 - Platform breakdown
 - CTKT GW
 - Vision
+- Họp thống nhất lại quy trình sniff thiết bị Zigbee
+	- Chuẩn bị nội dung
 - Khóa học quý 4
 - [ ] Thiết kế app base:
 	- Mục tiêu
