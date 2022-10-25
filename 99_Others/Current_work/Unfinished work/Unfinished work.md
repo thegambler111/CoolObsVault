@@ -101,11 +101,19 @@ Values:
 - Verify writing Duc and Trung
 - Help Tu setup
 - Platform breakdown
+	- LWM2M
+	- HTTP
+	- UDP
 - CTKT GW
+	- How many part
+	- 
 - Vision
 - Họp thống nhất lại quy trình sniff thiết bị Zigbee
-	- Chuẩn bị nội dung
+	- [x] Chuẩn bị nội dung
 - Khóa học quý 4
+	- MQTT
+	- LinkedIn
+	- ....
 - [ ] Thiết kế app base:
 	- Mục tiêu
 		- Test thiết bị
