@@ -1,10 +1,10 @@
 # Setup prettier
+
 ## Change in settings.json
 - Download extensions:
 	- Eslint
 	- Prettier
 	- Prettier Eslint
-
 - Open settings.json
 	- Ctrl+Shift+P:
 	- Search "Preferences: Open Settings (JSON)"
@@ -42,23 +42,15 @@
 # Link modules
 - In any folder, before running any `npm link` command, run `npm ci` to download external libraries if you have not run it before
 ![[01_Experience/Code/JavaScript/TypeScript/npm link_Debug Typescript module in node_modules/npm link_Debug Typescript module in node_modules#Using npm link for Zigbee2mqtt]]
+- After linking, run `npm run build` in `zigbee-herdsman`, `zigbee2mqtt-frontend` then in `zigbee2mqtt`
+
 
 # Use Vscode as git message editor
 ![[01_Experience/Code/Git/Set Vscode as default git message editor/Set Vscode as default git message editor#Set Vscode as default git message editor]]
 
-
-
-
-
-# 
-
+#
 ---
 - Status: #done
-
 - Tags: #z2m
-
 - References:
-	- 
-
 - Related:
-	- 

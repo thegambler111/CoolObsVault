@@ -83,6 +83,7 @@
 	- If you get new code in `zigbee-herdsman` or `zigbee2mqtt`, you will need to rebuild:
 		- `npm run build`
 		- You do not need to build in folder `zigbee-herdsman-converters`
+		- If you are in windows, in `zigbee-herdsman`, run `npm run build_windows` instead
 	- Done
 
 
