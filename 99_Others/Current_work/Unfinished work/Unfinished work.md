@@ -99,6 +99,7 @@ Values:
 
 # Daily:
 - Verify writing Duc and Trung
+- Count PIR
 - Help Tu setup
 - Platform breakdown
 	- LWM2M
@@ -106,7 +107,6 @@ Values:
 	- UDP
 - CTKT GW
 	- How many part
-	- 
 - Vision
 - Họp thống nhất lại quy trình sniff thiết bị Zigbee
 	- [x] Chuẩn bị nội dung
