@@ -15,7 +15,6 @@
 ```markdown
 # Discussion name: Device number Device code (15.2 DMS): Description
 # 1. Device information:
-- Link to issue
 - Link to drive
 
 # 2. Requests
@@ -26,9 +25,8 @@
 - List of missing functions and details
 
 
-# 3. Expected finishing time
+# 3. Priority
 - Priority: Low, Normal, High
-- Finishing time
 ```
 
 # 2. Check on the project dashboard
@@ -60,8 +58,13 @@
 		- Move the issue to "Re-open" tab in project dashboard
 		- Notify in WhatsApp's group chat
 	- If the code is working as you expected:
+		- Close the issue
 		- Move the issue to "Approved" tab in project dashboard
 		- Update the "progress" excel file
+
+# 4. Excel profile form for devices in Phase 2
+- https://docs.google.com/spreadsheets/d/1E1TRiQkhVdGuEI7GilPVuSLv6DTn2mGo
+
 
 # 
 ---
