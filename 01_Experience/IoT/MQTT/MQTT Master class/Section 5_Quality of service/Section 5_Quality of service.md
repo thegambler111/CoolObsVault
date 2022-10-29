@@ -12,7 +12,7 @@
 
 ## QoS 1
 - QoS 1 guarantees that the message is received at least 1 time
-	- After a predefined time without Ack, the message is  published again
+	- After a predefined time without Ack, the message is published again
 - Usage:
 	- The application must receive every message
 	- The application can filter duplicates
@@ -23,19 +23,29 @@
 	- The delivery guarantee is achieved by a 4 part handshake
 - This is the slowest method
 - 4 part handshake:
-	- Publisher -> BrokerPublish with QoS 2
-	- 
+	- Publisher -> Broker: Publish with QoS 2
+	- Broker -> Publisher: PubRec
+	- Publisher -> Broker: PubRel
+	- Broker -> Subscriber: Publish
+	- Broker -> Publisher: PubComp
+- Usage:
+	- Message delivery is critical
+	- Duplicate delivery can harm the system
+	- For Mission critical application
 
+## QoS of publish and subcribe:
+- QoS of subscribe message <= QoS of publish message
+- Example:
+	- If Subscribe with QoS=1
+		- If Publish message is in QoS=0
+			- -> Subscribe message is in QoS=0
+		- If Publish message is in QoS=1 or 2
+			- -> Subscribe message is in QoS=1
 
-
-# 
-
+#
 ---
-- Status: #done 
-
+- Status: #done
 - Tags: #mqtt
-
 - References:
 	- [Source]()
-
 - Related:
