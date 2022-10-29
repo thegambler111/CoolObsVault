@@ -10,6 +10,7 @@
 	- Search "Preferences: Open Settings (JSON)"
 
 ```json
+    "files.autoSave": "onFocusChange",
     "files.eol": "\n",
     "prettier.tabWidth": 4,
     "editor.autoClosingBrackets": "always",

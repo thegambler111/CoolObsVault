@@ -110,7 +110,12 @@
 ![[01_Experience/IoT/MQTT/MQTT Master class/Section 2_MQTT packets/PingReq, PingResp and Disconnect.png]]
 
 
+# Keepalive
 
+- If `keepalive = 5 seconds`
+	- After 5 seconds without communication with broker, client send a PingReq
+	- The broker then response with PingResp
+	- If the broker is unreachable for more than 1.5 x `keepalive` (7.5s), the client will close the connection with the broker
 
 
 

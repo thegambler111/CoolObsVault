@@ -1,3 +1,19 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "file",
+      "title": "__10 lessons to avoid biggest mistakes when leading a team",
+      "path": "03_Life_experience/Leadership/__10 lessons to avoid biggest mistakes when leading a team/__10 lessons to avoid biggest mistakes when leading a team.md"
+    },
+    {
+      "type": "file",
+      "title": "__10 ideas for building great culture in a distributed team",
+      "path": "03_Life_experience/Leadership/__10 ideas for building great culture in a distributed team/__10 ideas for building great culture in a distributed team.md"
+    },
+    {
+      "type": "file",
+      "title": "_How to build a successful one-person business",
+      "path": "03_Life_experience/Career building/_How to build a successful one-person business/_How to build a successful one-person business.md"
+    }
+  ]
 }
