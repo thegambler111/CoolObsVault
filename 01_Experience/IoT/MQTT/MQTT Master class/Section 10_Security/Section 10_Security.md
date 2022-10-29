@@ -20,7 +20,8 @@
 			- LWT in Connect message
 
 ## Authentication
-- You can send a username without a password but not a password without username
+- You can send a username without a password but not a password without username 
+	- In MQTT v5, you can send password without username
 	- Username and password are send in plain text
 
 ## TLS
@@ -84,35 +85,22 @@
 # Integrity
 - Integrity checks ensure that an attacker does not modify the MQTT message.
 ![[01_Experience/IoT/MQTT/MQTT Master class/Section 10_Security/Integrity.png]]
+
 ## Digital signature
 - A digital signature is a digital code generated and authenticated by public key encryption
 - Digital signature can be used to verify its contents and the sender's identity
 ![[01_Experience/IoT/MQTT/MQTT Master class/Section 10_Security/Digital signature.png]]
 
 ## Checksum
+- It checksum is created by converting the payload data into a fixed string called a hash value
+- In MQTT, checksum is add at the beginning of payload data
+- The receiver will recalculate the checksum to validate the integrity of the message
 
-- Checksum is calculated based on MQTT payload data.
-
-It checksum is created by converting the payload data into a fixed string called a hash value
-In MQTT, checksum is add at the beginning of payload data
-The receiver will recalculate the checksum to validate the integrity of the payload
-
-This checksum value can be added at the beginning of time.
-
-Kutty payload data, the application that receives the message, would recalculate the Texan to verify
-
-the integrity of the message.
-
-
-
-
-
-
-
-
-
-
-
+## Message authentication code
+![[01_Experience/IoT/MQTT/MQTT Master class/Section 10_Security/Message Authentication Code.png]]
+- A message authentication code is used to verify that the message came from a trusted client and not being tinkered during transit.
+- A Message Authentication Code is created based on both a secret key and an MQTT message payload
+- Message Authentication Code is sent in the MQTT message
 
 #
 ---
