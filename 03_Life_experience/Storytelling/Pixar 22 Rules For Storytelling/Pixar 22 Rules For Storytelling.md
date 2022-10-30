@@ -62,6 +62,10 @@
 # Rule #15: If you were your character, in this situation, how would you feel? Honesty lends credibility to unbelievable situations.
 
 # Rule #16: What are the stakes? Give us a reason to root for the character. What happens if they don’t succeed? Stack the odds against.
+- Point out a threat
+	- The threat must be viable
+- In business, highlight the very specific painpoints your potential customers
+	- Remember their business can run without you, but if you’re a painkiller, they’re more likely to get interested
 
 # Rule #17: No work is ever wasted. If it’s not working, let go and move on - it’ll come back around to be useful later.
 - Focus on showing up - consistency creates competence.
@@ -76,7 +80,8 @@
 # Rule #20: Exercise: take the building blocks of a movie you dislike. How would you rearrange them into what you DO like?
 
 # Rule #21: You gotta identify with your situation/characters, can’t just write ‘cool’. What would make YOU act that way?
-- Make your listener feel understood (through authenticity).
+- Make your listener feel understood (through authenticity)
+- A trick is to write from the perspective of your characters
 
 # Rule #22: What’s the essence of your story? Most economical telling of it? If you know that, you can build from there.
 - And the best for last - ask yourself: what are you *really* trying to say (in as few words as possible).
@@ -95,3 +100,6 @@
 	- [Rule 18 source](https://twitter.com/dickiebush/status/1420177361295880192)
 - Related:
 	- Rule 16: [[03_Life_experience/Storytelling/3 frameworks to build your story-spotting muscle from storyworthy/3 frameworks to build your story-spotting muscle from storyworthy]]
+	- [Nathan Baugh part 1](https://www.worldbuilders.ai/p/pixars-22-rules-storytelling-part-1)
+	- [Nathan Baugh part 2](https://www.worldbuilders.ai/p/pixars-22-rules-storytelling-part-2)
+	- [Nathan Baugh part 3](https://www.worldbuilders.ai/p/creativity-inc)
