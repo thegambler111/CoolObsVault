@@ -197,6 +197,7 @@ Values:
 - (10%) Xây dựng kế hoạch năm 2023 cho team Zigbee và Platform
 - (10%) Hoàn thành các khóa học
 
+
 #
 ---
 - Status: #writing
