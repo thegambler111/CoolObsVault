@@ -99,7 +99,7 @@ Values:
 
 # Daily:
 - Verify writing Duc and Trung
-- Count PIR
+- [x] Count PIR
 - Help Tu setup
 - Platform breakdown
 	- LWM2M
@@ -108,7 +108,7 @@ Values:
 - CTKT GW
 	- How many part
 - Vision
-- Họp thống nhất lại quy trình sniff thiết bị Zigbee
+- [x] Họp thống nhất lại quy trình sniff thiết bị Zigbee
 	- [x] Chuẩn bị nội dung
 - Khóa học quý 4
 	- MQTT
@@ -122,7 +122,7 @@ Values:
 - Công việc quý 4
 	- [x] Zigbee
 	- [ ] **Platform**
-		- [ ] Sáng T2 chia việc tích hợp thiết bị
+		- [x] Sáng T2 chia việc tích hợp thiết bị
 - [x] GW setup Đức
 - [x] FTTH
 - [x] Update GW HCM
