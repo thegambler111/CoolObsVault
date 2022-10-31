@@ -82,7 +82,7 @@
 #
 ---
 - Status: #done
-- Tags: #start_up
+- Tags: #startup
 - References:
 	- [Source](https://twitter.com/theryanking/status/1584255476614561792)
 - Related:
