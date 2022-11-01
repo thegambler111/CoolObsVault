@@ -36,10 +36,7 @@
 - Solve their problem with a connection & you leapfrog hundreds of other people trying to build that relationship.
 
 # 5. Use DMs effectively to build relationships
-
-
-
-
+- [[03_Life_experience/Relationship building/Use DM effectively/Use DM effectively|Use DM effectively]]
 
 #
 ---
