@@ -198,7 +198,13 @@ Values:
 - (10%) Hoàn thành các khóa học
 
 ---
-
+1 00f0 03e8 03d6 0000 0000
+- 1 = Full gradient
+- 00f0 = Hue
+- 03e8 = Saturation
+- 03d6 = value
+- 0000 = brightness
+- 0000 = color temp
 
 
 
