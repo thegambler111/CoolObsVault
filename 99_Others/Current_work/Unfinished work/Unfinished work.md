@@ -108,6 +108,9 @@ Values:
 - CTKT GW
 	- How many part
 - Vision
+- Commit herdsman
+- Chuyển hàng anh Thi
+- Đặt mua Hue Bridge
 - [x] Họp thống nhất lại quy trình sniff thiết bị Zigbee
 	- [x] Chuẩn bị nội dung
 - Khóa học quý 4
@@ -198,15 +201,6 @@ Values:
 - (10%) Hoàn thành các khóa học
 
 ---
-1 00f0 03e8 03d6 0000 0000
-- 1 = Full gradient
-- 00f0 = Hue
-- 03e8 = Saturation
-- 03d6 = value
-- 0000 = brightness
-- 0000 = color temp
-
-
 
 #
 ---
