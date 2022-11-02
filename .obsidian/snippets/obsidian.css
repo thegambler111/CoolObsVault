@@ -144,6 +144,8 @@ span.cm-em {
 .theme-dark {
     /* Bullet */
     --text-faint: #5c73f2;
+    /* File name and hover bullet */
+    /* --text-muted: #dc5cf2; */
 }
 
 /* pdf style */

@@ -102,8 +102,8 @@ Values:
 - [x] Count PIR
 - Help Tu setup
 - Platform breakdown
+	- **HTTP**
 	- LWM2M
-	- HTTP
 	- UDP
 - CTKT GW
 	- How many part
