@@ -1,8 +1,6 @@
 # Graph
-
-- to exclude folder, in filter tab, use: *-path:path/to/folder*
-
-Currently use: -path:Daily_notes -path:Setup
+- To exclude folder, in filter tab, use: *-path:path/to/folder*
+- Currently use: -path:Daily_notes -path:Setup
 
 # Hotkeys
 | Usage                 | Hotkey             |
@@ -27,28 +25,28 @@ Currently use: -path:Daily_notes -path:Setup
 |                       |                    |
 
 # Adding blank line in preview mode
-
-Use "\&emsp;" (for copy/paste purpose &emsp; )
-
-
-
+- Use "\&emsp;" (for copy/paste purpose &emsp; )
 
 # Change CSS
 - Enable custom CSS
 - Change css at file: vault_name/.obsidian/snippets/obsidian.css
 
+## Inspect mode
+- Ctrl + Shift + I
+
+## Reload UI
+- Reload app without saving command
+- Ctrl + R
 
 # Copy setting from other vault
-
 - Copy the .obsidian folder
-
 
 #
 ---
-Status: #done 
+Status: #done
 
 Tags: #obsidian #cheat_sheet
 
 References:
 
-Related: 
+Related:

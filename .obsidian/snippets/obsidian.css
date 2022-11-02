@@ -139,6 +139,12 @@ span.cm-strong {
 span.cm-em {
     color: #FFC170;
 }
+/* Live preview */
+
+.theme-dark {
+    /* Bullet */
+    --text-faint: #5c73f2;
+}
 
 /* pdf style */
 @media print {
