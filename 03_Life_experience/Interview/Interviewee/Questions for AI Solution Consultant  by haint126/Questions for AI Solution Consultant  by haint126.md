@@ -34,4 +34,4 @@ Tags: #interview #model_evaluation #solution
 References:
 - 
 
-Related: [[03_Life_experience/Interview/AI-ML Interviewing engineers/AI-ML Interviewing engineers]]
+Related: [[03_Life_experience/Interview/Interviewee/AI-ML Interviewing engineers/AI-ML Interviewing engineers]]

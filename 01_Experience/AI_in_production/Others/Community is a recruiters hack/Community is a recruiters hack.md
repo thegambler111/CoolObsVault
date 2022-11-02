@@ -1,9 +1,9 @@
 # Community is a recruiters hack
 
-Community is a recruiters hack:
-- Hire the top contributors as software engineers
-- Hire the best writers as marketers
-- Hire the issue closers as product managers. 
+- Community is a recruiters hack:
+	- Hire the top contributors as software engineers
+	- Hire the best writers as marketers
+	- Hire the issue closers as product managers. 
 
 
 # 5 business models of Machine Learning startup
