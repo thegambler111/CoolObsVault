@@ -1,0 +1,73 @@
+# TLDR
+- You can tell everything you need to know about a person by observing
+	- How they treat service workers
+	- Whether they put their shopping cart back.
+- You don't need to have an opinion on everything
+- Hard work is never overrated
+- Reading 1 impactful book > reading 100 books
+- Showing up early pays off in the long run
+- You can get far by saying what you're going to do and then doing it
+- When you start your first job, the best way to get ahead is to do what your boss hates
+- Waking up early is the easiest way to improve your odds of success
+- Having good posture is a physical and mental improvement
+- Handwritten notes never goes out of style
+- Embracing a bit of friction in your life
+- Black coffee is the most socially acceptable adult flex
+- Everyone should write more
+- Most people you look up to are remarkably unremarkable
+- Second-order thinkers >> first-order thinkers
+	- Second-order thinkers consistently asks "And then what?"
+- Most of us need fewer friends and more intellectual sparring partners
+- Intellectual curiosity is an exceedingly important trait
+- Being kind to people is the only real life hack
+- Never bet against a person who just keeps showing up.
+
+# Old fashion things
+- You can tell everything you need to know about a person by observing
+	- How they treat service workers
+	- Whether they put their shopping cart back.
+- You don't need to have an opinion on everything.
+	- It's perfectly reasonable to have no opinion on something that you haven't researched or don't understand.
+- Smart work may be underrated, but hard work isn't overrated.
+	- You have to work hard if you want to get ahead.
+	- There are a few exceptions, but not many.
+- It's much more impressive to read one book and have it deeply impact you than to read 100 books and not feel a thing.
+	- We should all stop talking about how many books we read last year.
+- Showing up early costs very little and pays off handsomely in the long run.
+- You can get pretty damn far in life by just saying what you're going to do and then doing it.
+- When you start your first job, the best way to get ahead is to "Swallow the Frog" for your boss.
+	- Observe what they hate doing
+	- Learn to do it well
+	- Take it off their plate
+	- It's an easy way to get a win on the board.
+- Waking up early is the easiest way to improve your odds of success.
+	- You don't have to wake up early to be successful, but you rarely find an early riser that isn't winning.
+- Having good posture is a physical and mental unlock for life.
+	- It's linked to a variety of real health benefits, plus it improves self-confidence.
+	- Stand up straight with your shoulders back.
+- Handwritten notes on personalized stationery should never go out of style.
+- Embracing a bit of friction in your life is a good thing.
+	- When you obsessively remove friction, sometimes you remove the very thing that created meaning and self-worth.
+- Black coffee is delicious.
+	- Ordering your coffee black is the most socially acceptable adult flex.
+- Everyone should write more.
+	- Becoming a better writer is the most sure-fire way to level up in your career and life.
+- Most people you look up to are remarkably unremarkable.
+	- That's not disappointing—that's an empowering realization.
+- Second-order thinkers are always in short supply.
+	- Consistently asking "And then what?" is a tried-and-true method to stand out in a world of first-order thinkers.
+- Most of us need fewer friends and more intellectual sparring partners.
+	- Friends are pleasant and easy to come by, but intellectual sparring partners question our assumptions and force us to level up.
+- Intellectual curiosity will be an exceedingly important trait in a future where intelligence and energy are increasingly abundant.
+	- Willingness to follow a spark down a rabbit hole is a common trait of the most successful people.
+- Being kind to people is the only real life hack.
+	- Kindness remains severely underrated.
+- You should never bet against a person who just keeps showing up.
+
+#
+---
+- Status: #done
+- Tags: #growing_up
+- References:
+	- [Source]()
+- Related:
