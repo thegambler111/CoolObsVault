@@ -12,7 +12,7 @@
 		- [x] Good number of concurrent connected devices
 		- [x] High number of concurrent messages
 		- [x] Zigbee network auto repair
-			-  Change channel when the current channel becomes noisy
+			- Change channel when the current channel becomes noisy
 			- Change PAN ID if detecting another network with the same PAN ID
 			    - Using extended PAN ID to tell all devices in the network to move
 			- Frame counter wrap can cause errors -> change network key to reset frame counter
