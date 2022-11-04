@@ -132,7 +132,7 @@ Values:
 - [x] Chuyển cảm biến Moes -> HCM
 - [x] Anh Tân
 - [x] ssh tb server
-
+đầu vào, ra. lợi ít vs mình, vs khách hàng
 
 ---
 
