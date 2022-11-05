@@ -196,6 +196,62 @@
 
 ## Leshan example
 
+# oneM2M
+
+- Interworking framework that can make devices or systems running different protocols work together
+## oneM2M layered model
+![[01_Experience/IoT/Courses/IoT Foundations_Device Management/Layered model.png]]
+- Application layer
+	- oneM2M applications
+	- Related business
+	- Operational logic  
+- Common service layer
+	- oneM2M service functions
+		- Device management
+	- Service discovery
+	- Policy enforcement
+- Network 
+	- Transport
+	- Connection
+	- Service functions
+
+## Functional architecture
+### Domains
+- 2 types of domains
+	- Infrastructure domain:
+		- Contains Infrastructure nodes
+	- Field domain
+		- Contains non-infrastructure nodes
+
+### Nodes
+- Nodes are logical entities that are individually identifiable in the oneM2M system
+- 2 types of nodes:
+	- CSE-Capable nodes
+		- Contains at least 1 CSE, 0 or more AE
+		- Example: Application service node, Infrastructure node, middle node
+	- non-CSE-capable nodes
+		- Does not contain CSE or AE
+		- Example: Application dedicated node and Non-oneM2M node
+
+## Architecture
+
+![[01_Experience/IoT/Courses/IoT Foundations_Device Management/Architecture.png]]
+
+## Common services functions (CSFs)
+
+![[01_Experience/IoT/Courses/IoT Foundations_Device Management/Common services functions.png]]
+
+### Device management (DMG) CSF
+- Management of device capabilities on MNs, ASNs, ADNs, and devices within an M2M area network
+### Management adaptors
+- In management server:
+	- Protocol translation between DMG and Management server
+	- Interaction with the management server
+	- Management server selection
+	- Discovery of technology-specific data models objects
+- In management client:
+	- Discover the technology-specific data model objects supported by the Management client using the "la" interface
+	- Create a mapping between the data model objects to resources
 
 
 
