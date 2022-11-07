@@ -109,7 +109,7 @@ Values:
 	- How many part
 - Vision
 - Commit herdsman
-- Chuyển hàng anh Thi
+- [x] Chuyển hàng anh Thi
 - Đặt mua Hue Bridge
 - [x] Họp thống nhất lại quy trình sniff thiết bị Zigbee
 	- [x] Chuẩn bị nội dung
@@ -218,6 +218,7 @@ Values:
 		- Gạt bỏ Gateway, kết nối trực tiếp đến platform, đoạn converter sẽ đẩy lên rulechain
 		- 
 
+ngô vũ thu trang phòng kỹ thuật
 
 
 ---
