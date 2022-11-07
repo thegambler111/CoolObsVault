@@ -218,7 +218,6 @@ Values:
 		- Gạt bỏ Gateway, kết nối trực tiếp đến platform, đoạn converter sẽ đẩy lên rulechain
 		- 
 
-ngô vũ thu trang phòng kỹ thuật
 
 
 ---
