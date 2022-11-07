@@ -201,7 +201,26 @@ Values:
 - (10%) Hoàn thành các khóa học
 
 ---
+- K8s:
+	- Triển khai xong K8S trên 5 server với sự giúp đỡ của CĐS
+		- -> Tự triển khai trên con 227 để làm chủ
+	- Chưa có kinh nghiệm về phần kết nối giữa các thành phần của K8S
+- HTTP:
+	- Mục tiêu: Tích hợp thiết bị HTTP <= 1 ngày
+	- Hiện tại:
+		- Tích hợp qua Gateway
+			- Host HTTP: nhận bản tin từ thiết bị để điều phối về Platform
+			- Converter: xử lý dữ liệu từ thiết bị và bắn lên MQTT broker của Thingsboard
+		- Thingsboard có khả năng tích hợp trực tiếp HTTPs
+			- Tuy nhiên hiện tại địa chỉ của thiết bị chưa custumize được hoàn toàn
+			- -> Nếu customize được thì hoàn thành mục tiêu
+	- Kế hoạch:
+		- Gạt bỏ Gateway, kết nối trực tiếp đến platform, đoạn converter sẽ đẩy lên rulechain
+		- 
 
+
+
+---
 #
 ---
 - Status: #writing
