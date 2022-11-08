@@ -36,7 +36,7 @@
 	- Using pre-shared key PSK
 
 ## Payload encryption
-- Payload encryption is useful when you cannot use TSL due to computation and communication overhead
+- Payload encryption is useful when you cannot use TLS due to computation and communication overhead
 - Disadvantages:
 	- Cannot be implemented in device with very low resources
 	- Attacker can still modify message if an unsecure channel is used
