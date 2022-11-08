@@ -56,7 +56,7 @@ Rule #43: Your friends tend to be the same across different products. Your inter
 ---
 - Status: #done
 
-- Tags: #production #ai_life_cycle 
+- Tags: #production #ai_lifecycle 
 
 - References:
 	- [Source](https://twitter.com/iamtrask/status/1565294744892329984)

@@ -115,7 +115,7 @@
 ---
 - Status: #done 
 
-- Tags: #ai_life_cycle
+- Tags: #ai_lifecycle
 
 - References:
 	- [Assuring the Machine Learning Life cycle: Desiderata, Methods, and Challenges](https://arxiv.org/abs/1905.04223)

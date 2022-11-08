@@ -157,7 +157,7 @@
 ---
 - Status: #done 
 
-- Tags: #ai_life_cycle 
+- Tags: #ai_lifecycle 
 
 - References:
 	- [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/abs/2011.09926)
