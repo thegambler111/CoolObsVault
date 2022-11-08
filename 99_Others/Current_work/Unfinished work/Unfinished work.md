@@ -223,9 +223,7 @@ Values:
 				- Sau này sẽ là các node có khả năng custom cao, dành cho mọi giao thức
 
 ---
-# Tú
-- Sử dụng Exporter để đọc log (Json) rồi chuyển sang Prometheus (metrics)
-- 
+
 
 
 
