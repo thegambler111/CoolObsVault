@@ -1,7 +1,6 @@
 # Overview
 
 ## What is industrial IoT platform
-
 - Gartner defines the market for industrial Internet of Things (IIoT) platforms as a set of integrated software capabilities to improve:
 	- Asset management decision making
 	- Operational visibility and control for plants, depots, infrastructure and equipment
@@ -11,7 +10,6 @@
 	- Or both in combination.
 - The platform is engineered to support the requirements of safety, security and mission criticality associated with industrial assets and their operating environments.
 - The IIoT platform software that resides on devices such as controllers, routers, access points, gateways and edge computing systems is considered a part of a distributed IIoT platform.
-
 
 ## IIoT platform vs IoT platform
 > This part is not directly from Gartner
@@ -32,23 +30,20 @@
 	- Safety
 	- Security
 	- Mission-criticality
-
 - An end-to-end IoT platform that covers the full IoT development cycle will typically include the following: 
-	-   IoT device management;
-	-   Data collection capabilities;
-	-   IoT data modeling, analytics, visualization;
-	-   App development capabilities / a marketplace for IoT apps;
-	-   IoT collaboration enablement / social features.
-
+	- IoT device management;
+	- Data collection capabilities;
+	- IoT data modeling, analytics, visualization;
+	- App development capabilities / a marketplace for IoT apps;
+	- IoT collaboration enablement / social features.
 - The end-to-end IIoT platform would have the following:
-	-   IIoT device management;
-	-   **Machine-to-machine communication (M2M);**
-	-   Data collection capabilities;
-	-   IIoT data modeling, advanced analytics, data visualization;
-	-   **Industrial security standards;**
-	-   App development support;
-	-   IoT collaboration enablement / social features.
-
+	- IIoT device management;
+	- **Machine-to-machine communication (M2M);**
+	- Data collection capabilities;
+	- IIoT data modeling, advanced analytics, data visualization;
+	- **Industrial security standards;**
+	- App development support;
+	- IoT collaboration enablement / social features.
 
 ## IIoT platform vs MES
 > This part is not directly from Gartner
@@ -56,24 +51,20 @@
 => There is no clear winner between MES and IIoT platform, the best approach might be combining the best of both.
 
 - For the past 30 years, MES, or manufacturing execution systems, have been the traditional way to streamline operations all the way down to the shop floor. They manage industrial assets, collect data, and ensure traceability in an industrial setting, among others.
-
 - IIoT platform vs MES:
 	- Centralized vs. decentralized:
 		- As a more traditional approach to IIoT, MES are centralized solutions.
 		- IIoT platforms are more flexible as they tend to be microservice-based and decentralized. On top of that, some IIoT platforms come with advanced analytics capabilities as well as support for IoT app development.
 	- Vendor lock-in vs. open platform:
 		- MES tend to be vendor-specific and proprietary so industrial manufacturers can only work with their vendor’s modules. And you can buy the vendor’s apps only. The manufacturers have little control over the applications they develop and deploy.
-		-  IIoT platforms come with apps as a service and perform most of the work an MES does. They can also expand the MES array of use cases.
-
+		- IIoT platforms come with apps as a service and perform most of the work an MES does. They can also expand the MES array of use cases.
 - MES or IIoT platform
 	- MES are still widely used in Industry 4.0 settings.
 	- Some people value one above the other.
-	- [IIoT platforms can be used as a supplement](https://tulip.co/blog/mes/mes-or-iiot-platform-or-both-which-is-right-for-me/) to get the maximum value out of an existing MES solution. 
+	- [IIoT platforms can be used as a supplement](https://tulip.co/blog/mes/mes-or-iiot-platform-or-both-which-is-right-for-me/) to get the maximum value out of an existing MES solution.
 	- As a [recent publication](https://www.machinemetrics.com/blog/mes-vs-iiot-platform) says, a best-of-both-worlds approach may yield the best results: “integrating an IIoT platform to maximize the returns from your MES investments is the logical decision”.
 
-
 ## Magic Quadrants
-
 - Magic Quadrants are forward-looking, to help clients identify vendors likely to keep up with or even stay ahead of the overall market.
 - **Our analysts look broadly at customer feedback across markets, as well as a company’s forward-looking strategy, roadmap and capabilities**.
 - Peer reviews are driven solely by reviewers’ organizations’ specific experiences relative to their unique needs.
@@ -81,12 +72,10 @@
 - Vendors from other quadrants may be a better fit as they may offer better products, better address requirements from particular verticals and/or be more affordable.
 
 ## Critical Capabilities
-
 - Critical Capabilities documents provide **insight into how well a product or service fulfills certain functional capabilities within specific use cases**.
 - Critical Capabilities reports are a point-in-time analysis to address the question of which vendor will have the best product given your weighting of which capabilities are most important to your organization.
 
 ## Gartner Peer Insights
- 
 - In addition to the synthesis provided by the Customers’ Choice, the individual reviews and ratings within Gartner Peer Insights can be **a valuable source of lessons learned for those currently in the buying cycle for the IIoT platform market**, particularly if you can find and read reviews from end users like you (for example, those that share your technology adoption bias, company size, industry or geography).
 - These reviews give insight into not only how satisfied existing customers are with a vendor’s product, but also their experience in negotiating with the vendor, getting support for the product or service and their overall implementation effort. This information can provide you with a firsthand view on what to expect from a particular vendor
 
@@ -102,11 +91,9 @@
 - Although not in the peer insights, Microsoft and IBM are the looking up for company
 
 # Magic Quadrant
-
 - Strategic Planning Assumptions
 	- By 2025, 50% of industrial enterprises will use industrial Internet of Things (IIoT) platforms to improve factory operations, up from 10% in 2020.
 	- Through 2025, 25% of large global industrial enterprises will acquire or invest in an IIoT platform company; up from 5% in 2020.
-
 - Horizontal and vertical business applications are out-of-scope for this Magic Quadrant. However, the platform provider must exhibit demonstrable value in terms of integration and interoperability with such applications, which include:
 	- Enterprise asset management (EAM)
 	- Computerized maintenance management systems (CMMSs)
@@ -118,7 +105,6 @@
 	- Application portfolio management (APM)
 	- Field service management (FSM)
 	- Building management systems (BMSs)
-
 - Targeted Industrial Enterprises: For this market evaluation, Gartner focuses on three asset-intensive industries:
 	- Manufacturing and natural resources, which include the subsectors of automotive, consumer nondurable products, energy resources and processing, heavy industry, IT hardware, life sciences and healthcare products, and natural resources and materials
 	- Transportation, which includes the subsectors of air transport, motor freight, pipelines, rail and water, warehousing, couriers, and support services
@@ -141,27 +127,25 @@ The IIoT platform (see Note 2) is composed of the following technology functions
 - Deployment options
 
 ## Analysis
-
 ![[Images/Pasted image 20210909231005.png]]
 
-- 4 groups: 
+- 4 groups:
 	- Hitachi, Microsoft, PTC
 	- AWS
 	- Software AG
 	- Flutura (Top 1 in 2019 peer insights)
-
 - Group 1: Hitachi, Microsoft, PTC
 	- Hitachi - Lumada:
 		- Strengths:
 			- Can be fully deployed in on-premises, hybrid and cloud-centric patterns
-			- Strong capabilities in integration functionality and application development/composition. 
+			- Strong capabilities in integration functionality and application development/composition.
 			- **Wide range of industrial use cases**
 			- Has been evolving by creating focused application catalogs: Lumada Manufacturing Insights, Lumada Maintenance Insights and Lumada Video Insights.
 		- Cautions:
 			- **Weak device management capabilities**
 			- **Below average support for digital twins** (virtual representation of things on how it is currently doing)
 			- Domain-agnostic (not focus on specific domain) -> slower adoption
-			- Limited set of resellers for sales and services 
+			- Limited set of resellers for sales and services
 	- Microsoft - Azure:
 		- Strengths:
 			- Has customers in manufacturing, transportation and logistics, and utilities.
@@ -180,7 +164,7 @@ The IIoT platform (see Note 2) is composed of the following technology functions
 			- **Very high-quality service and support, has a global sales force and an indirect channel of resellers worldwide**
 			- Strong ability to support a full, on-premises deployment
 		- Cautions:
-			- **Problems with the implementation and usability of PTC’s analytics** 
+			- **Problems with the implementation and usability of PTC’s analytics**
 			- Limited support for digital twin
 			- Lacking in the utilities, and transportation and logistics market sectors
 			- **Expensive**
@@ -222,13 +206,11 @@ The IIoT platform (see Note 2) is composed of the following technology functions
 	- Eurotech bases their platform on open-source Eclipse Kura and Eclipse Kapua
 	- Litmus with good device and data management, good pricing, but lacking analytics capabilities and an ecosystem of IT and OT system integrators
 	- Oracle has many good features but services only available on Oracle Cloud + is application-centric -> bad at hirizontal scaling
-	- ROOTCLOUD is from China, has good features but lacking global support   
-
+	- ROOTCLOUD is from China, has good features but lacking global support
 
 # Critical Capabilities
-
 - The top two factors that drove customers’ choice of IIoT platform vendor are:
-	- Technical expertise to develop solutions 
+	- Technical expertise to develop solutions
 	- The strength of the platform/technology suite.
 
 ## Critical Capabilities Definition
@@ -256,27 +238,24 @@ The IIoT platform (see Note 2) is composed of the following technology functions
 	- The complexity of industrial assets and the business requirements plus the mix of data dictate that end users have the flexibility to determine where they will process the data. In some cases, there will be latency, compliance or cost issues that fundamentally require an edge deployment. In other cases, the enterprise may need more contextual data and lower cost and more scalable compute capabilities that are cloud-native.
 
 ## Critical Capabilities Use-Case Graphics
-
 - This analysis evaluates vendor effectiveness in supporting enterprise needs in four use cases: condition monitoring, predictive analytics for equipment, connected industrial assets and intermittently connected asset
 	- Condition Monitoring
 		- Ability to monitor the condition of complex industrial assets and data systems
 		- This includes the management of the asset's and the gateway's software
 	- Connected Industrial Assets
 		- Ability to employ subsystems, modules and components using embedded technologies to produce significant volumes of data.
-		- The enterprise also needs ensures asset activities are managed, operating systems and applications are patched and updated, data is secure, and standardized methods connect components into the asset. 
+		- The enterprise also needs ensures asset activities are managed, operating systems and applications are patched and updated, data is secure, and standardized methods connect components into the asset.
 		- Both integration approaches and digital twin management are required.
 	- Predictive Analytics for Equipment
 		- Ability to identify the condition of the assets, analyze anomalies, and forecast and inform scheduling systems of the right maintenance routine to restore and optimize asset operation.
-		- => Improve maintenance and inspection scheduling, improve planning, extend asset lifetime, and minimize unplanned downtime. 
+		- => Improve maintenance and inspection scheduling, improve planning, extend asset lifetime, and minimize unplanned downtime.
 	- Intermittently Connected Asset
 		- Ability to deploy a full IoT platform on the edge
 		- => Process data physically close to the assets and independent of the cloud
 
 ![[Images/Pasted image 20210910132554.png]]
 
-
 ## Analysis
-
 ![[Images/Pasted image 20210910111512.png]]
 ![[Images/Pasted image 20210910111516.png]]
 ![[Images/Pasted image 20210910111519.png]]
@@ -287,8 +266,8 @@ The IIoT platform (see Note 2) is composed of the following technology functions
 		- Single architectural approach for all industrial use cases
 		- Problem with device management
 		- Condition Monitoring:
-			-  Hitachi has implementations around monitoring industrial assets in brownfield, predominantly multivendor heterogeneous industrial environments, such as equipment to manufacture metal components. Despite a solid score, this use case highlights Lumada’s need to continue to improve its device management capabilities.
-		- Predictive Analytics for Equipment: 
+			- Hitachi has implementations around monitoring industrial assets in brownfield, predominantly multivendor heterogeneous industrial environments, such as equipment to manufacture metal components. Despite a solid score, this use case highlights Lumada’s need to continue to improve its device management capabilities.
+		- Predictive Analytics for Equipment:
 			- Strong point
 		- Connected Industrial Assets:
 			- Good integration, data management and overall ease of use
@@ -310,7 +289,7 @@ The IIoT platform (see Note 2) is composed of the following technology functions
 		- This vendor’s challenge centers primarily on the overall ease of implementation and use.
 		- Condition Monitoring:
 			- Good ease of use
-		- Predictive Analytics for Equipment: 
+		- Predictive Analytics for Equipment:
 		- Connected Industrial Assets:
 			- Strong integration and master data management capabilities
 		- Intermittently Connected Asset:
@@ -331,28 +310,23 @@ The IIoT platform (see Note 2) is composed of the following technology functions
 - Other notable vendors:
 	- PTC:
 		- Condition Monitoring:
-		- Predictive Analytics for Equipment: 
+		- Predictive Analytics for Equipment:
 		- Connected Industrial Assets:
 		- Intermittently Connected Asset:
 	- AWS:
 		- Condition Monitoring:
-		- Predictive Analytics for Equipment: 
+		- Predictive Analytics for Equipment:
 		- Connected Industrial Assets:
 		- Intermittently Connected Asset:
 
-
-
 # Note
-
 - Greenfield vs brownfield
 	- Greenfield means do things from start, completely nothing
 		- Greenfield approach: transition from an analog environment to a digital one.
 	- Brownfield means do things based on existing stuffs.
 		- Brownfield approach: Implement IIoT platform into already connected asset
 
-
-# 
-
+#
 ---
 Status: #writing
 
@@ -360,7 +334,7 @@ Tags: #IoT #IoT_platform #gartner
 
 References:
 - [Gartner - # Industrial IoT Platforms Reviews and Ratings](https://www.gartner.com/reviews/market/industrial-iot-platforms)
--  [# Gartner Magic Quadrant for Industrial IoT Platforms](file:///C:/Users/TienHai/Desktop/VTN/Product%20strategy/IoT%20Platform/gartner_iot_platform/magic_quadrant_for_industria_436179(1).pdf); [source](https://www.gartner.com/en/documents/3991952)
+- [# Gartner Magic Quadrant for Industrial IoT Platforms](file:///C:/Users/TienHai/Desktop/VTN/Product%20strategy/IoT%20Platform/gartner_iot_platform/magic_quadrant_for_industria_436179(1).pdf); [source](https://www.gartner.com/en/documents/3991952)
 - [# Critical Capabilities for Industrial IoT Platforms](file:///C:/Users/TienHai/Desktop/VTN/Product%20strategy/IoT%20Platform/gartner_iot_platform/critical_capabilities_for_in_436210(1).pdf); [source](https://www.gartner.com/en/documents/3992187)
 - [# Gartner Peer Insights ‘Voice of the Customer’: Industrial IoT Platforms](file:///C:/Users/TienHai/Desktop/VTN/Product%20strategy/IoT%20Platform/gartner_iot_platform/Gartner_Peer_Insight_406945_ndx.pdf); [source](https://www.gartner.com/en/documents/3969996)
 - [# An IIoT Platform, an IoT Platform, or MES: What’s the Difference and How to Pick One?](https://www.record-evolution.de/en/industrial-iot-platform-vs-iot-platform-mes-whats-the-difference/)
