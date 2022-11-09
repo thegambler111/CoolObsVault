@@ -5,12 +5,18 @@
 - Using extension "Tuya Wind IDE" in VSCode (only available in China Mainland)
 
 # Tuya platform service
-- Sell connection module
-- Support creating SDK for device firmware
-- Device management
 - Device connection management
+	- Sell connection module
+	- Support creating SDK for device firmware
+		- No-code
+		- Low-code
+		- Pro-code
+- Device management
 - User management
-- 
+- Application enablement 
+	- Template to create custom app
+		- No-code
+- Security
 
 
 #
