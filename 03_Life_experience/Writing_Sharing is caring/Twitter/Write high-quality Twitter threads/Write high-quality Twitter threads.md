@@ -23,7 +23,7 @@
 		- White space is the space between lines so that it's easier on the eyes.
 - Here's an example of both:
 
-![[03_Life_experience/Writing_Sharing is caring/Others/Write high-quality Twitter threads/Tweet body.jpg]]
+![[03_Life_experience/Writing_Sharing is caring/Twitter/Write high-quality Twitter threads/Tweet body.jpg]]
 
 ## Write out the call-to-action next:
 - So many people write good threads and then forget to tell the reader what to do at the end.
@@ -36,7 +36,7 @@
 	- Read another thread you wrote
 	- Buy a product that is relevant to the thread
 - Here's an example of how I usually end my threads:
-![[03_Life_experience/Writing_Sharing is caring/Others/Write high-quality Twitter threads/Call to action.jpg]]
+![[03_Life_experience/Writing_Sharing is caring/Twitter/Write high-quality Twitter threads/Call to action.jpg]]
 
 ## Finish your writing process by creating your Hook Tweet:
 - We're at the last, but most important step of writing Tweet threads.
