@@ -1,14 +1,29 @@
-# 
+#
 - Customizable SDKs
 	- Customizable firmware for communication
-	- Defined chuan connection
+	- Defined rules for connection
 - Connection chips
 	- Pre-made connection modules
-	- Phu hop with above SDK
+	- Made to run above SDK
 - Connection management
+	- Monitor connection between devices and platform
+	- Connection billing
 - Device management
+	- Monitor device status and behavior
+	- Define device groups (assets)
 - Rule engine
+- User management
+	- Define user roles:
+		- Which devices can be controlled
+		- Which functions can be used
+		- Which users can be managed
 - Storage
+	- Where and how data is stored
+	- Data:
+		- User data
+		- Device information
+		- Device working history
+		- Connection 
 - Data management
 - Data analytic
 - Security
@@ -18,7 +33,7 @@
 #
 ---
 - Status: #done
-- Tags: #IoT_platform 
+- Tags: #IoT_platform
 - References:
 	- Source
 - Related:
