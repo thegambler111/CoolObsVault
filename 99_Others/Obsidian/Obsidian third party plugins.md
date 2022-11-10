@@ -1,5 +1,4 @@
 # Third party plugins
-
 - Advanced tables
 - Better word count
 - Calendar
@@ -8,7 +7,6 @@
 - Extract highlight
 - Find unlinked files
 - Hotkeys++
-- Markdown prettifier
 - Mind map
 - Natural language date
 - Note Refactor
@@ -16,6 +14,10 @@
 - Recent files
 - Review
 - Sliding Panes
-- Smart random notes
 - Emoji Toolbar
 - Obsidian Git
+- Linter
+
+## Legacy
+- Smart random notes
+- Markdown prettifier
