@@ -1,8 +1,12 @@
-# a
+# Wah
 
 ## Connection management
 - Monitor connection between devices and platform
 - Connection billing
+- Provides:
+	- Communications protocols
+	- APIs
+	- Application adapters 
 - Smaller parts:
 	- Connection chips
 		- Pre-made connection modules
@@ -13,16 +17,12 @@
 
 ## Device management
 - Monitor device status and behavior
+- Configures, troubleshoots and update firmware of devices
 - Define device groups (assets)
 - Smaller parts:
-	- Rule engine
-		- Device handling procedure
-			- Connection
-			- Data processing
-			- Application enablement
 
-## Data management layer:
-- How data is stored
+## Data management
+- How data is collected, stored and government
 - How data is processed, enriched, prepared and served
 - Data:
 	- User data
@@ -33,6 +33,11 @@
 - Smaller parts:
 	- Storage
 		- Where data is stored
+	- Rule engine
+		- Device handling procedure
+			- Connection
+			- Data processing
+			- Application enablement
 
 ## Data Analytics
 - Getting business values from processed data
@@ -47,13 +52,17 @@
 ## Application enablement
 - Provide information for application
 - Enable interactions between users and devices
-	- Smaller parts:
+- Smaller parts:
 	- App base (customizable)
 		- Show information to user
 		- Provide device control interface
 
 ## Security
 - Protect all parts from malicious dangers
+
+## Third-party services
+- Voice assistants
+- Third-party apps
 
 #
 ---

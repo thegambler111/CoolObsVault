@@ -18,7 +18,7 @@
 		- No-code
 - Security
 
-
+![[01_Experience/IoT/IoT_platform_comparison/Tuya platform/Product development.png]]
 #
 ---
 - Status: #done
