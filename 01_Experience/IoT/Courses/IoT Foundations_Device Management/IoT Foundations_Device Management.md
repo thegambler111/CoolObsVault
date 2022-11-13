@@ -252,6 +252,61 @@
 - In management client:
 	- Discover the technology-specific data model objects supported by the Management client using the "la" interface
 	- Create a mapping between the data model objects to resources
+## Device management
+### Device management entities
+- Device management entities are managed devices
+
+### Device management capabilities
+- Device management capabilities
+	- Device configuration function
+	- Device diagnostic and monitoring function
+		- Trouble shooting 
+	- Device firmware management function
+	- Device topology management function
+		- Transfer protocol
+### Device management resources
+- Resource management mechanism
+	- Any resource is model into an object
+	- Common operations: CRUD (Create, retrieve, update, deletion)
+	- Management and security mechanism
+
+## OneM2M Security
+### Architecture
+- 3 layers:
+	- Security services layer:
+		- Access management
+			- Authentication
+			- Authorization
+				- Authorize services and data access
+			- Access control
+		- Sensitive data handling
+			- Security storage for sensitive data
+		- Security association establishment
+			- Provide secure connection via secure session establishment and object security
+		- Security administration
+			- Manage remote provisioning and security functions, resources and attributes
+		- Identify protection
+			- In application layer
+			- Anonymity of transactions
+	- Security environment abstraction layer
+	- Security environments
+## Remote security provisioning frameworks
+- Pre-provisioned symmetric enrollee key RSPF
+- Certificate-based RSPF
+- Generic bootstrapping architecture (GBA)- based RSPF
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
