@@ -64,6 +64,9 @@
 - Voice assistants
 - Third-party apps
 
+# IoT Analytics
+![[01_Experience/IoT/IoT_platform_comparison/Platform parts/IoT Analytics.png]]
+
 #
 ---
 - Status: #done
