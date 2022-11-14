@@ -67,6 +67,9 @@
 # IoT Analytics
 ![[01_Experience/IoT/IoT_platform_comparison/Platform parts/IoT Analytics.png]]
 
+# H2020 - Unify - IoT Project
+![[01_Experience/IoT/IoT_platform_comparison/Platform parts/Pasted image 20221114110658.png]]
+
 #
 ---
 - Status: #done
