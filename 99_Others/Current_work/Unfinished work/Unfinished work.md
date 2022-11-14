@@ -97,11 +97,11 @@ Values:
 			- -> Nếu customize được thì hoàn thành mục tiêu
 	- Kế hoạch:
 		- Gạt bỏ Gateway, kết nối trực tiếp đến platform, đoạn converter sẽ đẩy lên rulechain
-			- Tìm hiểu cách chuyển bản tin về Rule chain để xử lý
-				- Bản tin cần điều kiện gì để vào được Rule Chain
-			- Tìm cách tạo các node custom trong Rule Chain
-				- Trước mắt sẽ là các node mới cho HTTP
-				- Sau này sẽ là các node có khả năng custom cao, dành cho mọi giao thức
+	- Tìm hiểu cách chuyển bản tin về Rule chain để xử lý
+		- Bản tin cần điều kiện gì để vào được Rule Chain
+	- Tìm cách tạo các node custom trong Rule Chain
+		- Trước mắt sẽ là các node mới cho HTTP
+		- Sau này sẽ là các node có khả năng custom cao, dành cho mọi giao thức
 
 ---
 
