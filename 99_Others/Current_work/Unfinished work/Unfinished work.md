@@ -104,7 +104,7 @@ Values:
 				- Sau này sẽ là các node có khả năng custom cao, dành cho mọi giao thức
 
 ---
-
+-> Nhờ anh Sáng phòng chiến lược cũ
 
 
 
