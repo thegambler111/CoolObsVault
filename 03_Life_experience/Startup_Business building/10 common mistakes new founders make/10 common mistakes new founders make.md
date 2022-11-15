@@ -28,7 +28,7 @@
 - And yet, so many mess up.
 	- This can ruin your company before it even has a chance.
 - The good news. a smart approach can keep you safe.
-	- [[03_Life_experience/Startup/How to choose your co-founder/How to choose your co-founder|How to choose your co-founder]]
+	- [[03_Life_experience/Startup_Business building/How to choose your co-founder/How to choose your co-founder|How to choose your co-founder]]
 
 # 6. Thinking you need an “adult in the room”
 - We all get imposter syndrome.
@@ -69,4 +69,4 @@
 - References:
 	- [Source](https://twitter.com/theryanking/status/1585297647295877121)
 - Related:
-	- [[03_Life_experience/Startup/How to choose your co-founder/How to choose your co-founder|How to choose your co-founder]]
+	- [[03_Life_experience/Startup_Business building/How to choose your co-founder/How to choose your co-founder|How to choose your co-founder]]
