@@ -13,6 +13,12 @@
 	- Pass off work to employees
 	- Spend time investing in yourself and creating new ideas, businesses
 
+## Action
+- Hire and give your employee the work you are not good at
+- Do the thing you are good at
+- Think about what customers need
+- Aim for profit and time
+
 # Profitability > Growth
 - I invested in a company making $500k/month with 5 employees.
 - He hired 13 more, and should’ve been making $1M+, right?
