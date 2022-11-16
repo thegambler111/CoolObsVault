@@ -105,9 +105,13 @@ Values:
 
 ---
 -> Nhờ anh Sáng phòng chiến lược cũ
+Anh Quang ơi, em hỏi chút. Năm nay em được mọi người hỗ trợ nên đạt danh hiệu chiến sỹ thi đua và đang được sếp Hải đề xuất cá nhân xuất sắc TCT.
+Tuy nhiên, chỗ báo cáo thành tích đạt được năm 2022, có phần sáng kiến ý tưởng hiện em đang bị vướng. Năm nay em đăng ký có 1 cái sáng kiến. Hiện tại nó vẫn chưa được duyệt mà yêu cầu là phải có quyết định thì mới được công nhận. Vậy giờ anh có cách nào gỡ khó hộ em được không ạ
+Em cảm ơn ạ
 
-
-
+Dear anh Nam, em là Hải phòng CN&DVM. Hiện em đang có chút việc cần hỏi chỗ sáng kiến ý tưởng. Năm nay em có đăng ký 1 sáng kiến nhưng chưa được phê duyệt, cần phê duyệt để làm báo cáo thành tích.
+Em có hỏi chỗ anh Sáng nq1 thì anh Sáng bảo đã bàn giao lại cho anh quản lý SKYT của TT. Vậy chỗ này em cần làm gì để được phê duyệt ạ.
+Em cảm ơn ạ
 
 
 
