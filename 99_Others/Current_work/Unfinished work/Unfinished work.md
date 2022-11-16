@@ -104,17 +104,29 @@ Values:
 				- Sau này sẽ là các node có khả năng custom cao, dành cho mọi giao thức
 
 ---
--> Nhờ anh Sáng phòng chiến lược cũ
-Anh Quang ơi, em hỏi chút. Năm nay em được mọi người hỗ trợ nên đạt danh hiệu chiến sỹ thi đua và đang được sếp Hải đề xuất cá nhân xuất sắc TCT.
-Tuy nhiên, chỗ báo cáo thành tích đạt được năm 2022, có phần sáng kiến ý tưởng hiện em đang bị vướng. Năm nay em đăng ký có 1 cái sáng kiến. Hiện tại nó vẫn chưa được duyệt mà yêu cầu là phải có quyết định thì mới được công nhận. Vậy giờ anh có cách nào gỡ khó hộ em được không ạ
-Em cảm ơn ạ
-
-Dear anh Nam, em là Hải phòng CN&DVM. Hiện em đang có chút việc cần hỏi chỗ sáng kiến ý tưởng. Năm nay em có đăng ký 1 sáng kiến nhưng chưa được phê duyệt, cần phê duyệt để làm báo cáo thành tích.
-Em có hỏi chỗ anh Sáng nq1 thì anh Sáng bảo đã bàn giao lại cho anh quản lý SKYT của TT. Vậy chỗ này em cần làm gì để được phê duyệt ạ.
-Em cảm ơn ạ
 
 
+Unlocking
+09 56 23 28 0f ea a9 a3 bb 62 4f ad eb f7 58 8d e3 8d 53
 
+09 57 02 9e d1 cb a6 9b c7 6c be 87 bb ee 13 40 ba 84 67
+
+09 58 02 9a 21 45 48 3c 24 a5 53 c1 b6 60 0a 54 50 7c c5
+
+11 55 23 2e ad e4 2b 54 9b f3 61 23 b9 e1 bc 9f df e1 d6
+
+
+
+unlocked -> lock
+09 59 02 2c c4 52 33 96 a0 b2 84 02 d5 c0 a8 22 6a f6 c0
+
+09 5a 02 e3 e0 9d 0b f2 6a bb 6e 3d 8c 71 2e 5f 49 a3 bb
+
+09 5b 02 04 3c de a3 ee e8 52 1b 13 ed f7 42 b2 84 26 e4
+
+---
+door password
+https://github.com/Koenkk/zigbee2mqtt/issues/4478#issuecomment-806310481
 ---
 #
 ---
