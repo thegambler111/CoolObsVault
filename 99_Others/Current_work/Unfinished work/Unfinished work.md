@@ -104,7 +104,14 @@ Values:
 
 ---
 
+- Chia tính năng thành 2 nhóm:
+	- Thiết yếu
+	- Nâng cao
+- Mô tả kỹ chức năng các nhóm
+	- -> Men month
 
+- Hướng là đưa lên cloud cho cộng đồng phát triển
+- 
 
 ---
 
