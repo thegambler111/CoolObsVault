@@ -10,7 +10,16 @@
 - 20221116
 	- Reading does not end with lessons learned
 	- Reading ends with actionable advices and applying them
-
+- 20221117
+	- Learn every skill like playing a game:
+		- There are:
+			- Rules
+			- Prizes
+			- Losers
+			- Winners
+			- Shortcuts
+			- Different levels
+	- There are always opportunities around, you just have to look harder
 
 #
 ---
