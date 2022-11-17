@@ -62,7 +62,7 @@ Values:
 - Đặt mua Hue Bridge
 - Khóa học quý 4
 	- [x] MQTT
-	- LinkedIn
+	- [x] LinkedIn
 	- 3xAI
 	- Big data
 - [x] Count PIR
