@@ -109,11 +109,22 @@ Values:
 	- Nâng cao
 - Mô tả kỹ chức năng các nhóm
 	- -> Men month
-
 - Hướng là đưa lên cloud cho cộng đồng phát triển
-- 
 
 ---
+- Tham khảo Tuya, AWS, OneNet
+- Chia nhỏ đến mức nào
+	- -> Tham khảo CMP
+	- Tham khảo CĐS
+- 
+
+
+
+
+
+
+
+
 
 #
 ---
