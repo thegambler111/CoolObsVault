@@ -134,7 +134,6 @@ Values:
 - DMP
 	- Tại sao phải làm
 	- Đầu việc không liên quan đến loại thiết bị cụ thể
-	- 
 	- Phụ thuộc hệ sinh thái
 		- Đã làm:
 			- Smart home
