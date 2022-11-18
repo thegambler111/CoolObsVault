@@ -116,15 +116,64 @@ Values:
 - Chia nhỏ đến mức nào
 	- -> Tham khảo CMP
 	- Tham khảo CĐS
-- 
-
-
-
-
-
-
-
-
+---
+- Đầu việc -> Scope -> Nguồn lực
+- Check số lượng phần cứng và firmware của các vendor khác
+	- => Số lượng firmware cần làm
+	- Chứng minh tại sao phải làm
+	- Phạm vi, nguồn lực
+- Học theo OneNet của Huawei
+- Các công việc khác ngoài phần firmware
+- CMP:
+	- Check ctkt cũ
+	- Check nhu cầu vtt
+	- Check cmp của vht
+		- Nếu vht ok -> yêu cầu hỗ trợ
+		- Nếu vtn làm thì ai làm
+	- Nếu ko có VHT thì theo OneNet
+- DMP
+	- Tại sao phải làm
+	- Đầu việc không liên quan đến loại thiết bị cụ thể
+	- 
+	- Phụ thuộc hệ sinh thái
+		- Đã làm:
+			- Smart home
+			- Smart community
+		- Sẽ làm:
+			- Smart home:
+				- Sẽ làm phần nào
+				- Sẽ làm những thiết bị nào
+			- Smart community
+				- Theo chiến lược TĐ
+			- Các lĩnh vực tiềm năng khác
+				- Smart agriculture -> A Tân
+					- Xem lại TH TrueMilk chỗ Phòng Di động
+				- Smart city -> Kiệt
+				- Bố sung thêm 2 lĩnh vực nữa
+	- Sở cứ: Tiềm năng, trên thế giới đã làm ntn
+	- Framework
+	- Công việc -> Nguồn lực
+- AEP:
+	- Các công việc cần làm
+		- Feature
+		- Đầu việc
+	- Kế hoạch cho bên CĐS -> Đầu mối cụ thể
+		- CĐS làm bao nhiêu
+		- Outsource ?
+- 5G:
+	- Manufacture: Inspect
+	- Mining:
+	- Port
+	- Steel
+		- Xu thế
+		- Ứng dụng sử dụng 5G -> Tích hợp trên Private network ntn
+		- Thực tế các nhà mạng
+		- => Scope là gì, đầu việc, ai làm
+	- ViettelPost
+- Học tập
+	- -> Xem các điều kiện của khung năng lực bậc trên
+	- PMP:
+		- <https://www.udemy.com/course/pmp-certification-exam-prep-course-pmbok-6th-edition/>
 
 #
 ---
