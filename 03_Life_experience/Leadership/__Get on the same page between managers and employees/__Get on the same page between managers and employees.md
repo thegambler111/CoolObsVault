@@ -63,10 +63,19 @@
 	- Your manager will not have every answer
 	- You can help them by surfacing the right questions
 
+
+
+
+
+
+
+
+
+
 #
 ---
 - Status: #done
 - Tags: #leadership
 - References:
 	- [Source](https://twitter.com/dklineii/status/1592880396043444225)
-- Related:
+- 
