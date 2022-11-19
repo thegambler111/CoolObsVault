@@ -20,6 +20,8 @@
 			- Shortcuts
 			- Different levels
 	- There are always opportunities around, you just have to look harder
+- 20221118
+	- Women like flashy guys, like gifts, and many more things, so you should adapt when you look for a gf
 
 #
 ---

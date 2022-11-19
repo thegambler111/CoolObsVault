@@ -1,5 +1,5 @@
 {
-  "bearerToken": "TTM>UbOhQZ-oMuyVm1u",
+  "bearerToken": "AAAAAAAAAAAAAAAAAAAAANnfjQEAAAAAKVavbQHxOSPNZeZnPixx8pSxn%2Bs%3DFDpQJVA0QiAsIa0m5PkZxprWi0kgrPpUknIFTl1mGlh9iCqgLx",
   "noteLocation": "02_Raw/Twitter",
   "downloadAssets": true,
   "imageEmbedStyle": "markdown",
@@ -12,6 +12,7 @@
   "tags": [],
   "cssclass": "",
   "freeformFrontmatter": [],
+  "escapeHashtags": false,
   "avatars": false,
   "avatarSize": "",
   "defaultToThread": true,
