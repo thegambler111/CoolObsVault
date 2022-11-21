@@ -4,6 +4,9 @@ Mission:
 Values:
 
 ---
+Thành lập nhóm tìm hiểu các use case iot trên thế giới (theo quý)
+
+---
 
 - [ ] Plan Zigbee
 	- [ ] Định cỡ
