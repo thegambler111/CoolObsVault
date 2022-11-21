@@ -1,4 +1,4 @@
-# Unfinished work
+- # Unfinished work
 Mission:
 
 Values:
