@@ -4,7 +4,10 @@ Mission:
 Values:
 
 ---
-Thành lập nhóm tìm hiểu các use case iot trên thế giới (theo quý)
+- Thành lập nhóm tìm hiểu các use case iot trên thế giới (theo quý)
+- Chặn quyền các anh nhóm thiết bị
+- Tìm hiểu các loại kết nối Modbus, EDP
+
 
 ---
 
