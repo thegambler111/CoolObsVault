@@ -2,7 +2,7 @@
   "bearerToken": "AAAAAAAAAAAAAAAAAAAAANnfjQEAAAAAKVavbQHxOSPNZeZnPixx8pSxn%2Bs%3DFDpQJVA0QiAsIa0m5PkZxprWi0kgrPpUknIFTl1mGlh9iCqgLx",
   "noteLocation": "02_Raw/Twitter",
   "downloadAssets": true,
-  "imageEmbedStyle": "markdown",
+  "imageEmbedStyle": "obsidian",
   "assetLocation": "02_Raw/Twitter/Images",
   "filename": null,
   "tweetCompleteAction": "newTab",

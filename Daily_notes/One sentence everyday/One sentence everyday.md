@@ -1,16 +1,18 @@
-#
-- 20221112
+# 2022
+
+## 11
+- 12
 	- There are some places in the middle of the city but still give you the peace of the countryside, you just have to look for them
-- 20221113
+- 13
 	- Some games are not as good as you see, you have to try it yourself
-- 20221114
+- 14
 	- You should look for the criteria before comparing anything
-- 20221115
+- 15
 	- Before doing anything, you should seek guidance from mentors or predecessors
-- 20221116
+- 16
 	- Reading does not end with lessons learned
 	- Reading ends with actionable advices and applying them
-- 20221117
+- 17
 	- Learn every skill like playing a game:
 		- There are:
 			- Rules
@@ -20,8 +22,13 @@
 			- Shortcuts
 			- Different levels
 	- There are always opportunities around, you just have to look harder
-- 20221118
+- 18
 	- Women like flashy guys, like gifts, and many more things, so you should adapt when you look for a gf
+- 19
+- 20
+	- If you have work to do but cannot focus, go to sleep instead of wasting time on the net
+- 21
+	- Doing things not in the normal way will give you new knowledge and experience
 
 #
 ---
