@@ -10,6 +10,10 @@ Values:
 - So sánh MQTT vs LwM2M:
 	- OneNet đẩy mạnh LwM2M -> Why
 
+
+- Liệt kê các chứng chỉ cần đạt để -> 13
+- Chiến sỹ đua xe
+
 ---
 
 - [ ] Plan Zigbee
