@@ -9,14 +9,11 @@ Values:
 - Tìm hiểu các loại kết nối Modbus, EDP
 - So sánh MQTT vs LwM2M:
 	- OneNet đẩy mạnh LwM2M -> Why
-
-
 - Liệt kê các chứng chỉ cần đạt để -> 13
 - Chiến sỹ đua xe
 - Chủ trì phát triển sản phẩm Gateway Zigbee, thay thế cho sản phẩm không đạt yêu cầu của đối tác, mở ra hướng phát triển, kinh doanh mới cho lĩnh vực IoT
 - Tham gia tích hợp 36 loại thiết bị IoT cellular vào IoT Platform Viettel . Đây là nhóm thiết bị mà nhà mạng có lợi thế lớn nhất, nhu cầu ngày càng tăng cùng với sự xuất hiên của các dự án smart city, smart community
 - Chủ trì xây dựng chỉ tiêu kỹ thuật (CTKT) và phát triển sản phẩm IoT Platform phục vụ kinh doanh trên Cloud Viettel
-
 
 ---
 
@@ -196,6 +193,39 @@ Values:
 	- Xây dựng IoT Platform để đưa lên Cloud
 	- Mở rộng hệ sinh thái IoT, tăng số lượng thiết bị tích hợp
 	- Xây dựng các báo cáo gợi ý sản phẩm chiến lược
+
+---
+
+# Thay đổi KNL
+- Chứng chỉ: -> Hoàn thành được
+	- Chuyên môn: 3
+	- Kỹ năng: 5
+- Kinh nghiệm:
+	- 3 năm -> Đạt
+	- Chủ trì ứng dụng và triển khai giải pháp ở **quy mô khu vực** -> Chưa đạt
+	- Chủ trì hướng dẫn triển khai/CTKT/QHTK/HLD/LLD -> Hiện đã làm 1 bản CTKT sơ bộ của app base và 1 CTKT sơ bộ của platform, liệu có được tính?
+	- Có kinh nghiệm giải quyết vấn đề nghiêm trọng -> Gateway Zigbee tòa nhà thái bình có được tính ko ạ?
+- Chia sẻ kinh nghiệm:
+	- Yêu cầu 3 điểm -> Cần thêm 2 điểm nữa, có thể sử dụng cách tạo seminar để hoàn thành được
+- SKYT:
+	- Yêu cầu 2 sáng kiến -> Hiện đã có 1 sáng kiến Zigbee Gateway
+	- Giá trị làm lợi 0.5 tỷ -> Chưa có
+
+---
+Dear chị Minh,
+
+Em là Hải, MSNV 249133, ở phòng CN&DVM, TT CLML&ĐMCN.
+Hiện em có 1 số chỉ tiêu ở Khung năng lực như sau:
+- Số năm kinh nghiệm
+    + Kinh nghiệm về quy hoạch/ thiết kế/triển khai/vận hành/ tối ưu các hệ thống VAS/Ứng dụng CNTT/IoT Platform/IoT use cases 3 năm
+    + Kinh nghiệm chủ trì ứng dụng và triển khai các giải pháp kỹ thuật, công nghệ mới,về nền tảng ứng dụng CNTT/IoT ở quy mô khu vực.
+- Số lượng sản phẩm
+    + Có kinh nghiệm giải quyết vấn đề nghiêm trọng trong quá trình triển khai dự án (được đúc rút thành bài học kinh nghiệm). 1 vấn đề 
+
+Em muốn hỏi là em cần gửi văn bản gì, nội dung ntn và cần ai phê duyệt để đáp ứng các chỉ tiêu trên ạ?
+
+
+
 
 ---
 
