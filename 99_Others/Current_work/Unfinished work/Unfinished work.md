@@ -212,17 +212,7 @@ Values:
 	- Giá trị làm lợi 0.5 tỷ -> Chưa có
 
 ---
-Dear chị Minh,
 
-Em là Hải, MSNV 249133, ở phòng CN&DVM, TT CLML&ĐMCN.
-Hiện em có 1 số chỉ tiêu ở Khung năng lực như sau:
-- Số năm kinh nghiệm
-    + Kinh nghiệm về quy hoạch/ thiết kế/triển khai/vận hành/ tối ưu các hệ thống VAS/Ứng dụng CNTT/IoT Platform/IoT use cases 3 năm
-    + Kinh nghiệm chủ trì ứng dụng và triển khai các giải pháp kỹ thuật, công nghệ mới,về nền tảng ứng dụng CNTT/IoT ở quy mô khu vực.
-- Số lượng sản phẩm
-    + Có kinh nghiệm giải quyết vấn đề nghiêm trọng trong quá trình triển khai dự án (được đúc rút thành bài học kinh nghiệm). 1 vấn đề 
-
-Em muốn hỏi là em cần gửi văn bản gì, nội dung ntn và cần ai phê duyệt để đáp ứng các chỉ tiêu trên ạ?
 
 
 
