@@ -9,11 +9,8 @@ Values:
 - Tìm hiểu các loại kết nối Modbus, EDP
 - So sánh MQTT vs LwM2M:
 	- OneNet đẩy mạnh LwM2M -> Why
-- Liệt kê các chứng chỉ cần đạt để -> 13
-- Chiến sỹ đua xe
-- Chủ trì phát triển sản phẩm Gateway Zigbee, thay thế cho sản phẩm không đạt yêu cầu của đối tác, mở ra hướng phát triển, kinh doanh mới cho lĩnh vực IoT
-- Tham gia tích hợp 36 loại thiết bị IoT cellular vào IoT Platform Viettel . Đây là nhóm thiết bị mà nhà mạng có lợi thế lớn nhất, nhu cầu ngày càng tăng cùng với sự xuất hiên của các dự án smart city, smart community
-- Chủ trì xây dựng chỉ tiêu kỹ thuật (CTKT) và phát triển sản phẩm IoT Platform phục vụ kinh doanh trên Cloud Viettel
+- Hoàn thiện các yêu cầu để đạt -> KNL 13
+- Tạo document về phần kịch bản tự động app base cho outsource
 
 ---
 
@@ -212,10 +209,6 @@ Values:
 	- Giá trị làm lợi 0.5 tỷ -> Chưa có
 
 ---
-
-
-
-
 
 ---
 
