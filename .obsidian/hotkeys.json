@@ -187,5 +187,13 @@
       ],
       "key": "3"
     }
+  ],
+  "editor:set-heading-0": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
   ]
 }
