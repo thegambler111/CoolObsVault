@@ -4,6 +4,8 @@ Mission:
 Values:
 
 ---
+
+# Queue
 - Thành lập nhóm tìm hiểu các use case iot trên thế giới (theo quý)
 - Chặn quyền các anh nhóm thiết bị
 - Tìm hiểu các loại kết nối Modbus, EDP
@@ -112,20 +114,6 @@ Values:
 				- Sau này sẽ là các node có khả năng custom cao, dành cho mọi giao thức
 
 ---
-
-- Chia tính năng thành 2 nhóm:
-	- Thiết yếu
-	- Nâng cao
-- Mô tả kỹ chức năng các nhóm
-	- -> Men month
-- Hướng là đưa lên cloud cho cộng đồng phát triển
-
----
-- Tham khảo Tuya, AWS, OneNet
-- Chia nhỏ đến mức nào
-	- -> Tham khảo CMP
-	- Tham khảo CĐS
----
 - Đầu việc -> Scope -> Nguồn lực
 - Check số lượng phần cứng và firmware của các vendor khác
 	- => Số lượng firmware cần làm
@@ -209,6 +197,15 @@ Values:
 	- Giá trị làm lợi 0.5 tỷ -> Chưa có
 
 ---
+
+
+
+
+
+
+
+
+
 
 ---
 
