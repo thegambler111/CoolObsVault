@@ -3,6 +3,12 @@ Mission:
 
 Values:
 
+# 2023
+- 3 nhiệm vụ chính 2023:
+	- Xây dựng IoT Platform để đưa lên Cloud
+	- Mở rộng hệ sinh thái IoT, tăng số lượng thiết bị tích hợp
+	- Xây dựng các báo cáo gợi ý sản phẩm chiến lược
+
 ---
 
 # Queue
@@ -13,6 +19,7 @@ Values:
 	- OneNet đẩy mạnh LwM2M -> Why
 - Hoàn thiện các yêu cầu để đạt -> KNL 13
 - Tạo document về phần kịch bản tự động app base cho outsource
+- Định cỡ cloud
 
 ---
 
@@ -173,12 +180,6 @@ Values:
 
 ---
 
-# Họp kế hoạch năm
-- 3 nhiệm vụ chính 2023:
-	- Xây dựng IoT Platform để đưa lên Cloud
-	- Mở rộng hệ sinh thái IoT, tăng số lượng thiết bị tích hợp
-	- Xây dựng các báo cáo gợi ý sản phẩm chiến lược
-
 ---
 
 # Thay đổi KNL
@@ -197,12 +198,6 @@ Values:
 	- Giá trị làm lợi 0.5 tỷ -> Chưa có
 
 ---
-
-
-
-
-
-
 
 
 
