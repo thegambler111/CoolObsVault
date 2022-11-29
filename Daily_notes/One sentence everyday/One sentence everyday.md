@@ -29,6 +29,10 @@
 	- If you have work to do but cannot focus, go to sleep instead of wasting time on the net
 - 21
 	- Doing things not in the normal way will give you new knowledge and experience
+- 28
+	- Life contains ups and downs, if you consider someone friend, be with them at their lowest
+- 29
+	- Strategy is to position yourself at advantage
 
 #
 ---
