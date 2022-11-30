@@ -33,6 +33,12 @@
 	- Life contains ups and downs, if you consider someone friend, be with them at their lowest
 - 29
 	- Strategy is to position yourself at advantage
+- 30
+	- 
+
+## 12
+- 1
+	- 
 
 #
 ---

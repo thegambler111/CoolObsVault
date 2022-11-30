@@ -1,10 +1,11 @@
-The features of a great cold email:
-- Hits the Inbox
-- Short & Sweet
-- Personalized
-- Social Proof
-- Create Value
-- Clear CTA
+# TLDR
+- The features of a great cold email:
+	- Hits the Inbox
+	- Short & Sweet
+	- Personalized
+	- Social Proof
+	- Create Value
+	- Clear CTA
 
 # The features of a great cold email:
 
