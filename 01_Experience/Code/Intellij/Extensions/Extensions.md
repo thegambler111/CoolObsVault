@@ -9,6 +9,10 @@
 - Key Promoter X
 - Rainbow brackets
 
+# Theme
+- Monokaipro
+- Atom material icons
+
 #
 ---
 - Status: #done
