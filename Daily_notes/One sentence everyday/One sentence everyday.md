@@ -38,7 +38,7 @@
 
 ## 12
 - 1
-	- 
+	- The best advices come from people who took someone just like you there and was there themselves
 
 #
 ---
