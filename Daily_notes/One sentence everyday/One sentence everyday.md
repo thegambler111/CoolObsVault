@@ -34,11 +34,11 @@
 - 29
 	- Strategy is to position yourself at advantage
 - 30
-	- 
+	- The best advices come from people who took someone just like you there and was there themselves
 
 ## 12
 - 1
-	- The best advices come from people who took someone just like you there and was there themselves
+	- 
 
 #
 ---

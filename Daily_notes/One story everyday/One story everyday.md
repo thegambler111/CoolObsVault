@@ -6,6 +6,7 @@
 
 ## 12
 - 1
+	- I feel too lazy to take a day off. get a good cup of yogurt with dragon fruit instead. Decided
 
 #
 ---
