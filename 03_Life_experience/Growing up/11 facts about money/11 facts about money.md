@@ -91,6 +91,7 @@
 - References:
 	- [Source](https://twitter.com/warikoo/status/1596035781608452096)
 - Related:
+	- [[03_Life_experience/Growing up/11 things that money CAN buy/11 things that money CAN buy]]
 	- [Buy or rent a house?](<(https://youtu.be/cpw4Cg3Gpx8>)
 	- [Regular income from your investments](https://youtu.be/oNcs95JtUUM)
 	- [How much money do you need in life?](https://youtu.be/13nhoS_XYfg)
