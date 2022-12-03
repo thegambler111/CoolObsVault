@@ -32,13 +32,13 @@
 - 28
 	- Life contains ups and downs, if you consider someone friend, be with them at their lowest
 - 29
-	- Strategy is to position yourself at advantage
+	- **Strategy is to position yourself at advantage**
 - 30
 	- The best advices come from people who took someone just like you there and was there themselves
 
 ## 12
-- 1
-	- 
+- 3
+	- To use your core muscle effectively you must brace them by pushing them out. Sucking them in makes you weak.
 
 #
 ---
