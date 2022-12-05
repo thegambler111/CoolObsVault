@@ -9,6 +9,7 @@ Values:
 	- Mở rộng hệ sinh thái IoT, tăng số lượng thiết bị tích hợp
 	- Xây dựng các báo cáo gợi ý sản phẩm chiến lược
 - Xây dựng CTKT ATTT cho IoT platform
+	- [[01_Experience/IoT/Viettel IoT Platform/CTKT/ATTT/ATTT]]
 	- Deadline 28/2
 
 ---
@@ -20,7 +21,6 @@ Values:
 - So sánh MQTT vs LwM2M:
 	- OneNet đẩy mạnh LwM2M -> Why
 - Hoàn thiện các yêu cầu để đạt -> KNL 13
-
 
 ---
 
@@ -206,6 +206,37 @@ Values:
 - Check lại các tính năng, xem cái nào cần làm, cái nào Thingsboard đã có sẵn
 - Các tính năng người dùng cần từ platform
 	- -> Tham khảo onenet
+
+---
+- 3 đối tượng người sử dụng:
+	- Sản xuất thiết bị
+	- Cung cấp giải pháp (thiết bị + firmware + software)
+	- Bán giải pháp (Mang giải pháp đi bán)
+- 2 sản phẩm 2023
+	- Đồng hồ nước
+	- Sensor nông nghiệp
+		- Hải sản
+		- Chăn nuôi, trồng trọt
+- ? Tổ chức hội thảo để phát triển cộng đồng IoT Việt Nam
+- **Thống nhất**
+	- CTKT ok
+	- Lập budget làm hết trừ CMP
+		- Nếu VHT ko làm CMP -> Đến giữa 2023 sẽ làm phần thiết yếu của CMP
+	- Thống nhất công việc cần làm giữa CĐS và CLML
+		- -> Trong tháng, đóng gói kế hoạch chi tiết năm 2023: timeline, người làm
+			- Cái nào CLML làm end-to-end
+			- Cái nào lead, cái nào CĐS làm
+			- Cái nào CĐS làm end-to-end
+			- Lộ trình theo quý
+			- Performances:
+				- Số lượng
+					- Người dùng
+					- Thiết bị
+				- Hiệu năng hệ thống
+					- Thời gian phản hồi
+					- Khả năng xử lý
+				- Check performance với OneNet, Tuya
+		- -> Quản lý chi tiêu theo quý
 
 ---
 
