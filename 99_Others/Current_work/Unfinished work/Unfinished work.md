@@ -20,8 +20,7 @@ Values:
 - So sánh MQTT vs LwM2M:
 	- OneNet đẩy mạnh LwM2M -> Why
 - Hoàn thiện các yêu cầu để đạt -> KNL 13
-- Tạo document về phần kịch bản tự động app base cho outsource
-- Định cỡ cloud
+
 
 ---
 
@@ -209,33 +208,6 @@ Values:
 	- -> Tham khảo onenet
 
 ---
-
-# Tính năng người sử dụng platform cần
-- Quản lý thiết bị theo
-	- Chủng loại -> Template
-	- Cá thể -> Device
-- Dịch bản tin theo chủng loại thiết bị
-- Quản lý thiết bị theo nhóm
-- 
-
----
-- Connection module
-	- Create procedure to connect to platform through NB-IoT
-		- Attach to network
-		- Initialize connection through HTTP, MQTT, ....
-		- Network monitoring
-- Battery monitoring
-	- Collect and report battery status
-- Logging:
-	- Store
-- Advance
-	- Remote configure
-	- Debug mode
-	- 
-- Security
-	- Support TLS
-- OTA
-	- 
 
 #
 ---
