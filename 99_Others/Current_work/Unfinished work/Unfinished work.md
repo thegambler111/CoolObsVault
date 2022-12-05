@@ -8,6 +8,8 @@ Values:
 	- Xây dựng IoT Platform để đưa lên Cloud
 	- Mở rộng hệ sinh thái IoT, tăng số lượng thiết bị tích hợp
 	- Xây dựng các báo cáo gợi ý sản phẩm chiến lược
+- Xây dựng CTKT ATTT cho IoT platform
+	- Deadline 28/2
 
 ---
 
@@ -199,7 +201,41 @@ Values:
 
 ---
 
+# CTKT IoT platform
+- Check lại các chỉ tiêu của Thingsboard đã đảm bảo
+	- -> Chỉ tiêu cần phát triển thêm
+- Check lại các tính năng, xem cái nào cần làm, cái nào Thingsboard đã có sẵn
+- Các tính năng người dùng cần từ platform
+	- -> Tham khảo onenet
+
 ---
+
+# Tính năng người sử dụng platform cần
+- Quản lý thiết bị theo
+	- Chủng loại -> Template
+	- Cá thể -> Device
+- Dịch bản tin theo chủng loại thiết bị
+- Quản lý thiết bị theo nhóm
+- 
+
+---
+- Connection module
+	- Create procedure to connect to platform through NB-IoT
+		- Attach to network
+		- Initialize connection through HTTP, MQTT, ....
+		- Network monitoring
+- Battery monitoring
+	- Collect and report battery status
+- Logging:
+	- Store
+- Advance
+	- Remote configure
+	- Debug mode
+	- 
+- Security
+	- Support TLS
+- OTA
+	- 
 
 #
 ---
