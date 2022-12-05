@@ -1,4 +1,4 @@
-# What to check in a pull request
+# How to review a pull request
 
 ## Device functionalities
 - Function in vendor's app
@@ -12,7 +12,7 @@
 	- Check same ModelID
 		- Check if the profile with same ModelID has all functions of new device -> Add fingerprint
 		- Check if the profile with same ModelID can be used as base to create new profile
-	- => Base profile
+	- => Result: Base profile
 - From base profile
 	- Verify existing functions
 	- List out what is needed to develop new functions
@@ -23,6 +23,7 @@
 			- Bind
 			- Reporting
 			- Initialize
+	- => Result: List of need to add functions
 
 ## Code structure
 - Code syntax
@@ -34,7 +35,7 @@
 		- Which line is not needed
 		- Which lines can be combined
 		- Which logic can become clearer, easier to understand
-
+	- Check if functions can be replace by existing functions
 
 #
 ---
