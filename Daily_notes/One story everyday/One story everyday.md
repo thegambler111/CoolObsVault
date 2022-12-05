@@ -11,6 +11,10 @@
 	- I slept all day in the very first cold day of this winter. Feeling refreshed
 - 3
 	- I found a good game, played it too much and neglected my good habits for 2 days. Time to back on track
+- 4
+	- Have to prepare a presentation for tomorrow but the new game is too good. Good luck tomorrow me =))
+- 5
+	- I return to work after a short 3 day break. Have to prepare and defend a solution. Tired but the solution is approved.
 
 #
 ---
