@@ -11,6 +11,9 @@
 	9. Almanack of Naval Ravikant by Eric Jorgenson [@EricJorgenson](https://twitter.com/EricJorgenson)
 	10. Atomic Habits by James Clear [@JamesClear](https://twitter.com/JamesClear)
 
+# Ankur Warikoo 2022 Life Changing Book
+- [Atmamun: The path to achieving the bliss of the Himalayan Swamis. And the freedom of a living God by Kapil Gupta MD](https://www.amazon.com/Atmamun-achieving-Himalayan-Swamis-freedom/dp/1532762720)
+
 #
 ---
 - Status: #done

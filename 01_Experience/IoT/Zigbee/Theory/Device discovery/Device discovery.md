@@ -106,10 +106,15 @@
 | 0          | Extended Active Endpoint List Available   |
 | 1          | Extended Simple Descriptor List Available |
 | 2–7        | Reserved                                  |
+
 ## Node Power Descriptor
+
 ## Simple Descriptor
+
 ## Complex Descriptor
+
 ## User Descriptor
+
 # The following capabilities exist for device and service discovery:
 - Device Discovery: Provides the ability for a device to determine the identity of other devices on the PAN. Device Discovery is supported for both the 64-bit IEEE address and the 16-bit Network address.
 	- Device Discovery messages can be used in one of two ways:
@@ -139,11 +144,6 @@
 	- User Descriptor:
 		- This optional command permits an enquiring device to return the User Descriptor from the specified device. This command shall be unicast addressed.
 
----
-
-  { modelID: 'TS0601', manufacturerName: '_TZE200_eaac7dkw' },
-  { modelID: 'TS0601', manufacturerName: '_TZE200_ntcy3xu1' },
-  { modelID: 'TS0601', manufacturerName: '_TZE200_vm1gyrso' },
 #
 ---
 - Status: #done

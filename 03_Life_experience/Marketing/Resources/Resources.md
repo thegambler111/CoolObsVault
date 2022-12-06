@@ -10,14 +10,18 @@
 	8. [50 Free Marketing Classes](https://blog.hubspot.com/marketing/free-online-marketing-classes)
 	9. [Learning SEO Library](https://learningseo.io/)
 
-# 
+# SEO courses
+- <https://www.semrush.com/>
+- <https://ahrefs.com/academy/seo-training-course>
 
+# 10 threads to help you master the basics
+- [10 threads to help you master the basics](https://twitter.com/AliTheCFO/status/1513120867479277570)
+	- [Source](https://twitter.com/AliTheCFO/status/1513120867479277570)
+
+#
 ---
-- Status: #done 
-
-- Tags: #marketing 
-
+- Status: #done
+- Tags: #marketing
 - References:
 	- [Source]()
-
 - Related:

@@ -30,6 +30,6 @@
 #
 ---
 - Status: #done
-- Tags: #storytelling #book
+- Tags: #storytelling #book_to_read
 - References:
 - Related:

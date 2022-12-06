@@ -41,7 +41,7 @@
 #
 ---
 - Status: #done
-- Tags:
+- Tags: #startup 
 - References:
 	- [Source](https://twitter.com/lennysan/status/1590032746772328448)
 - Related:

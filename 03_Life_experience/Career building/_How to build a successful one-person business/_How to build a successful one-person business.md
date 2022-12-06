@@ -198,7 +198,7 @@
 #
 ---
 - Status: #done
-- Tags: #learn_to_sell
+- Tags: #career
 - References:
 	- [Source](https://twitter.com/thedankoe/status/1582328140784975872)
 - Related:

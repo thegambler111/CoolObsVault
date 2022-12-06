@@ -39,6 +39,8 @@
 ## 12
 - 3
 	- To use your core muscle effectively you must brace them by pushing them out. Sucking them in makes you weak.
+- 6
+	- Using 5-second-rule (counting from 5 to 1) is a great way to stop procrastination
 
 #
 ---
