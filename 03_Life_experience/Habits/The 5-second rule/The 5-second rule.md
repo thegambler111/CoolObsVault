@@ -1,3 +1,6 @@
+# TLDR
+- Countdown from 5 to do things immediately
+
 # The 5 Second Rule by Mel Robbins.
 - Remember that moment as kids? Counting down 5, 4, 3, 2, 1…before jumping into a pool?
 	- Worked like a charm.
@@ -15,15 +18,17 @@
 	- In the words of Aristotle, "Do good, feel good."
 - Exactly what the 5 Second Rule will help you DO.
 - Most of us go through life—overthinking—like this:
-- "You stalk the edge of the pool, bothering people with questions about how cold the water is, how deep it is, what it's like to get all wet like that…anything to avoid actually jumping in." - John Carlton
+	- "You stalk the edge of the pool, bothering people with questions about how cold the water is, how deep it is, what it's like to get all wet like that…anything to avoid actually jumping in." - John Carlton
 - The kicker:
-
 	- Once we're immersed in sun-shimmered water,
-
 	- Enjoying the freedom of weightlessness,
-
 	- We wish we'd jumped in sooner.
-
 	- It's as simple as 5, 4, 3, 2, 1…
 
-[Thread link](https://twitter.com/SystemSunday/status/1599756691158933504)
+#
+---
+- Status: #done
+- Tags: #habit
+- References:
+	- [Source](https://twitter.com/SystemSunday/status/1599756691158933504)
+- Related:

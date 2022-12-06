@@ -148,7 +148,7 @@
       "All paragraphs should have exactly one blank line both before and after.": false
     },
     "Remove Empty Lines Between List Markers and Checklists": {
-      "There should not be any empty lines between list markers and checklists.": false
+      "There should not be any empty lines between list markers and checklists.": true
     },
     "Remove link spacing": {
       "Removes spacing around link text.": true
@@ -194,10 +194,10 @@
       "Adds blockquotes to all but the first line, when the cursor is in a blockquote/callout line during pasting": false
     },
     "Prevent Double Checklist Indicator on Paste": {
-      "Removes starting checklist indicator from the text to paste if the line the cursor is on in the file has a checklist indicator": false
+      "Removes starting checklist indicator from the text to paste if the line the cursor is on in the file has a checklist indicator": true
     },
     "Prevent Double List Item Indicator on Paste": {
-      "Removes starting list indicator from the text to paste if the line the cursor is on in the file has a list indicator": false
+      "Removes starting list indicator from the text to paste if the line the cursor is on in the file has a list indicator": true
     },
     "Proper Ellipsis on Paste": {
       "Replaces three consecutive dots with an ellipsis even if they have a space between them in the text to paste": false
@@ -206,13 +206,13 @@
       "Removes hyphens from the text to paste": false
     },
     "Remove Leading or Trailing Whitespace on Paste": {
-      "Removes any leading non-tab whitespace and all trailing whitespace for the text to paste": false
+      "Removes any leading non-tab whitespace and all trailing whitespace for the text to paste": true
     },
     "Remove Leftover Footnotes from Quote on Paste": {
       "Removes any leftover footnote references for the text to paste": false
     },
     "Remove Multiple Blank Lines on Paste": {
-      "Condenses multiple blank lines down into one blank line for the text to paste": false
+      "Condenses multiple blank lines down into one blank line for the text to paste": true
     }
   },
   "lintOnSave": true,
