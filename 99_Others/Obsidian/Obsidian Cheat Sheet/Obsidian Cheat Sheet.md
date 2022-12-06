@@ -43,10 +43,7 @@
 
 #
 ---
-Status: #done
-
-Tags: #obsidian #cheat_sheet
-
-References:
-
-Related:
+- Status: #done
+- Tags:
+- References:
+- Related:

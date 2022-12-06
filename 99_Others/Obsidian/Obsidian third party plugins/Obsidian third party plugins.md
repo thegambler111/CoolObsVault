@@ -21,3 +21,12 @@
 ## Legacy
 - Smart random notes
 - Markdown prettifier
+
+
+
+#
+---
+- Status: #done
+- Tags: #obsidian 
+- References:
+- Related:

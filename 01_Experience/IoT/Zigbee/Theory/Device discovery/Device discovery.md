@@ -22,6 +22,7 @@
 
 # Zigbee descriptor
 - There are five descriptors:
+
 | Descriptor Name | Status | Description                                       |
 | --------------- | ------ | ------------------------------------------------- |
 | Node            | M      | Type and capabilities of the node                 |
@@ -29,6 +30,31 @@
 | Simple          | M      | Device descriptions contained in node             |
 | Complex         | O      | Further information about the device descriptions |
 | User            | O      | User-definable descriptor                         |
+
+- Descriptor transmission order is from top to bottom of the above table
+	- Node -> Node power -> Simple -> User
+## Node descriptor
+- The node descriptor contains information about the capabilities of the ZigBee node
+- Each Zigbee node shall have only one node descriptor
+- The fields in node descriptor:
+
+| Field Name                     | Length (Bits) |
+|--------------------------------|---------------|
+| Logical type                   | 3             |
+| Complex descriptor available   | 1             |
+| User descriptor available      | 1             |
+| Reserved                       | 3             |
+| APS flags                      | 3             |
+| Frequency band                 | 5             |
+| MAC capability flags           | 8             |
+| Manufacturer code              | 16            |
+| Maximum buffer size            | 8             |
+| Maximum incoming transfer size | 16            |
+| Server mask                    | 16            |
+| Maximum outgoing transfer size | 16            |
+| Descriptor capability field    | 8             |
+
+
 
 # The following capabilities exist for device and service discovery:
 - Device Discovery: Provides the ability for a device to determine the identity of other devices on the PAN. Device Discovery is supported for both the 64-bit IEEE address and the 16-bit Network address.

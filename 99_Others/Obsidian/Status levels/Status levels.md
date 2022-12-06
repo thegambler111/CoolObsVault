@@ -5,15 +5,9 @@
 #not_done : will do when have nothing else to do
 #done : occasionally checking to remind of the content
 
-
-# 
-
+#
 ---
-Status: #done
-
-Tags: 
-
-References:
-- 
-
-Related:
+- Status: #done
+- Tags:
+- References:
+- Related:
