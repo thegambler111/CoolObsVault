@@ -115,34 +115,97 @@
 
 ## User Descriptor
 
-# The following capabilities exist for device and service discovery:
-- Device Discovery: Provides the ability for a device to determine the identity of other devices on the PAN. Device Discovery is supported for both the 64-bit IEEE address and the 16-bit Network address.
-	- Device Discovery messages can be used in one of two ways:
-		- Broadcast addressed:
-			- All devices on the network shall respond according to the Logical De-vice Type and the matching criteria. ZigBee End Devices shall respond with just their address. ZigBee Coordinators and ZigBee Routers with associated devices shall respond with their ad-dress as the first entry followed by the addresses of their associated devices depending on the type of request. The responding devices shall employ APS acknowledged service on the unicast responses.
-		- Unicast addressed:
-			- Only the specified device responds. A ZigBee End Device shall respond only with its address. A ZigBee Coordinator or Router shall reply with its own address and the address of each associated child device. Inclusion of the associated child devices allows the requestor to determine the network topology underlying the specified device.
-- Service Discovery: Provides the ability for a device to determine services offered by other devices on the PAN.
-	- Service Discovery messages can be used in one of two ways:
-		- Broadcast addressed:
-			- Due to the volume of information that could be returned, only the individual device or the primary discovery cache shall respond with the matching criteria established in the request. The primary discovery cache shall only respond in this case if it holds cached discovery information for the NWKAddrOfInterest from the request. The responding devices shall also employ APS acknowledged service on the unicast responses.
-		- Unicast addressed:
-			- Only the specified device shall respond. In the case of a ZigBee Coordinator or ZigBee Router, these devices shall cache the Service Discovery information for sleeping associated devices and respond on their behalf.
+# Device Profile
+
+## Device and Service Discovery
+
+### Device Discovery:
+- Provides the ability for a device to determine the identity of other devices on the PAN.
+- Device Discovery is supported for both
+	- The 64-bit IEEE address
+	- The 16-bit Network address.
+- Device Discovery messages can be used in one of two ways:
+	- Broadcast addressed:
+		- All devices on the network shall respond
+			- ZigBee End Devices shall respond with just their address.
+			- ZigBee Coordinators and ZigBee Routers shall respond with their address as the first entry followed by the addresses of their associated devices
+	- Unicast addressed:
+		- Only the specified device responds.
+			- A ZigBee End Device shall respond only with its address.
+			- A ZigBee Coordinator or Router shall reply with its own address and the address of each associated child device.
+
+### Service Discovery:
+- Provides the ability for a device to determine services offered by other devices on the PAN.
+- These service discovery functions belongs to "Profile: ZigBee Device Profile (0x0000)
+"
+- Service Discovery messages can be used in one of two ways:
+	- Broadcast addressed:
+		- Only the individual device or the primary discovery cache shall respond
+			- Device will only respond their information.
+			- If the device is sleeping, their parent node will do it instead (if the parent holds cached discovery information)
+	- Unicast addressed:
+		- Only the specified device shall respond.
+		- In the case of a ZigBee Coordinator or ZigBee Router shall respond instead of their sleeping child node
 - Service Discovery is supported with the following query types:
 	- Active Endpoint:
-		- This command permits an enquiring device to determine the active end-points. An active endpoint is one with an application supporting a single profile, described by a Simple Descriptor. The command shall be unicast addressed.
+		- Command enquires active end-points
+		- Unicast addressed.
 	- Match Simple Descriptor:
-		- This command permits enquiring devices to supply a Profile ID (and, optionally, lists of input and/or output Cluster IDs) and ask for a return of the identity of an endpoint on the destination device which matches the supplied criteria. This command may be broadcast to all devices for which macRxOnWhenIdle = TRUE, or unicast addressed. For broadcast addressed requests, the responding device shall employ APS acknowledged service on the unicast responses.
+		- This command permits enquiring devices to
+			- Supply a Profile ID (and, optionally, lists of input and/or output Cluster IDs)
+			- Return the identity of an endpoint which matches the supplied criteria.
+		- Unicast addressed or broadcast to all devices which macRxOnWhenIdle = TRUE
 	- Simple Descriptor:
-		- This command permits an enquiring device to return the Simple Descriptor for the supplied endpoint. This command shall be unicast addressed.
+		- Command enquires Simple Descriptor from the specified device.
+		- Unicast addressed.
 	- Node Descriptor:
-		- This command permits an enquiring device to return the Node Descriptor from the specified device. This command shall be unicast addressed.
+		- Command enquires Node Descriptor from the specified device.
+		- Unicast addressed.
 	- Power Descriptor:
-		- This command permits an enquiring device to return the Power Descriptor from the specified device. This command shall be unicast addressed.
+		- Command enquires Power Descriptor from the specified device.
+		- Unicast addressed.
 	- Complex Descriptor:
-		- This optional command permits an enquiring device to return the Complex Descriptor from the specified device. This command shall be unicast addressed.
+		- Optional command enquires Complex Descriptor from the specified device.
+		- Unicast addressed.
 	- User Descriptor:
-		- This optional command permits an enquiring device to return the User Descriptor from the specified device. This command shall be unicast addressed.
+		- Optional command enquires User Descriptor from the specified device.
+		- Unicast addressed.
+
+## End Device Bind
+
+## Bind and Unbind
+
+## Binding Table Management
+
+## Network Management
+
+# Client Services (requests)
+
+## Match_Desc_req
+- Local device is the device which send the command
+- Remote device is the device which receive the command
+- The Match_Desc_req command (ClusterID=0x0006) format
+
+| Name              | Type                     | Valid Range        | Bytes    | Description                                                                                                                   |
+| ----------------- | ------------------------ | ------------------ | -------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| NWKAddrOfInterest | Device Address           | 16-bit NWK address | 2        | NWK address for the request; 0xfffd if broadcast                                                                              |
+| ProfileID         | Integer                  | 0x0000-0xffff      | 2        | Profile ID to be matched at the destination.                                                                                  |
+| NumInClusters     | Integer                  | 0x00-0xff          | 1        | The number of Input Clusters in the InClusterList.                                                                            |
+| InClusterList     | 2 bytes * NumInClusters  | 0                  | Variable | List of Input ClusterIDs to be used for matching; these clusters are in list of supported output clusters of the Local Device |
+| NumOutClusters    | Integer                  | 0x00-0xff          | 1        | The number of Output Clusters in OutClusterList.                                                                              |
+| OutClusterList    | 2 bytes * NumOutClusters | 0                  | Variable | List of Output ClusterIDs to be used for matching; these clusters are in list of supported input clusters of the Local Device |
+
+# Server Services (responses)
+| Name              | Type            | Valid Range                                                 | Bytes    | Description                                                                   |
+| ----------------- | --------------- | ----------------------------------------------------------- | -------- | ----------------------------------------------------------------------------- |
+| Status            | Integer         | SUCCESS, DEVICE_NOT_FOUND, INV_REQUESTTYPE or NO_DESCRIPTOR | 1        | The status of the Match_Desc_req command.                                     |
+| NWKAddrOfInterest | Device Ad-dress | 16-bit NWK address                                          | 2        | NWK address for the request.                                                  |
+| MatchLength       | Integer         | 0x00-0xff                                                   | 1        | The count of endpoints on the Re-mote Device that match the request criteria. |
+| MatchList         | 0               | 0                                                           | Variable | List of bytes each of which represents an 8-bit endpoint.                     |
+
+
+
+
 
 #
 ---

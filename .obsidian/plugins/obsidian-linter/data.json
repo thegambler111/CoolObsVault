@@ -54,8 +54,8 @@
       "Use the YAML key `linter-yaml-title-alias` to help with filename and heading changes": true
     },
     "Capitalize Headings": {
-      "Headings should be formatted with capitalization": false,
-      "Style": "Title Case",
+      "Headings should be formatted with capitalization": true,
+      "Style": "First letter",
       "Ignore Cased Words": true,
       "Ignore Words": "macOS, iOS, iPhone, iPad, JavaScript, TypeScript, AppleScript",
       "Lowercase Words": "via, a, an, the, and, or, but, for, nor, so, yet, at, by, in, of, on, to, up, as, is, if, it, for, to, with, without, into, onto, per"
@@ -117,8 +117,8 @@
       "List item style": "-"
     },
     "Compact YAML": {
-      "Removes leading and trailing blank lines in the YAML front matter.": false,
-      "Inner New Lines": false
+      "Removes leading and trailing blank lines in the YAML front matter.": true,
+      "Inner New Lines": true
     },
     "Consecutive blank lines": {
       "There should be at most one consecutive blank line.": true
@@ -194,10 +194,10 @@
       "Adds blockquotes to all but the first line, when the cursor is in a blockquote/callout line during pasting": false
     },
     "Prevent Double Checklist Indicator on Paste": {
-      "Removes starting checklist indicator from the text to paste if the line the cursor is on in the file has a checklist indicator": true
+      "Removes starting checklist indicator from the text to paste if the line the cursor is on in the file has a checklist indicator": false
     },
     "Prevent Double List Item Indicator on Paste": {
-      "Removes starting list indicator from the text to paste if the line the cursor is on in the file has a list indicator": true
+      "Removes starting list indicator from the text to paste if the line the cursor is on in the file has a list indicator": false
     },
     "Proper Ellipsis on Paste": {
       "Replaces three consecutive dots with an ellipsis even if they have a space between them in the text to paste": false
@@ -206,7 +206,7 @@
       "Removes hyphens from the text to paste": false
     },
     "Remove Leading or Trailing Whitespace on Paste": {
-      "Removes any leading non-tab whitespace and all trailing whitespace for the text to paste": true
+      "Removes any leading non-tab whitespace and all trailing whitespace for the text to paste": false
     },
     "Remove Leftover Footnotes from Quote on Paste": {
       "Removes any leftover footnote references for the text to paste": false
