@@ -17,6 +17,8 @@
 	- I return to work after a short 3 day break. Have to prepare and defend a solution. Tired but the solution is approved.
 - 6
 	- Twitter and Obsidian linter are not working properly today :(
+- 7
+	- The new guys need to learn much more but they are resilient to challenges. I should probably give them more hard tasks
 
 #
 ---
