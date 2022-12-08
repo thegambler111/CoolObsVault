@@ -19,6 +19,8 @@
 	- Twitter and Obsidian linter are not working properly today :(
 - 7
 	- The new guys need to learn much more but they are resilient to challenges. I should probably give them more hard tasks
+- 8
+	- The office is kind of empty today. Feel a little lonely but also peaceful
 
 #
 ---

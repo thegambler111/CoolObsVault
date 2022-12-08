@@ -84,7 +84,7 @@
 #
 ---
 - Status: #done
-- Tags: #career
+- Tags: #career #email 
 - References:
 	- [Source](https://twitter.com/SahilBloom/status/1581260995153911809)
 - Related:
