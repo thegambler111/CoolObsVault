@@ -19,6 +19,8 @@
 		- If the chinese prompt is still aqara, try again a few times or unplug the hub and plug again
 
 # For IOS, use 8-number code on the hub
+
+#
 ---
 - Status: #done
 - Tags: #z2m

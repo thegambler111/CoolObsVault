@@ -1,5 +1,4 @@
 # Key Components of an Inquiry
-
 - P.O.S.E.D:
 	- P – Point of Contact:
 		- Who will be the point of contact?
@@ -18,17 +17,14 @@
 		- This is the date that the client needs the actual inquiry call with the analyst
 
 # Example of A Good Inquiry Submission
-
 - Point of Contact: VP of Security Information Architect at XYZ corp.
 - Outcome: The client would like to implement a single-sign-on solution using the Microsoft Operating system, including several Sequel licenses. Gartner Consulting is conducting a review of their internal systems to determine the best product. They are considering Microsoft Forefront Identity Manager.
 - Specific: Their biggest concern is around staffing for the implementation. Should they insource or outsource? What kind of skill sets do they need? What can they do internally?
-	- If they outsource, how do they manage after implementation? They will have to support the service going forward, encompassing several agencies. 
+	- If they outsource, how do they manage after implementation? They will have to support the service going forward, encompassing several agencies.
 - Expectations Set: They expect an initial Analyst inquiry call to determine direction and strategy, and several follow-up calls if they outsource.
 - Due Date: April 1st
 
-
-# What to do 
-
+# What to do
 Preparation before the Inquiry Call
 - Study the research in advance
 - Prepare 2-3 questions to analyst
@@ -41,9 +37,7 @@ After the Inquiry Call
 - Study further researches sent by analyst (if any)
 - Follow-up to schedule next inquiry call for deep dive discussion (if needed)
 
-
-
-# 
+#
 
 ---
 Status: #done
@@ -51,7 +45,6 @@ Status: #done
 Tags: #inquiry
 
 References:
--  Gartner
+- Gartner
 
 Related:
-- 
