@@ -1,11 +1,17 @@
 # TLDR
 - The 5-Step Method:
 	1. Awareness
+		- Become aware you are procrastinating.
 	2. Deconstruction
+		- Break the big into the small.
 	3. Plan Creation
-	4. Stake (Mental force) Creation
+		- Create a real plan of attack.
+	4. Stake Creation
+		- Establish public stakes (Create mental driver)
 	5. Action
-		- Use quick win
+		- Create initial movement.
+
+![[03_Life_experience/Habits/The 5-Step Method to stop procrastinating/Visualized.jpg]]
 
 # Awareness
 - As with most mental hurdles, the first step is becoming aware of the problem.

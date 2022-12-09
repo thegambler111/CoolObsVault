@@ -1,5 +1,4 @@
 # Bicycle selling guy
-- [Source](https://www.linkedin.com/posts/nbearden_storytelling-interview-story-activity-6557897125055815680-yRnd/)
 - Two MBA students go to a job interview:
 	- Interested in finance guy
 	- Bicycle selling guy
@@ -46,11 +45,25 @@
 - Once the bad ideas are emptied, strong ideas begin to arrive.
 => OR try many many times to succeed a few
 
+# Making It Personal
+- The company has about 30 employees and right around Thanksgiving, the CEO gives each employee $1,000.
+	- He says you must give the $1,000 to someone else.
+- The challenge is to not give the money to a charity, but rather to truly look at the people around you.
+	- Find someone who needs a break.
+	- No questions asked, no stipulations, just a gift for someone that could use a hand at a trying time.
+- The CEO gathers everyone together on Zoom before they all leave for a week off for the holidays.
+	- Each person goes around and shares (without saying a name) the person that they gave the money.
+	- The stories are amazing.
+	- People cry, people laugh, people experience something most of us don't feel often enough.
+- You get the experience to make someone's day and have a few hours of hearing incredible stories.
+
 #
 ---
 - Status: #done
 - Tags: #storytelling
 - References:
+	- [Bicycle selling guy](https://www.linkedin.com/posts/nbearden_storytelling-interview-story-activity-6557897125055815680-yRnd/)
 	- [2 fishermen](https://twitter.com/dickiebush/status/1420177361295880192)
 	- [Unclog the pipe](https://twitter.com/Julian/status/1402356373648601089)
+	- [Making It Personal](https://twitter.com/HarrisFanaroff/status/1600125760123023366)
 - Related:

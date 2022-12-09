@@ -1,12 +1,5 @@
 {
-  "nldates-obsidian:nlp-dates-link": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "6"
-    }
-  ],
+  "nldates-obsidian:nlp-dates-link": [],
   "editor:swap-line-up": [
     {
       "modifiers": [
@@ -194,6 +187,15 @@
         "Mod"
       ],
       "key": "`"
+    }
+  ],
+  "hotkeysplus-obsidian:toggle-block-quote": [],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "6"
     }
   ]
 }
