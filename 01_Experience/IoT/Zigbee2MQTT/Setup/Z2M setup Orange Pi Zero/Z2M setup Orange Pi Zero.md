@@ -522,6 +522,40 @@ external_converters:
   - tuya.js
 ```
 
+# Use Viettel code
+
+## Add SSH-key to Github
+- Because Viettellab repository is a private repository, you have to use ssh-key to pull, push
+	- Email and password authentication is prohibited for private repository
+
+### Create ssh-key
+- [Github guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+1. Open Terminal.
+2. Generate ssh-key with your GitHub email address
+
+```shell
+ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+
+- **Note:** If you are using a legacy system that doesn't support the Ed25519 algorithm, use:
+
+```shell
+$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+```
+
+1. When you're prompted to "Enter a file in which to save the key", you can press **Enter** to accept the default file location.
+2. At the prompt, type a secure passphrase. For more information, see ["Working with SSH key passphrases](https://docs.github.com/en/articles/working-with-ssh-key-passphrases)."
+
+## Download code from Viettellab repository
+- Download zigbee2mqtt
+
+```bash
+cd /opt/zigbee2mqtt
+git remote add lab 
+```
+
+, Zigbee-herdsman, Zigbee-herdsman-converters,
+
 # Error handling
 
 ## Configuration is not consistent with adapter state/backup!

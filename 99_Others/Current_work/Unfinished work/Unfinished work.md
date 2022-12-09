@@ -239,6 +239,18 @@ Values:
 		- -> Quản lý chi tiêu theo quý
 
 ---
+- IoT platform -> vẽ giá trị làm lợi -> Thuyết phục
+- Phát triển firmware NB-IoT
+- Sáng kiến phục vụ giải pháp tòa nhà thông minh
+	- IoT Gateway:
+		- Thay 1x con Gateway tại tòa nhà Thái Bình
+		- Khi mua sử dụng với 5 thiết bị -> ok
+		- thực tế 30 thiết bị -> nok
+		- Thay cho việc phải mua Gateway mới
+	- Màn hình họp:
+	- Sử dụng HomeAssistance để điều khiển tự động
+		- Số lượng menMonth
+		- Hệ thống bên ngoài giá ntn
 
 ---
 

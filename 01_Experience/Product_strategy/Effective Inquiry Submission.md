@@ -25,26 +25,22 @@
 - Due Date: April 1st
 
 # What to do
-Preparation before the Inquiry Call
-- Study the research in advance
-- Prepare 2-3 questions to analyst
-During the Inquiry Call
-- Give analyst overview of the purpose for this call
-- Questions to be asked at the end of the call (5min) to utilize more time for
-analyst to share insights
-- Only main contact point to ask questions to avoid confusion
-After the Inquiry Call
-- Study further researches sent by analyst (if any)
-- Follow-up to schedule next inquiry call for deep dive discussion (if needed)
+- Preparation before the Inquiry Call
+	- Study the research in advance
+	- Prepare 2-3 questions to analyst
+- During the Inquiry Call
+	- Give analyst overview of the purpose for this call
+	- Questions to be asked at the end of the call (5min) to utilize more time for analyst to share insights
+	- Only main contact point to ask questions to avoid confusion
+- After the Inquiry Call
+	- Study further researches sent by analyst (if any)
+	- Follow-up to schedule next inquiry call for deep dive discussion (if needed)
 
 #
 
 ---
-Status: #done
-
-Tags: #inquiry
-
-References:
-- Gartner
-
-Related:
+- Status: #done
+- Tags: #inquiry
+- References:
+	- Gartner
+- Related:
