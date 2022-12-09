@@ -240,6 +240,32 @@ Values:
 
 ---
 
+- Các giao thức Viettel Network 's IoT Platform hỗ trợ:
+1/ TCP
+2/ UDP
+3/ HTTP
+4/ MQTT
+5/ CoAP
+6/ LwM2M
+7/ SNMP
+8/ Từ platform khác (thông qua API)
+
+- Công việc phát triển Thingsboard:
+1. CoAP: Triển khai giao thức CoAP và tích hợp thiết bị
+2. LwM2M:
+- Triển khai giao thức chuẩn hóa LwM2M và tích hợp thiết bị
+- Thiết kế data model chuẩn hóa (Object/Resource) cho một số loại thiết bị giao thức LwM2M
+- Đăng ký và quản lý thiết bị dựa trên IMEI
+1. TCP/UDP:
+- Phát triển server tích hợp trực tiếp UDP/TCP
+1. Gateway
+- Phát triển công cụ tích hợp các thiết bị NB-IoT thương mại (có sẵn) với payload đặc thù
+1. Từ platform khác:
+- Stream dữ liệu từ các thiết bị được kết nối với các IoT Platform khác, cho phép tương tác dashboard trực tiếp và xử lý dữ liệu
+6. Phát triển tính năng cảnh báo, gửi thông báo về email, sms, zalo, ...
+
+---
+
 #
 ---
 - Status: #writing
