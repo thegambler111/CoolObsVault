@@ -167,8 +167,12 @@ sudo apt-get install -y nodejs npm git make g++ gcc
 node --version  # Should output v10.X, v12.X, v14.X, v15.X or V16.X
 npm --version  # Should output 6.X or 7.X
 
-# Clone Zigbee2MQTT repository
+# Clone Original Zigbee2MQTT repository
 git clone https://github.com/Koenkk/zigbee2mqtt.git
+# OR Clone Viettel Zigbee2MQTT repository
+# You need to setup code first, read "Use Viettel code" part
+git clone git@github.com:ViettelIoTLaboratory/zigbee2mqtt.git
+
 sudo mv zigbee2mqtt /opt/zigbee2mqtt
 
 # Install dependencies (as user "pi")
@@ -398,7 +402,10 @@ WantedBy=multi-user.target
 	- <https://gist.github.com/patoi/f725a9a39d0145bcda4c3796b6419db7>
 	- <https://gist.github.com/joepie91/73ce30dd258296bd24af23e9c5f761aa>
 
-# Update Zigbee2MQTT to the latest version
+# Update original Zigbee2MQTT to the latest version
+- If you are using Viettel version of Zigbee2MQTT, do not follow this
+	- Contact Haint126 or Ductm27 for instructions
+
 ```bash
 # Stop Zigbee2MQTT and go to directory
 sudo systemctl stop zigbee2mqtt
@@ -527,11 +534,25 @@ external_converters:
 ## Add SSH-key to Github
 - Because Viettellab repository is a private repository, you have to use ssh-key to pull, push
 	- Email and password authentication is prohibited for private repository
+- [Github guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+### Check if you already have an SSH key
+- Open Terminal.
+- Check  if existing SSH keys are present.
+
+```shell
+$ ls -al ~/.ssh
+# Lists the files in your .ssh directory, if they exist
+```
+
+- Check the directory listing to see if you already have a public SSH key. By default, the filenames of supported public keys for GitHub are one of the following.
+	- _id_rsa.pub_
+	- _id_ecdsa.pub_
+	- _id_ed25519.pub_
 
 ### Create ssh-key
-- [Github guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-1. Open Terminal.
-2. Generate ssh-key with your GitHub email address
+- Open Terminal.
+- Generate ssh-key with your GitHub email address
 
 ```shell
 ssh-keygen -t ed25519 -C "your_email@example.com"
@@ -543,18 +564,137 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
 
-1. When you're prompted to "Enter a file in which to save the key", you can press **Enter** to accept the default file location.
-2. At the prompt, type a secure passphrase. For more information, see ["Working with SSH key passphrases](https://docs.github.com/en/articles/working-with-ssh-key-passphrases)."
+- When you're prompted to "Enter a file in which to save the key"
+	- You can press **Enter** to accept the default file location OR use a new file location
+	- Save the location of your key for the future step
 
-## Download code from Viettellab repository
-- Download zigbee2mqtt
-
-```bash
-cd /opt/zigbee2mqtt
-git remote add lab 
+```shell
+> Enter a file in which to save the key (/home/YOU/.ssh/ALGORITHM):[Press enter]
 ```
 
-, Zigbee-herdsman, Zigbee-herdsman-converters,
+- At the prompt, type a secure passphrase. For more information, see ["Working with SSH key passphrases](https://docs.github.com/en/articles/working-with-ssh-key-passphrases)."
+
+```shell
+> Enter passphrase (empty for no passphrase): [Type a passphrase]
+> Enter same passphrase again: [Type passphrase again]
+```
+
+### Adding your SSH key to the ssh-agent
+- Open Terminal.
+- Start the ssh-agent in the background.
+	- You may need to use root access to run this command
+
+```shell
+$ eval "$(ssh-agent -s)"
+> Agent pid 59566
+```
+
+- If the ssh-agent have not started, use one of these command to run it
+
+```shell
+$ exec ssh-agent bash
+OR
+$ exec ssh-agent zsh
+```
+
+- Add your SSH private key to the ssh-agent.
+	- Replace `id_ed25519` in the command with the location of your private key file generated above.
+
+```shell
+$ ssh-add ~/.ssh/id_ed25519
+```
+
+### Add the SSH key to your account on GitHub
+- Copy the SSH public key
+	- You might use this command in Linux system
+
+```shell
+$ cat ~/.ssh/id_ed25519.pub
+  # Then select and copy the contents of the id_ed25519.pub file
+  # displayed in the terminal to your clipboard
+```
+
+- In the upper-right corner of any page, click your profile photo, then click **Settings**.
+- In the "Access" section of the sidebar, click 🔑 **SSH and GPG keys**.
+- Click **New SSH key** or **Add SSH key**.
+- In the "Title" field, add a name for the new key.
+- Select the type of key, either authentication or signing. For more information about commit signing, see "[About commit signature verification](https://docs.github.com/en/articles/about-commit-signature-verification)."
+	- For accessing private repository, choose "Authentication Key"
+- Paste your key into the "Key" field.
+- Click **Add SSH key**.
+- If prompted, confirm access to your account on GitHub
+- Now you have done setting ssh-key for your machine
+
+## Download code from Viettellab repository
+- Remove any previous zigbee2mqtt code in`/opt` folder
+- Download zigbee2mqtt, Zigbee-herdsman, Zigbee-herdsman-converters
+
+```bash
+cd /opt
+git clone git@github.com:ViettelIoTLaboratory/zigbee2mqtt.git
+git clone git@github.com:ViettelIoTLaboratory/zigbee-herdsman.git
+git clone git@github.com:ViettelIoTLaboratory/zigbee-herdsman-converters.git
+```
+
+## Use the latest code
+- The latest code in 2022/12/09 is in these branches
+
+```shell
+cd /opt/zigbee2mqtt
+git checkout phase1_release
+cd /opt/zigbee-herdsman
+git checkout phase1_release
+cd /opt/zigbee-herdsman-converters
+git checkout phase2
+```
+
+## Download dependencies
+```shell
+cd /opt/zigbee2mqtt
+npm ci
+cd /opt/zigbee-herdsman
+npm ci
+cd /opt/zigbee-herdsman-converters
+npm ci
+```
+
+## Link code
+- This step is to apply `zigbee-herdsman` and `zigbee-herdsman-converters` code from Viettel to `zigbee2mqtt`
+
+```shell
+cd /opt/zigbee-herdsman
+npm link
+cd /opt/zigbee-herdsman-converters
+npm link
+npm link zigbee-herdsman
+cd /opt/zigbee2mqtt
+npm link zigbee-herdsman zigbee-herdsman-converters
+```
+
+## Build
+- Build the code
+- You do not need to build `zigbee-herdsman-converters`
+- There might be error related to linking, contact support for further instructions
+
+```shell
+cd /opt/zigbee-herdsman
+npm run build
+cd /opt/zigbee2mqtt
+npm run build
+```
+
+## Run
+- To run the code, you need to fill in `configuration.yaml` file
+	- See the guide of original zigbee2mqtt code for step-by-step guidance
+- After finished the setup, you can run test zigbee2mqtt using these commands
+
+```shell
+cd /opt/zigbee2mqtt
+npm start
+```
+
+- If there are no error prompt, you have done it
+- Congratulation, you have finished the setup :D
 
 # Error handling
 
@@ -602,6 +742,12 @@ git remote add lab
 ## Error: Permission denied on USB port
 - [Check if current user has permission to connect to the adapter](https://www.zigbee2mqtt.io/guide/installation/20_zigbee2mqtt-fails-to-start.html#verify-that-the-user-you-run-zigbee2mqtt-as-has-write-access-to-the-port)
 - `test -w [PORT] && echo success || echo failure` command does not work correctly, use it with caution
+
+## Error: Cannot find module `mz` in zigbee-herdsman
+- Happened when incorrectly linking `zigbee2mqtt` and `zigbee-herdsman`
+- How to fix:
+	- Try linking `zigbee2mqtt`, `zigbee-herdsman` and `zigbee-herdsman-converters` again
+	- If it still happens, call for supports
 
 #
 ---
