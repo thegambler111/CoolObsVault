@@ -21,6 +21,8 @@
 	- The new guys need to learn much more but they are resilient to challenges. I should probably give them more hard tasks
 - 8
 	- The office is kind of empty today. Feel a little lonely but also peaceful
+- 9
+	- Give one of the new guy freedom to do the job,, but he did not finished it on time. Should probably force the those guys to plan before doing first.
 
 #
 ---

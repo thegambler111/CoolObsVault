@@ -243,14 +243,82 @@ Values:
 - Phát triển firmware NB-IoT
 - Sáng kiến phục vụ giải pháp tòa nhà thông minh
 	- IoT Gateway:
-		- Thay 1x con Gateway tại tòa nhà Thái Bình
+		- Thay 1x con Gateway tại tòa nhà Thái Bình (5tr/con)
 		- Khi mua sử dụng với 5 thiết bị -> ok
 		- thực tế 30 thiết bị -> nok
 		- Thay cho việc phải mua Gateway mới
-	- Màn hình họp:
 	- Sử dụng HomeAssistance để điều khiển tự động
 		- Số lượng menMonth
 		- Hệ thống bên ngoài giá ntn
+
+---
+Giải pháp điều khiển tự động do hãng Quang Thông cung cấp cho dự án Smart Office tồn tại nhiều hạn chế:
+- Mỗi thiết bị chỉ được có 1 kịch bản điều khiển tự động và điều khiển toàn thời gian (24/7). Nhu cầu thực tế cần 1 kịch bản có thể điều khiển cùng lúc nhiều thiết bị, hoặc 1 thiết bị có thể được điều khiển bởi nhiều kịch bản khác nhau, và có thể điều khiển theo các khung giờ khác nhau trong ngày, trong tuần.
+- Mỗi thiết bị chỉ có thể được điều khiển tự động từ 1 thiết bị khác. Nhu cầu thực tế cần 1 thiết bị cảm biến có thể điều khiển cho 1 nhóm thiết bị, hoặc 1 nhóm cảm biến có thể điều khiển 1 thiết bị, hoặc 1 nhóm cảm biến điều khiển cho cả 1 nhóm thiết bị.
+- Mỗi thiết bị chỉ được có 1 kịch bản điều khiển theo lịch vào đúng 1 thời điểm trong ngày. Nhu cầu thực tế cần 1 kịch bản điều khiển theo lịch có thể điều khiển cùng lúc nhiều thiết bị, hoặc 1 thiết bị có thể được điều khiển bởi nhiều kịch bản điều khiển theo lịch khác nhau, và có thể đặt lịch điều khiển vào nhiều thời điểm khác nhau trong ngày, trong tuần.
+- Kịch bản được cấu hình theo giao diện dòng lệnh không thân thiện với người dùng, khó triển khai, điều chỉnh, phân tích, quản lý, thống kê, giám sát, chỉ phù hợp cho các nhu cầu cá nhân với số lượng thiết bị ít, kịch bản điều khiển đơn giản.
+
+Giải pháp của đối tác:
+- Tích hợp thiết bị thông qua Command line
+- Mỗi loại thiết bị có một chuẩn bản tin khác nhau
+- Kênh của mạng Zigbee cố định, không tùy chỉnh được
+- Cấu hình của Gateway Zigbee cố định
+- Không có tích hợp sẵn với các hệ thống quản lý bên ngoài
+- Chỉ kết nối được 20 thiết bị/gateway
+- Không có khả năng mở rộng tính năng mới
+
+# Tình trạng
+Các giải pháp do hãng Quang Thông cung cấp cho dự án Smart Office tồn tại nhiều hạn chế
+- Với thiết bị Gateway:
+	- Ứng dụng Gateway được cung cấp sử dụng giao diện dòng lệnh, không thân thiện với người dùng, rất khó để cấu hình, quản lý, phân tích
+	- Cấu hình của Gateway Zigbee không thay đổi được. Điều này gây khó khăn cho việc tối ưu hệ thống, nhất là trong công đoạn lựa chọn băng tần hoạt động hợp lý để tránh bị nghẽn với hệ thống mạng Wifi tại tòa nhà Thái Bình.
+	- Cấu hình của các mạng Zigbee giống hệt nhau, không thay đổi được. Điều này dẫn đến tình trạng thiết bị không phân biệt được mạng Zigbee của các tầng khác nhau, gây ra tình trạng thiết bị tự động chuyển mạng Zigbee giữa các tầng, không ở cố định 1 mạng. Vấn đề này khiến cho người dùng không thể quản lý được thiết bị và thiết bị thường xuyên mất kết nối
+	- Mỗi loại thiết bị trong kết nối đến Gateway có một cấu trúc bản tin khác nhau. Điều này làm cho việc vận hành khai thác hệ thống gặp rất nhiều khó khăn do phải xử lý thông tin của mỗi loại thiết bị một cách khác nhau
+	- Mỗi Gateway do Quang Thông cung cấp chỉ kết nối được tối đa 15 thiết bị, không đảm bảo nhu cầu sử dụng là 40 thiết bị/ Gateway
+	- Ngoài platform, Gateway được cung cấp không có khả năng kết nối, giao tiếp với hệ thống thứ ba, cản trở việc mở rộng dịch vụ của hệ thống
+- Với điều khiển tự động:
+	- Mỗi thiết bị chỉ được có 1 kịch bản điều khiển tự động và điều khiển toàn thời gian (24/7). Nhu cầu thực tế cần 1 kịch bản có thể điều khiển cùng lúc nhiều thiết bị, hoặc 1 thiết bị có thể được điều khiển bởi nhiều kịch bản khác nhau, và có thể điều khiển theo các khung giờ khác nhau trong ngày, trong tuần.
+	- Mỗi thiết bị chỉ có thể được điều khiển tự động từ 1 thiết bị khác. Nhu cầu thực tế cần 1 thiết bị cảm biến có thể điều khiển cho 1 nhóm thiết bị, hoặc 1 nhóm cảm biến có thể điều khiển 1 thiết bị, hoặc 1 nhóm cảm biến điều khiển cho cả 1 nhóm thiết bị.
+	- Mỗi thiết bị chỉ được có 1 kịch bản điều khiển theo lịch vào đúng 1 thời điểm trong ngày. Nhu cầu thực tế cần 1 kịch bản điều khiển theo lịch có thể điều khiển cùng lúc nhiều thiết bị, hoặc 1 thiết bị có thể được điều khiển bởi nhiều kịch bản điều khiển theo lịch khác nhau, và có thể đặt lịch điều khiển vào nhiều thời điểm khác nhau trong ngày, trong tuần.
+	- Kịch bản được cấu hình theo giao diện dòng lệnh không thân thiện với người dùng, khó triển khai, điều chỉnh, phân tích, quản lý, thống kê, giám sát, chỉ phù hợp cho các nhu cầu cá nhân với số lượng thiết bị ít, kịch bản điều khiển đơn giản.
+
+# Nội dung
+Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng có sẵn:
+- Tự xây dựng sản phẩm Gateway Zigbee xử lý được các hạn chế của giải pháp đối tác cung cấp và cho phép phát triển thêm các tính năng nâng cao:
+	- Phát triển giao diện trên web cho phép người dùng cấu hình, quản lý một cách thuận tiện, thân thiện
+	- Xây dựng quy chuẩn bản tin cho các loại thiết bị Zigbee, cho phép nhân bản quy trình vận hành, khai thác của một loại thiết bị cho nhiều loại thiết bị khác
+	- Cho phép thay đổi cấu hình mạng Zigbee cũng như toàn bộ hệ thống Gateway để phù hợp với tình trạng triển khai cũng như nhu cầu thực tế. Từ đó, khắc phục được tình trạng nghẽn mạng do xung khắc tần số với mạng Wifi và vấn đề tự động chuyển mạng của các thiết bị Zigbee
+	- Cho phép tích hợp với các hệ thống thứ ba như HomeAssistant
+	- Phát triển thêm các tính năng giám sát, cảnh báo, đánh giá hiệu năng thiết bị, hệ thống, giúp tiết kiệm thời gian và công sức vận hành, khai thác
+	- Mở rộng khả năng kết nối đến các chủng loại thiết bị khác trên thị trường, mở ra hướng kinh doanh mới cho ngành IoT
+- Cài đặt và triển khai hệ thống Home Assistant để cấu hình, vận hành, quản lý, giám sát các kịch bản điều khiển tự động trong dự án Smart Office
+	- Cài đặt hệ thống Home Assistant trên hệ thống server có sẵn của Viettel
+	- Kết nối hệ thống với IoT platform để thu thập thông tin và điều khiển thiết bị
+	- Xây dựng kịch bản tự động cho toàn bộ hệ thống chiếu sáng tại Trụ sở Tổng Công ty
+	- Cấu hình kịch bản tự động cho các thiết bị trong dự án Smart office
+	- Vận hành, giám sát các kịch bản tự động
+	- Tiếp nhận phản ánh và thay đổi kịch bản theo nhu cầu của người dùng
+
+# Khả năng áp dụng
+- Giải pháp phần mềm quản lý Gateway Zigbee có thể áp dụng để quản lý gần như toàn bộ các loại thiết bị Zigbee có trên thị trường, cho phép tùy biến và phát triển thêm các tính năng theo yêu cầu người dùng
+- Giả pháp điều khiển tự động có thể điều khiển được toàn bộ các loại thiết bị đã được tích hợp với IoT platform của Viettel và áp dụng được cho toàn bộ các dự án IoT tại Viettel (Smart Home, Smart Office, Smart Urban...).
+
+# Điểm mới
+- Khắc phục lỗi thiết bị các tầng kết nối vào gateway không cùng tầng bằng cách thay đổi cấu hình Gateway
+- Khắc phục được tình trạng kết nối không ổn định do nhiễu sóng với hệ thống WIFI
+- Tiết kiện 50% thời gian tích hợp và quản lý khi chuyển từ command line sang giao diện người dùng
+- Cho phép kết nối nhiều thiết bị hơn trên cùng một gateway -> Giảm chi phí phần cứng
+- Cho phép chủ động phát triển thêm các tính năng mới theo yêu cầu
+Tự nghiên cứu, tìm hiểu và triển khai 1 giải pháp điều khiển tự động mới, ưu việt hơn hẳn so với giải pháp sẵn có của nhà cung cấp thiết bị, phù hợp cho triển khai mọi dự án IoT lớn nhỏ.
+
+# Hiệu quả
+- a
+	- Triển khai thành công 3 ứng dụng cho Tòa nhà Thái Bình trụ sở VTNet
+	- Mở ra hướng phát triển hệ sinh thái thiết bị IoT.
+- a
+	- Khắc phục hoàn toàn các nhược điểm của giải pháp cung cấp bởi hãng. Người dùng có thể tùy ý cấu hình kịch bản với nhiều tác động từ nhóm gồm tùy ý các cảm biến điều khiển đến nhóm gồm tùy ý các thiết bị vận hành (công tắc, relay...), với các khung thời gian điều khiển trong ngày và các ngày tùy ý.
+	- Đã triển khai hơn 200 kịch bản điều khiển tự động cho tòa nhà Thái Bình.
+	- Học hỏi cấu trúc quản lý, thiết kế của ứng dụng Home Assisttant, làm tiền đề cho việc phát triển giải pháp điều khiển tự động toàn trình trên Platform của Viettel.
 
 ---
 

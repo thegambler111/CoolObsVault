@@ -1,8 +1,8 @@
 # Pending
-- [ ] OTP SCOM
+- [x] OTP SCOM
 - [ ] Second chapter of "Show your work!"
 - [ ] Note Head first PMP: (till pg 160)
-- [ ] Camera angle => VAM will change if necessary
+- [x] Camera angle => VAM will change if necessary
 - [ ] https://share.streamlit.io/ammaryh92/activation_functions/main/app.py
 - [ ] https://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/
 - [ ] https://twitter.com/TivadarDanka/status/1499363217646108677
