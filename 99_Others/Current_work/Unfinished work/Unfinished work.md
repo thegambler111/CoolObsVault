@@ -304,20 +304,17 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 - Giả pháp điều khiển tự động có thể điều khiển được toàn bộ các loại thiết bị đã được tích hợp với IoT platform của Viettel và áp dụng được cho toàn bộ các dự án IoT tại Viettel (Smart Home, Smart Office, Smart Urban...).
 
 # Điểm mới
-- Khắc phục lỗi thiết bị các tầng kết nối vào gateway không cùng tầng bằng cách thay đổi cấu hình Gateway
-- Khắc phục được tình trạng kết nối không ổn định do nhiễu sóng với hệ thống WIFI
-- Tiết kiện 50% thời gian tích hợp và quản lý khi chuyển từ command line sang giao diện người dùng
-- Cho phép kết nối nhiều thiết bị hơn trên cùng một gateway -> Giảm chi phí phần cứng
-- Cho phép chủ động phát triển thêm các tính năng mới theo yêu cầu
-Tự nghiên cứu, tìm hiểu và triển khai 1 giải pháp điều khiển tự động mới, ưu việt hơn hẳn so với giải pháp sẵn có của nhà cung cấp thiết bị, phù hợp cho triển khai mọi dự án IoT lớn nhỏ.
+- Giải pháp phần mềm quản lý Gateway Zigbee là giải pháp táo bạo, mang tính đột phá cao do lĩnh vực IoT đặc biệt là mảng ứng dụng Zigbee còn mới mẻ chưa có nhiều hãng sản xuất tại Việt Nam
+- Giải pháp điều khiển tự động là giải pháp tự nghiên cứu, tìm hiểu và triển khai. Giải pháp đã thay thế và chứng minh sự ưu việt so với giải pháp sẵn có của nhà cung cấp thiết bị. Giải pháp phù hợp cho triển khai mọi dự án IoT lớn nhỏ.
 
 # Hiệu quả
-- a
-	- Triển khai thành công 3 ứng dụng cho Tòa nhà Thái Bình trụ sở VTNet
-	- Mở ra hướng phát triển hệ sinh thái thiết bị IoT.
-- a
+- Giải pháp phần mềm quản lý Gateway Zigbee vừa xử lý được các vấn đề trong dự án Smart office tại Trụ sở Tổng Công ty, vừa mở ra một hướng đi mới cho ngành IoT.
+	- Gateway Zigbee do Viettel tự phát triển khắc phục được các lỗi phát sinh của hệ thống cung cấp bởi đối tác, giúp triển khai thành công các ứng dụng Zigbee trong Tòa nhà Thái Bình
+	- Gateway tự phát triển bổ sung các tính năng cần thiết cho việc vận hành, khai thác, giúp tiết kiệm 70% thời gian, công sức so với giải pháp được đối tác cung cấp
+	- Mở ra hướng phát triển hoàn toàn mới cho ngành IoT: Phát triển hệ sinh thái các thiết bị Zigbee
+- Giải pháp điều khiển tự động giải quyết được các nhược điểm của giải pháp đối tác cung cấp và đem lại kinh nghiệm để ứng dụng vào việc xây dựng IoT platform của Viettel
 	- Khắc phục hoàn toàn các nhược điểm của giải pháp cung cấp bởi hãng. Người dùng có thể tùy ý cấu hình kịch bản với nhiều tác động từ nhóm gồm tùy ý các cảm biến điều khiển đến nhóm gồm tùy ý các thiết bị vận hành (công tắc, relay...), với các khung thời gian điều khiển trong ngày và các ngày tùy ý.
-	- Đã triển khai hơn 200 kịch bản điều khiển tự động cho tòa nhà Thái Bình.
+	- Đã triển khai hơn 200 kịch bản điều khiển tự động cho tòa nhà Thái Bình. Tự động kiểm soát hệ thống chiếu sáng giúp tiết kiệm điện, giảm chi phí và công sức vận hành tòa nhà cũng như gia tăng trải nghiệm làm việc của CBNV VTNet.
 	- Học hỏi cấu trúc quản lý, thiết kế của ứng dụng Home Assisttant, làm tiền đề cho việc phát triển giải pháp điều khiển tự động toàn trình trên Platform của Viettel.
 
 ---

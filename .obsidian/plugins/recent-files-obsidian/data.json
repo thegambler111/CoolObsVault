@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Unfinished work",
+      "path": "99_Others/Current_work/Unfinished work/Unfinished work.md"
+    },
+    {
+      "basename": "One story everyday",
+      "path": "Daily_notes/One story everyday/One story everyday.md"
+    },
+    {
       "basename": "__Step-by-step strategy to make 1 millions in a year",
       "path": "03_Life_experience/Startup_Business building/__Step-by-step strategy to make 1 millions in a year/__Step-by-step strategy to make 1 millions in a year.md"
     },
@@ -59,14 +67,6 @@
     {
       "basename": "Z2M setup Orange Pi Zero",
       "path": "01_Experience/IoT/Zigbee2MQTT/Setup/Z2M setup Orange Pi Zero/Z2M setup Orange Pi Zero.md"
-    },
-    {
-      "basename": "Unfinished work",
-      "path": "99_Others/Current_work/Unfinished work/Unfinished work.md"
-    },
-    {
-      "basename": "One story everyday",
-      "path": "Daily_notes/One story everyday/One story everyday.md"
     },
     {
       "basename": "Aqara hub M1S connnect to Mi home Android",
