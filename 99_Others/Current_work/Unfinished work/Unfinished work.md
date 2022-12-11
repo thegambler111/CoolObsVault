@@ -312,10 +312,46 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 	- Gateway Zigbee do Viettel tự phát triển khắc phục được các lỗi phát sinh của hệ thống cung cấp bởi đối tác, giúp triển khai thành công các ứng dụng Zigbee trong Tòa nhà Thái Bình
 	- Gateway tự phát triển bổ sung các tính năng cần thiết cho việc vận hành, khai thác, giúp tiết kiệm 70% thời gian, công sức so với giải pháp được đối tác cung cấp
 	- Mở ra hướng phát triển hoàn toàn mới cho ngành IoT: Phát triển hệ sinh thái các thiết bị Zigbee
+	- Tiết kiệm được tiền thuê ngoài để phát triển: 120 men month * 35.000.000 = 4.200.000.000
 - Giải pháp điều khiển tự động giải quyết được các nhược điểm của giải pháp đối tác cung cấp và đem lại kinh nghiệm để ứng dụng vào việc xây dựng IoT platform của Viettel
 	- Khắc phục hoàn toàn các nhược điểm của giải pháp cung cấp bởi hãng. Người dùng có thể tùy ý cấu hình kịch bản với nhiều tác động từ nhóm gồm tùy ý các cảm biến điều khiển đến nhóm gồm tùy ý các thiết bị vận hành (công tắc, relay...), với các khung thời gian điều khiển trong ngày và các ngày tùy ý.
 	- Đã triển khai hơn 200 kịch bản điều khiển tự động cho tòa nhà Thái Bình. Tự động kiểm soát hệ thống chiếu sáng giúp tiết kiệm điện, giảm chi phí và công sức vận hành tòa nhà cũng như gia tăng trải nghiệm làm việc của CBNV VTNet.
 	- Học hỏi cấu trúc quản lý, thiết kế của ứng dụng Home Assisttant, làm tiền đề cho việc phát triển giải pháp điều khiển tự động toàn trình trên Platform của Viettel.
+	- Tiết kiệm được tiền thuê ngoài để phát triển: 60 men month * 35.000.000 = 2.100.000.000
+- Tổng cộng tiết kiệm 6.300.000.000
+
+---
+
+- Làm firmware cho 1 thiết bị Khởi tạo mạng Zigbee, thu phát tín hiệu Zigbee: 60 mm
+	- Khởi tạo mạng Zigbee:
+		- Lựa chọn cấu hình mạng
+		- Thủ tục khởi tạo mạng
+		- Bảo mật
+	- Thêm/xóa thiết bị trong mạng
+		- Thủ tục
+		- Bảo mật
+		- Khám phá chức năng thiết bị
+	- Giao tiếp trong mạng
+		- Routing
+		- Thủ tục
+		- Cấu trúc bản tin
+	- Kiểm soát, khắc phục sự cố
+		- Giám sát hoạt động các phần tử
+		- Tự động khắc phục các sự cố rounting, lỗi bản tin
+		- Đẩy cảnh báo kèm thông tin liên quan của các loại lỗi khác
+- Nhận dữ liệu từ phần cứng và giải mã: 30 mm
+	- Giao tiếp với phần cứng
+	- Giải mã các loại bản tin
+	- Tích hợp thiết bị (3 thiết bị trong dự án Smart Office)
+	- Tổng hợp, lưu trữ, debug
+- Kết nối tới Platform: 20 mm
+	- Liên kết với platform
+	- Giao tiếp với platform
+	- Bảo mật
+- Frontend: 10 mm
+	- Thiết kế giao diện
+	- Liên kết với các thành phần
+	- Thiết kế điều khiển cho các loại thiết bị
 
 ---
 
