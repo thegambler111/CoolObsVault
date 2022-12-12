@@ -23,6 +23,12 @@
 	- The office is kind of empty today. Feel a little lonely but also peaceful
 - 9
 	- Give one of the new guy freedom to do the job,, but he did not finished it on time. Should probably force the those guys to plan before doing first.
+- 10
+	- Play game all day. Neglect all habits though. Not good
+- 11
+	- Go back to hometown today to pay a visit to my grandpa, meet some relatives and play with my nieces. Resume my habit 👍
+- 12
+	- a
 
 #
 ---

@@ -354,6 +354,21 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 	- Thiết kế điều khiển cho các loại thiết bị
 
 ---
+* f4003fcd (HEAD -> phase2, lab/phase2) :add: 30.1_30.4 FSS301_FSS304 Fan Speed Switch
+* d8aa1887 :add: 25.3 Motion Sensor
+* 4fa9a607 :add: 27.5 vibration sensor
+* c57442b7 :add: 35.2 light sensor tuya
+* 11715950 :add 37.4 SCM.4 Tuya Smart Motor
+* 55f1c204 :add 21.5 RJM.2 Repeater
+* 2e96d0cd :add: 42.1 wave smart switch
+* cab6cbba :add: 30.3 30.5 Fan Speed Switch
+* 43b780a8 :add: PIR Quang Thong 2
+* 92cdf913 :add: 34.3 water valve
+* 5baaef0a :add: 34.4 valve controller
+* 4d4ad638 :add: 27.4 vibration sensor
+* abeb3597 :add: 38.1 GRS.1 Smart Switch
+
+---
 
 #
 ---

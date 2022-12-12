@@ -1,7 +1,7 @@
-# 12 non-obvious strategies to level up your public speaking
+# 12 Non-obvious strategies to level up your public speaking
+
 ## Avoid memorization
 - Only know material in 1 fixed direction => Unable to adapt
-
 - Focus on a few key
 	- Opening lines
 	- Transaction
@@ -50,13 +50,11 @@
 - The best public speakers do not deliver a speech, they tell a story
 - Create a storytelling structure that are familiar and easy to follow
 - Be clear and explicit about the structure upfront
-
 - Example:
 	- Describe the reality
 	- Describe the potential future
 	- Repeat
 	- Finish with an ending promise
-
 
 ## Move with purpose
 - Take slow, methodical purposeful steps
@@ -75,17 +73,11 @@
 - It is okay to be nervous
 - But it is time to fight back !!!
 
-
-
-# 
+#
 
 ---
 - Status: #done
-
-- Tags: #life_experience 
-
+- Tags: #life_experience
 - References:
-	-  [Source](https://sahilbloom.substack.com/p/the-power-speaking-guide?s=w)
-
+	- [Source](https://sahilbloom.substack.com/p/the-power-speaking-guide?s=w)
 - Related:
-	- 
