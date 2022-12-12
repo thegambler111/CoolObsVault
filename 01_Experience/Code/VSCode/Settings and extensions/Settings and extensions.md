@@ -100,6 +100,7 @@
 
 # Extensions for Java
 - Extension Pack for Java
+	- [Source](https://code.visualstudio.com/docs/java/extensions)
 	- Language Support for Java(TM) by Red Hat
 	- Debugger for Java
 	- Maven for Java
@@ -125,6 +126,7 @@
 - GitLens — Git supercharged
 
 ## Remote
+- [Source](https://code.visualstudio.com/docs/remote/remote-overview)
 - Remote Development
 - Remote - SSH
 - Remote - SSH: Editing Configuration Files

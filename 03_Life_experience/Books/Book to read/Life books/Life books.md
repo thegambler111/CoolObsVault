@@ -14,6 +14,19 @@
 # Ankur Warikoo 2022 Life Changing Book
 - [Atmamun: The path to achieving the bliss of the Himalayan Swamis. And the freedom of a living God by Kapil Gupta MD](https://www.amazon.com/Atmamun-achieving-Himalayan-Swamis-freedom/dp/1532762720)
 
+# 10 Life changing books to make you smarter
+- [Source](https://twitter.com/MindWisdomMoney/status/1602210227465719808)
+- Think again - Adam Grant
+- The art of war - Sun Tzu
+- Limitless - Jim Kwik
+- Thinking, fast and slow - Daniel Kahneman
+- Fact fulness - Hans Rosling
+- A short history of everything - Bill Bryson
+- Sapiens A brief history of humankind
+- Meditations - Marcus Aureluius
+- The almanack of Naval Ravikant
+- The laws of human nature - Robert Greene
+
 #
 ---
 - Status: #done

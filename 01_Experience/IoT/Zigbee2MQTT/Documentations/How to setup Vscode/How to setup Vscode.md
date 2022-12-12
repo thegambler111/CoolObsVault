@@ -38,7 +38,7 @@
 ```
 
 ## Reference
-- [[01_Experience/Code/VSCode/VSCode settings and extensions/VSCode settings and extensions]]
+- [[01_Experience/Code/VSCode/Settings and extensions/VSCode settings and extensions]]
 
 # Link modules
 - In any folder, before running any `npm link` command, run `npm ci` to download external libraries if you have not run it before
