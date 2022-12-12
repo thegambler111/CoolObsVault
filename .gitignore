@@ -2,3 +2,4 @@ conflict-files-obsidian-git.md
 .obsidian\workspace.json
 .obsidian/workspace.json
 .git
+.obsidian/plugins/recent-files-obsidian/data.json
