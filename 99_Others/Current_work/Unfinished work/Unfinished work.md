@@ -312,13 +312,13 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 	- Gateway Zigbee do Viettel tự phát triển khắc phục được các lỗi phát sinh của hệ thống cung cấp bởi đối tác, giúp triển khai thành công các ứng dụng Zigbee trong Tòa nhà Thái Bình
 	- Gateway tự phát triển bổ sung các tính năng cần thiết cho việc vận hành, khai thác, giúp tiết kiệm 70% thời gian, công sức so với giải pháp được đối tác cung cấp
 	- Mở ra hướng phát triển hoàn toàn mới cho ngành IoT: Phát triển hệ sinh thái các thiết bị Zigbee
-	- Tiết kiệm được tiền thuê ngoài để phát triển: 120 men month * 35.000.000 = 4.200.000.000
+	- Tiết kiệm được tiền thuê ngoài để phát triển: 30 men month * 35.000.000 = 1.050.000.000
 - Giải pháp điều khiển tự động giải quyết được các nhược điểm của giải pháp đối tác cung cấp và đem lại kinh nghiệm để ứng dụng vào việc xây dựng IoT platform của Viettel
 	- Khắc phục hoàn toàn các nhược điểm của giải pháp cung cấp bởi hãng. Người dùng có thể tùy ý cấu hình kịch bản với nhiều tác động từ nhóm gồm tùy ý các cảm biến điều khiển đến nhóm gồm tùy ý các thiết bị vận hành (công tắc, relay...), với các khung thời gian điều khiển trong ngày và các ngày tùy ý.
 	- Đã triển khai hơn 200 kịch bản điều khiển tự động cho tòa nhà Thái Bình. Tự động kiểm soát hệ thống chiếu sáng giúp tiết kiệm điện, giảm chi phí và công sức vận hành tòa nhà cũng như gia tăng trải nghiệm làm việc của CBNV VTNet.
 	- Học hỏi cấu trúc quản lý, thiết kế của ứng dụng Home Assisttant, làm tiền đề cho việc phát triển giải pháp điều khiển tự động toàn trình trên Platform của Viettel.
-	- Tiết kiệm được tiền thuê ngoài để phát triển: 60 men month * 35.000.000 = 2.100.000.000
-- Tổng cộng tiết kiệm 6.300.000.000
+	- Tiết kiệm được tiền thuê ngoài để phát triển: 20 men month * 35.000.000 = 700.000.000
+- Tổng cộng tiết kiệm 1.750.000.000
 
 ---
 
@@ -354,19 +354,7 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 	- Thiết kế điều khiển cho các loại thiết bị
 
 ---
-- f4003fcd (HEAD -> phase2, lab/phase2) :add: 30.1_30.4 FSS301_FSS304 Fan Speed Switch
-- d8aa1887 :add: 25.3 Motion Sensor
-- 4fa9a607 :add: 27.5 vibration sensor
-- c57442b7 :add: 35.2 light sensor tuya
-- 11715950 :add 37.4 SCM.4 Tuya Smart Motor
-- 55f1c204 :add 21.5 RJM.2 Repeater
-- 2e96d0cd :add: 42.1 wave smart switch
-- cab6cbba :add: 30.3 30.5 Fan Speed Switch
-- 43b780a8 :add: PIR Quang Thong 2
-- 92cdf913 :add: 34.3 water valve
-- 5baaef0a :add: 34.4 valve controller
-- 4d4ad638 :add: 27.4 vibration sensor
-- abeb3597 :add: 38.1 GRS.1 Smart Switch
+
 
 ---
 

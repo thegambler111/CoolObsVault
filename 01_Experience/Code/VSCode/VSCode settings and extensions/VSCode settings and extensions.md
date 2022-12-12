@@ -81,15 +81,58 @@
 - Prettier
 - ESLint
 - Prettier ESLint
-- Github Copilot
-- IntelliCode
+- TypeScript Hero
+- JavaScript and TypeScript Nightly
+
+# Extensions for Python
+- autoDocstring - Python Docstring Generator
+- Jupyter
+	- Jupyter Keymap
+	- Jupyter Notebook Renderers
+	- Jupyter Notebook Renderers
+	- Jupyter Cell Tags
+- Python
+- Python Environment Manager
+- Python Extension Pack
+- Python Indent
+- autoDocstring - Python Docstring Generator
+- isort
+
+# Extensions for Java
+- Extension Pack for Java
+	- Language Support for Java(TM) by Red Hat
+	- Debugger for Java
+	- Maven for Java
+	- Project Manager for Java
+	- IntelliCode
+	- Test Runner for Java
+- <https://code.visualstudio.com/docs/java/java-linting>
+	- SonarLint
+
+# Extensions in general
+
+## Theme
 - Material Theme
 - Material Icon Theme
 - Material Theme Icons
 - Identical Sublime Text Monokai theme
 - Monokai Night Theme
+
+## Auto complete
+- Github Copilot
+- IntelliCode
+- IntelliCode API Usage Examples
 - GitLens — Git supercharged
-- autoDocstring - Python Docstring Generator
+
+## Remote
+- Remote Development
+- Remote - SSH
+- Remote - SSH: Editing Configuration Files
+- WSL
+
+## Others
+- Dev Containers
+- vscode-pdf
 
 #
 ---
