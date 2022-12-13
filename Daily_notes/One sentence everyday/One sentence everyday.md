@@ -45,6 +45,13 @@
 	- You should always use "Wait, What?" to think about any ideas. "Wait" to stop for a moment and "What?" to question the presenting idea.
 - 11
 	- Don't walk, don't run, sprint
+- 12
+	- [Source](https://twitter.com/PsycheWizard/status/1602198608606269441)
+	- **People do not decide their futures, they decide their habits and their habits decide their futures**
+- 13
+	- If people are not laughing at your goals, your goals are too small
+	- Wake up, check your bank account.
+- 
 
 #
 ---
