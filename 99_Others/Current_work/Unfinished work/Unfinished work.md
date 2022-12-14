@@ -355,6 +355,32 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 
 ---
 
+# Nội dung thuyết trình
+- Kiến trúc IoT platform
+- Giới thiệu các tính năng của IoT platform theo các phân hệ
+	- CMP
+	- DMP
+	- Data
+	- AEP
+- Giới thiệu hệ sinh thái hiện tại của VTNet
+	- Hiện tại
+	- 2023
+- Yêu cầu phát triển IoT platform trên Cloud
+	- Các tính năng IoT platform cần thêm
+	- Hỗ trợ phát triển hệ sinh thái IoT tại Việt Nam
+- Road map hoàn thiện IoT Platform cho hệ thống Cloud
+
+# Mục tiêu
+- Chứng minh IoT platform của VTNet đủ khả năng đưa lên Cloud (minimum)
+- Chứng minh VTNet mong muốn đẩy mạnh phát triển cộng đồng
+- Chứng minh VTNet mong muốn phối hợp phát triển với các đối tác ngoài TĐ
+- Chứng minh Platform của VTNet hơn VHT (should)
+
+# Possible outcome
+- Dừng
+- Phát triển cùng VHT
+- Phát triển độc lập với VHT
+- VHT dừng (phát triển cho cả VHT)
 
 ---
 

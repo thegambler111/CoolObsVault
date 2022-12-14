@@ -28,6 +28,10 @@
 - 11
 	- Go back to hometown today to pay a visit to my grandpa, meet some relatives and play with my nieces. Resume my habit 👍
 - 12
+	- Start to go home early (8pm) and go to bed early (10pm) and sleep early (11pm). Let's keep it for 30 days straight
+- 13
+	- Have a cheap but fun party, was eating "pho cuon". It was very delicious.
+- 14
 	- a
 
 #
