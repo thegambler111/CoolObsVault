@@ -34,6 +34,8 @@
 - 14
 	- I have one-on-one teaching session to one of the junior today. He is really confused at first but slowly get the grip of it. Let's see how he teach those lessons to others in (hopefully) near time.
 - 15
+	- Morning health check goes pretty well. Afternoon meeting does not though. Next year plan got canceled. I need to find a new plan for the team now.
+- 16
 	- a
 
 #
