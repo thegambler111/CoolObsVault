@@ -32,6 +32,8 @@
 - 13
 	- Have a cheap but fun party, was eating "pho cuon". It was very delicious.
 - 14
+	- I have one-on-one teaching session to one of the junior today. He is really confused at first but slowly get the grip of it. Let's see how he teach those lessons to others in (hopefully) near time.
+- 15
 	- a
 
 #
