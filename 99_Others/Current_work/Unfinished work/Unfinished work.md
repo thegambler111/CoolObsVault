@@ -354,43 +354,11 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 	- Thiết kế điều khiển cho các loại thiết bị
 
 ---
-Phát triển hệ sinh thái thiết bị IoT
 
-- HIện trạng, lý do phát triển hệ sinh thái
-	- Đầu năm 2022, số lượng thiết bị IoT VTNet tích hợp và triển khai còn rất hạn chế
-	- VTNet chưa có sản phẩm mang đi kinh doanh cũng như chưa nắm được nhu cầu thị trường
-	- Số lượng đối tác của VTNet còn nhỏ, và hợp tác còn nhen nhúm
-	- Đội ngũ kỹ sư chưa có nhiều kiến thức cũng như kinh nghiệm thực tế
-	- => Cần phải bổ sung năng lực đội ngũ kỹ sư cũng như tìm kiếm cơ hội kinh doanh
-- Hành động
-	- Trong năm 2022, nhóm phát triển ứng dụng IoT của TT CLML&ĐMCN đề xuất mở rộng hệ sinh thái bằng cách tích hợp nhiều loại thiết bị sử dụng nhiều loại giao thức khác nhau lên nền tảng do VTNet quản lý
-	- Dựa trên loại kết nối, đội ngũ kỹ sư xác định chia thiết bị thành 2 nhóm:
-		- Nhóm thiết bị Cellular bao gồm các thiết bị sử dụng kết nối 2G, 3G, 4G, 5G, NB-IoT
-		- Nhóm thiết bị Short Range bao gồm các thiết bị sử dụng kết nối Wifi, Bluetooth, Zigbee
-	- Với các thiết bị Short Range, nhóm tập trung chủ yếu vào các thiết bị sử dụng kết nối Zigbee do các lợi ích của kết nối này mang lại như sự nhỏ gọn của bản tin, khả năng bảo mật tốt và tiết kiệm năng lượng.
-		- Mạng Zigbee có một đặc trưng là do vùng phủ nhỏ, dưới 20 mét nên tất cả các thiết bị trong mạng sẽ kết nối đến một thiết bị trung gian là Zigbee Gateway để liên hệ với hệ thống quản lý
-		- Theo tìm hiểu, các nhà phân phối thiết bị trên thị trường đều đã có hệ thống Gateway và quản lý riêng.
-		- => Để làm chủ công nghệ Zigbee cũng như quản lý toàn bộ thiết bị Zigbee trên hệ thống của Viettel, nhóm đã phát triển thiết bị Zigbee Gateway mới dựa trên mã nguồn mở
-		- Tuy nhiên, các loại thiết bị trên thị trường lại không hề theo một tiêu chuẩn cụ thể nên với mỗi loại thiết bị, nhóm phải tiến hành đánh giá và phát triển Gateway sao cho phù hợp
-		- Số lượng loại thiết bị lớn gây ra rất nhiều áp lực, khó khăn. Có loại thiết bị cung cấp hơn 20 chức năng khác nhau khiến cho việc tích hợp trở nên gian nan hơn nữa.
-		- Tuy vậy, các đồng chí trong nhóm Zigbee đã bổ ra rất nhiều công sức và tâm huyết, hoàn thành đầy đủ và xuất sắc nhiệm vụ được giao
-	- Với các thiết bị Cellular, nhóm đã chủ động đi tìm hiểu đối tác và sản phẩm hiện có trên thị trường.
-		- Sau đó, mỗi cá nhân sẽ chọn một số sản phẩm cụ thể để liên hệ đối tác, đặt mua thiết bị và tiến hành tích hợp
-		- Đối với các thiết bị thuộc loại Cellular, khó khăn lớn nhất đội ngũ kỹ sư gặp phải là khi tích hợp thiết bị.
-			- Mỗi thiết bị có một bắt tay, trao đổi thông tin riêng, không đồng bộ và không theo tiêu chuẩn quốc tế
-			- Vì vậy, với mỗi loại thiết bị, kỹ sư phụ trách phải làm việc trực tiếp rất nhiều với đối tác để bắt tay trực tiếp với hệ thống của VTNet và thu thập đầy đủ thông tin
-			- Nhiều đối tác không trao đổi được bằng tiếng anh, các kỹ sư phải trao đổi thông qua Google translate.
-- Kết quả
-	- Tuy khó khăn là vậy, đến hết năm 2022, nhóm phát triển ứng dụng IoT đã đưa lên hệ sinh thái các thiết bị IoT của VTNet tổng cộng 54 ứng dụng, tương đương với 236 loại thiết bị khác nhau.
-	- Cụ thể, nhóm Short range đóng góp 40 ứng dụng và 200 loại thiết bị và nhóm Cellular đóng góp 14 ứng dụng và 36 loại thiết bị.
-	- Các ứng dụng đã tích hợp trải dài trên nhiều lĩnh vực của đời sống nhưu Smart city, Smart home, Smart Agriculture, Smart Factory, ....
-	- Một số ứng dụng như hệ thống Smart Community đã tìm được khách hàng cụ thể, đã ký được hợp đồng và dự tính sẽ triển khai trong năm 2023.
-	- Ngoài ra, giải pháp của nhóm cũng đã nhận được giải thưởng Giải pháp thành phố thông minh Việt Nam 2022 do VINASA tổ chức
-	- Còn về mặt nội bộ, các kỹ sư cũng thu được nhiều kinh nghiệm, kiến thức đắt giá, trong đó có cả kiến thức về giao tiếp khách hàng và kiến thức kỹ thuật về thiết bị cũng như giao tiếp trong lĩnh vực IoT
-- Tương lai
-	- Sang năm 2023, trước mắt, đội ngũ kỹ sư IoT của TT CLML&ĐMCN sẽ tiếp tục mở rộng hệ sinh thái thiết bị, bổ sung thêm 16 ứng dụng và 44 loại thiết bị mới.
-	- Ngoài ra, nhóm cũng sẽ tìm hiểu thêm về thị trường để bổ sung các use case có nhu cầu lớn mà Viettel có lợi thế tiếp cận.
-	- Sau đó, nhóm sẽ đóng gói các ứng dụng thành giải pháp cụ thể để phục vụ kinh doanh, mang lại lợi nhuận cho Tập Đoàn
+
+---
+
+
 
 ---
 
