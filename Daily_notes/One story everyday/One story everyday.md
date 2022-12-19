@@ -36,7 +36,16 @@
 - 15
 	- Morning health check goes pretty well. Afternoon meeting does not though. Next year plan got canceled. I need to find a new plan for the team now.
 - 16
-	- a
+	- I felt disappointed about the cancelation of next year plan, so I decided to do light work today and play games
+- 17
+	- Still games, no habits, and be ready for tomorrow
+- 18
+	- Many stuffs happened
+		- Try cold plug and then warm shower -> Should separate these session
+		- Attended a wedding, spending time with colleague-friends
+		- World cup final, not my cup of tea and the neighbors are loud
+- 19
+	- Boring meeting -> This week and next week is gonna be busy without much value for me though :(
 
 #
 ---
