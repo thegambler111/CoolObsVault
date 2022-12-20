@@ -354,11 +354,19 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 	- Thiết kế điều khiển cho các loại thiết bị
 
 ---
+Summary:
+This article outlines the contributions of China Mobile to the 14th Five-Year Plan, focusing on the application of digital-intelligent transformation and the development of the digital economy.
 
+Key takeaways:
+1. China Mobile provided information service support for COVID-19 prevention and control, disaster relief, major events, and cybersecurity.
+2. The company drove the rapid development of the digital economy through the construction of information infrastructure and the digital-intelligent transformation of the entire society.
+3. China Mobile acted on the people-centered philosophy of development, providing services to underserved groups and advancing coordinated regional development.
+
+Counter arguments:
+1. The article does not address the potential risks of digital-intelligent transformation.
+2. The article does not discuss the potential environmental impacts of China Mobile's operations.
 
 ---
-
-
 
 ---
 
