@@ -57,6 +57,31 @@
 	- People cry, people laugh, people experience something most of us don't feel often enough.
 - You get the experience to make someone's day and have a few hours of hearing incredible stories.
 
+# The fear of losing 4.0 score
+- [Source](https://twitter.com/ChideraSays/status/1605188523447013376)
+- After I'm done working for the day I completely shut off.
+	- I won't respond to any annoying texts (usually from my mom)
+	- Commit to starting any new assignments
+	- Or do anything else that anybody wants me to do
+	- I totally give in to laziness
+- But I am a star student so my grades are very important to me
+	- However, everything that needs to be done during the day always gets done.
+	- So my grades (or anything else) are never something I have to worry about during my
+	- "leave me fucking alone time"
+- One particular day, however, I wasn't as careful and something slipped by me.
+- Drifting off to sleep I received a notification...
+- I checked my phone and saw a message that an online exam was due in 30 mins.
+- I literally jumped out of bed and got to work immediately.
+- The thing that sprung into my mind wasn't the life I couldn't have if I got a 0 on that exam
+- It was FEAR
+	- The fear of failure
+	- The fear of losing my 4.0
+	- The fear of my parents being disappointed
+- Fear made me forget how good my bed felt and jump into action despite that.
+- => **Fear is the ultimate motivator**
+	- It trumps everything else
+- **Fear is the double-edged sword of success**
+
 #
 ---
 - Status: #done

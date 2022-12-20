@@ -46,6 +46,8 @@
 		- World cup final, not my cup of tea and the neighbors are loud
 - 19
 	- Boring meeting -> This week and next week is gonna be busy without much value for me though :(
+- 20
+	- I hurt my left arm in pull ups. It get better after sleep. Might have to stop pull ups for a few days :(
 
 #
 ---
