@@ -48,15 +48,29 @@
 - Music streaming app
 
 ### Super SIM Card
+- Build a SIM card business ecosystem
 - [The super SIM card is no longer a simple phone card. It can not only be used as an access card, but also a meal card, bus card, and subway card, Access card, etc](https://inf.news/en/tech/630ae8c623a90ccdcb1ea089ec8eb799.html)
 - Doubt in security of the tech
 	- What if you lose your phone
+- 5G super SIM card, which combines traditional memory cards with SIM cards
 - Pros:
 	- Replace OTP message verification
 		- Super SIM card uses an encrypted data channel, so its content cannot be cracked
 	- Super SIM card can be used as USB shield
 		- To ensure security when making network transfers
 	- Super SIM card as a car key, meal card, access card, bus card, etc.
+		- [The storage space is managed and controlled by a financial-grade security chip](https://min.news/en/tech/776bf418f8e63703c2fcfa634a0834a9.html)
+	- Use as local system backup storage
+- Cons
+	- [The biggest obstacle is the adapter slot problem of 5G super SIM cards](https://min.news/en/tech/776bf418f8e63703c2fcfa634a0834a9.html)
+		- Hard to achieve the size of an ordinary Nano card
+	- Users are not very enthusiastic about changing cards
+		- Price issues
+- [Not long ago, at the China Mobile 2022 Science and Technology Week and the Mobile Information Industry Chain Innovation Conference Number Card Sub-forum, the "China Mobile New Generation Super SIM Chip Technology White Paper" was officially released.](https://www.china-briefing.com/news/virtual-reality-in-china-new-action-plan-for-developing-industry/)
+	- http://www.gov.cn/zhengce/2022-11/01/content_5723274.htm
+
+### AR/VR
+
 # Metaverse
 - SKTelecom Ifland goes global
 	- People compare it as a worse version of [Zepeto](https://web.zepeto.me/en)

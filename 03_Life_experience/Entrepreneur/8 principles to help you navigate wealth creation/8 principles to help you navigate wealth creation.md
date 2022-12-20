@@ -1,5 +1,5 @@
 # 8 principles to help you navigate wealth creation
-![[03_Life_experience/Career building/8 principles to help you navigate wealth creation/8 principles to help you navigate wealth creation.png]]
+![[03_Life_experience/Entrepreneur/8 principles to help you navigate wealth creation/8 principles to help you navigate wealth creation.png]]
 1. Extra time and money need to be reinvested
 2. You can skip ahead, but you still have to learn the skills from each step
 3. Apply your existing skills in a new way to build wealth

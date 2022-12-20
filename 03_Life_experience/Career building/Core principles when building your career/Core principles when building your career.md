@@ -1,4 +1,4 @@
-# 
+# Core principles when building your career
 - Build a Personal Board of Advisors
 - Swallow the Frog for Your Boss (do the job your boss hates to do)
 - Create a Decentralized Growth Tribe

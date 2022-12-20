@@ -36,7 +36,7 @@
 	- Interesting & useful content
 	- A quality product or service
 	- Authentic marketing & promotions
-![[03_Life_experience/Career building/_How to build a successful one-person business/one person business.png]]
+![[03_Life_experience/Entrepreneur/_How to build a successful one-person business/one person business.png]]
 
 # Brand
 - A brand is meant to attract followers.
@@ -94,7 +94,7 @@
 			- Online business
 	- Then, break those down into pieces that you can research and use as inspiration.
 - **Your domain of mastery is what you are learning to achieve your goals (as a brand).**
-![[03_Life_experience/Career building/_How to build a successful one-person business/Content break down.png]]
+![[03_Life_experience/Entrepreneur/_How to build a successful one-person business/Content break down.png]]
 
 ## From consumer to researcher
 - Your job is to switch from full-time consumer to full-time researcher.
@@ -106,8 +106,8 @@
 	- Don't overcomplicate this.
 	- Just be honest with exactly what you are doing to achieve your goals.
 - [@SahilBloom](https://twitter.com/SahilBloom) & [@thejustinwelsh](https://twitter.com/thejustinwelsh) are great examples of this.
-![[03_Life_experience/Career building/_How to build a successful one-person business/Bloom.jpg]]
-![[03_Life_experience/Career building/_How to build a successful one-person business/Welsh.jpg]]
+![[03_Life_experience/Entrepreneur/_How to build a successful one-person business/Bloom.jpg]]
+![[03_Life_experience/Entrepreneur/_How to build a successful one-person business/Welsh.jpg]]
 
 # Product
 

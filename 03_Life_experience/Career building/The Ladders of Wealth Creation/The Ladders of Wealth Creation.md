@@ -72,7 +72,7 @@
 	- Fraud prevention
 
 # Read more
-- [[03_Life_experience/Career building/8 principles to help you navigate wealth creation/8 principles to help you navigate wealth creation|8 principles to help you navigate wealth creation]]
+- [[03_Life_experience/Entrepreneur/8 principles to help you navigate wealth creation/8 principles to help you navigate wealth creation|8 principles to help you navigate wealth creation]]
 
 
 # 
