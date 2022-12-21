@@ -254,9 +254,11 @@
 > Make computing as an essential service like water and electricity
 
 - Third, our smart mid-end platform took shape, building on a strong foundation.
-	- We strove to build and fully implement our industry-leading smart mid-end platform by leveraging the abundant resources and outstanding capabilities in data, AI, blockchain and other fields that we have accumulated over time.
-	- By centralizing our capabilities, we were able to launch the unified gateway and branding of the China Mobile Mid-End Platform, combining the salient features of telecommunications operators and our own.
-	- This platform has an AaaS (Ability as a Service) system that combines business, data, and technology.
+	- Leverage the abundant resources and outstanding capabilities in data, AI, blockchain and other fields
+	- Launch China Mobile Mid-End Platform, an AaaS (Ability as a Service) system that combines business, data, and technology.
+
+> [!Question]
+> What exactly is China Mobile's **Mid-end platform**
 
 #
 ---
