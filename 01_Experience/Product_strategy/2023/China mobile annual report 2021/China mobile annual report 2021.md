@@ -187,6 +187,35 @@
 	- Supporting social initiatives in energy saving and environmental protection
 
 ## Sustainability Management
+- Three-level CSR management system:
+	- Decision-making
+	- Organization
+	- Implementation.
+- Four-module, closed-loop workflow:
+	- Strategy management
+		- CSR philosophy
+		- CSR strategy and planning
+		- CSR management system and policies
+	- Implementation management
+		- CSR team building
+		- Research and training on CSR topics
+		- Identification and management of material CSR issues
+		- Integrating CSR into professional management
+	- Performance management
+		- Integrating CSR into strategic performance management
+		- Awarding outstanding CSR practices
+	- Communication management
+		- Preparation, release, and dissemination of sustainability reports
+		- Daily and task-oriented stakeholder communication
+
+# Fruitful Results
+
+## Value-oriented Operating Practices and Integrated Development Achieved Significant Progress
+- “Customer” market
+	- we furthered the integrated operation of data access, applications, and customer benefits, while competing in the market in a rational and regulated way to drive an industry-wide value uplift.
+- In the “Home” market, with a focus on setting up a service suite that combines full-gigabit network connections with cloud-based applications, we strove to extend our smart home application services to the wider community, and to rural areas by supporting digital village development.
+- In the “Business” market, drawing on our innovative computing and network integration and our well-established nationwide localized services, we focused on key industries to foster the scale and integrated development of network, cloud, and DICT.
+- In the “New” market, upholding the spirit of innovation, entrepreneurship and originality, we strove for new breakthroughs in the “New” market by fostering synergetic growth across four key areas: international business, equity investment, digital content, and FinTech. Our efforts have yielded notable results. In terms of customer service, we continued to optimize the service system that covers every aspect of services and processes and engages every member of staff, and speed up digital-intelligent service innovation. These efforts have resulted in continued improvements in service quality and rising customer recognition.
 
 #
 ---
