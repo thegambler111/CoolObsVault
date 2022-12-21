@@ -26,7 +26,10 @@
 	- In terms of life, with the support of the government and partners, various digital assets such as electronic invoices, bill details, and medical reports can be transferred to He Caiyun with one click, which is convenient for users to manage
 		- -> **One app for all tasks**
 	- In terms of learning, during the college entrance examination season, He Caiyun gives full play to its advantages in storage and distribution platforms to provide candidates with pre-test counseling and post-test registration voluntary services
-	- cooperated with nearly 100 smart terminal manufacturers such as home security, children's watches, and smart medical care to help users realize real-time transfer and on-demand use of important information.
+	- Cooperated with nearly 100 smart terminal manufacturers such as home security, children's watches, and smart medical care to help users realize real-time transfer and on-demand use of important information.
+
+> [!Note]
+> - Personal app for all daily tasks such as electronic invoices, bill details, and medical reports
 
 #### Cloud disk to circle social upgrade
 - Cloud disk is upgraded to social circle, helping cloud services to integrate into life and serving thousands of families
@@ -67,6 +70,10 @@
 	- Users are not very enthusiastic about changing cards
 		- Price issues
 - Not long ago, at the China Mobile 2022 Science and Technology Week and the Mobile Information Industry Chain Innovation Conference Number Card Sub-forum, the "China Mobile New Generation Super SIM Chip Technology White Paper" was officially released.
+
+> [!Note]
+> - Combine SIM and storage card
+> - Currently not a mature technology but have potential as an alternative way of storage instead of cloud
 
 ### AR/VR
 - [The Virtual Reality and Industry Application Integration Development Action Plan (2022-2026) (the “Action Plan”), released on November 2, 2022 by the Ministry of Industry and Information Technology](https://www.china-briefing.com/news/virtual-reality-in-china-new-action-plan-for-developing-industry/)
@@ -210,12 +217,46 @@
 
 # Fruitful Results
 
-## Value-oriented Operating Practices and Integrated Development Achieved Significant Progress
+## Value-oriented Operating Practices and Integrated Development
 - “Customer” market
-	- we furthered the integrated operation of data access, applications, and customer benefits, while competing in the market in a rational and regulated way to drive an industry-wide value uplift.
-- In the “Home” market, with a focus on setting up a service suite that combines full-gigabit network connections with cloud-based applications, we strove to extend our smart home application services to the wider community, and to rural areas by supporting digital village development.
-- In the “Business” market, drawing on our innovative computing and network integration and our well-established nationwide localized services, we focused on key industries to foster the scale and integrated development of network, cloud, and DICT.
-- In the “New” market, upholding the spirit of innovation, entrepreneurship and originality, we strove for new breakthroughs in the “New” market by fostering synergetic growth across four key areas: international business, equity investment, digital content, and FinTech. Our efforts have yielded notable results. In terms of customer service, we continued to optimize the service system that covers every aspect of services and processes and engages every member of staff, and speed up digital-intelligent service innovation. These efforts have resulted in continued improvements in service quality and rising customer recognition.
+	- Furthered the integrated operation of data access, applications, and customer benefits
+	- -> Drive an industry-wide value uplift
+- “Home” market
+	- Set up a service suite that combines full-gigabit network connections with cloud-based applications
+	- Extend smart home application services to the wider community, and to rural areas
+- “Business” market
+	- Based on our innovative computing and network integration and our well-established nationwide localized services
+	- Focused on key industries to foster the scale
+	- Integrated development of network, cloud, and DICT.
+- “New” market
+	- Fostering synergetic growth across four key areas:
+		- International business
+		- Equity investment
+		- Digital content
+		- FinTech.
+- In terms of customer service
+	- Optimize the service system
+	- Engages every member of staff
+	- Speed up digital-intelligent service innovation.
+	- -> Resulted in continued improvements in service quality and rising customer recognition.
+
+## Optimization of Infrastructure Layout
+- industry-leading 5G network
+	- combined advantages of the 2.6GHz/4.9GHz capacity and 700MHz coverage
+- CFN took off the ground
+	- CFN represents a new information infrastructure with
+		- computing as core
+		- network serving as foundation.
+	- CFN deeply integrates ABCDNETS (AI, blockchain, cloud, data, network, edge, terminal and security)
+	- We will promote computing as an essential service serving the whole society in the same plug-and-play way as access to water and electricity.
+
+> [!note]
+> Make computing as an essential service like water and electricity
+
+- Third, our smart mid-end platform took shape, building on a strong foundation.
+	- We strove to build and fully implement our industry-leading smart mid-end platform by leveraging the abundant resources and outstanding capabilities in data, AI, blockchain and other fields that we have accumulated over time.
+	- By centralizing our capabilities, we were able to launch the unified gateway and branding of the China Mobile Mid-End Platform, combining the salient features of telecommunications operators and our own.
+	- This platform has an AaaS (Ability as a Service) system that combines business, data, and technology.
 
 #
 ---

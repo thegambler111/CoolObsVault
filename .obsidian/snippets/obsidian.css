@@ -87,7 +87,7 @@ svg.right-triangle {
 
 
 /* List marker */
-li::marker {
+/* li::marker {
     color: #fff600;
     font-size: 25px;
 }
@@ -100,7 +100,7 @@ span.cm-formatting.cm-formatting-list.cm-formatting-list-ul {
 span.cm-formatting.cm-formatting-quote {
     color: #fff600;
     font-weight: bold;
-}
+} */
 
 /* List marker live preview */
 
