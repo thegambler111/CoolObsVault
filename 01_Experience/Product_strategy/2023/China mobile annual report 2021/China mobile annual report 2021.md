@@ -66,15 +66,127 @@
 		- Hard to achieve the size of an ordinary Nano card
 	- Users are not very enthusiastic about changing cards
 		- Price issues
-- [Not long ago, at the China Mobile 2022 Science and Technology Week and the Mobile Information Industry Chain Innovation Conference Number Card Sub-forum, the "China Mobile New Generation Super SIM Chip Technology White Paper" was officially released.](https://www.china-briefing.com/news/virtual-reality-in-china-new-action-plan-for-developing-industry/)
-	- http://www.gov.cn/zhengce/2022-11/01/content_5723274.htm
+- Not long ago, at the China Mobile 2022 Science and Technology Week and the Mobile Information Industry Chain Innovation Conference Number Card Sub-forum, the "China Mobile New Generation Super SIM Chip Technology White Paper" was officially released.
 
 ### AR/VR
+- [The Virtual Reality and Industry Application Integration Development Action Plan (2022-2026) (the “Action Plan”), released on November 2, 2022 by the Ministry of Industry and Information Technology](https://www.china-briefing.com/news/virtual-reality-in-china-new-action-plan-for-developing-industry/)
+	- <http://www.gov.cn/zhengce/2022-11/01/content_5723274.htm>
+- China Mobile is also building its own Metaverse
 
-# Metaverse
+#### Other Metaverse
 - SKTelecom Ifland goes global
 	- People compare it as a worse version of [Zepeto](https://web.zepeto.me/en)
-- Community content
+- Using community content (like custom map) as driven force
+
+# China Mobile “Powerhouse” Development Strategy
+![[01_Experience/Product_strategy/2023/China mobile annual report 2021/Powerhouse development strategy.png]]
+- Aim
+	- Our “new positioning” is to become a world-class information services and sci-tech innovation enterprise.
+	- Our objective is to build a world-class enterprise and become a major force in building cyberpower, digital China and smart society
+	- Take greater strides towards becoming a globally-competitive world-class enterprise.
+- Actions:
+	- Speeding up the “Three changes”
+	- Following the “Three new directions”
+	- Reinforcing the “Three approaches”
+	- Strengthening the “Three forces”
+- Purposes of actions:
+	- Creating a new information service system
+		- Underpinned by
+			- 5G
+			- Computing force network (CFN)
+			- Smart mid-end platforms
+		- That offers
+			- Connectivity
+			- Computing force
+			- Ability
+- Target market
+	- Advance the comprehensive and integrated development of our CHBN markets (customer, home, business and new markets)
+
+## Extended Reading
+- “Three Changes”: Extending our business
+	- Telecommunications services -> information services,
+	- Primarily “Customer” (C) market -> all four CHBN markets (Customer, Home, Business, New market)
+	- Resources-driven -> innovation-driven
+
+> [!question]
+> - [ ] Check Viettel current plan
+
+- “Three New Directions”:
+	- Promoting new infrastructure
+	- Integrating new elements
+	- Instigating new momentum
+
+> [!question]
+> - [ ] What are new infrastructure (after network, cloud)
+> - [ ] Should we continue to focus on Infrastructure ?
+
+- “Three Approaches”:
+	- Convergence (of CHBN markets and of telecommunications and information services)
+	- Integration (of key resources such as network, IT, data and channels)
+	- Digitalization (of network building and product R&D by leveraging AI and other technologies and data advantages)
+
+> [!question]
+> - [ ] How to take advantage of AI ?
+
+- “Three Forces”:
+	- Capabilities (in development, innovation and teamwork)
+	- Collaboration (in organization, culture and ecology)
+	- Vitality (top-down organizational vitality and bottom-up individual vitality)
+
+> [!question]
+> - [ ] Current strategy about individual force?
+
+- “Connectivity, Computing Force and Ability”:
+	- Provide high-speed, mobile, secure and universal “Connectivity services”
+	- Develop plug-and-play “Computing force services”
+	- Offer modular and ready-to-deploy “Ability services”
+	- Based on constant development of 5G, CFN and smart mid-end platform that are integrated into a new value-growth model
+
+# Sustainability Strategy and Management
+
+## Sustainability Strategy
+- China Mobile Sustainability Model
+	- Digital-Intelligent Innovation
+		- Leading in integrated and innovative development
+		- Empowering a digital-intelligent future
+	- Green and Low-Carbon Operations
+		- Practicing green and low-carbon operations
+		- Supporting social initiatives in energy saving and environmental protection
+	- Inclusive Growth
+		- Cultivating well-rounded talents
+		- Promoting common prosperity
+- Our sustainability model comprises
+	- CSR Philosophy
+	- Main Actions
+	- CSR Issues
+
+### CSR Philosophy
+- Fullest Sincerity and Win-Win Development
+	- Fulfil the triple-sided responsibilities
+		- Economic
+		- Social
+		- Environmental responsibility
+	- Self-actualization
+		- Pursuing sustainable growth of ourselves
+	- Win-win development
+		- We leverage our strengths to contribute to the sustainable development of our economy, society and environment
+
+### Main Actions
+- The main actions are align with the three dimensions of CSR philosophy
+	- Digital-Intelligent Innovation - Economy
+	- Inclusive Growth - Society
+	- Green and Low-Carbon Operations - Environment
+
+### CSR Issues
+- We have restructured our six CSR Issues surrounding our CSR Philosophy of “Win-Win Development”
+	- Leading in integrated and innovative development
+	- Empowering a digital-intelligent future
+	- Cultivating well-rounded talents
+	- Promoting common prosperity
+	- Practicing green and low-carbon operations
+	- Supporting social initiatives in energy saving and environmental protection
+
+## Sustainability Management
 
 #
 ---
