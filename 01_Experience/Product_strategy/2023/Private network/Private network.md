@@ -20,8 +20,14 @@
 
 ### Forbes
 - private 5G networks are networks that don't share traffic with other cellular networks in the vicinity
+- challenges:
+	- the devices must be operational on the wireless spectrum used by the private network
+	- deep integration of the 5G equipment, devices and its applications is needed
+	- be wary of vendor lock-in
+	- regulatory requirements and spectrum availability issues
 
----
+## [vodafone](https://www.vodafone.com/business/news-and-insights/glossary/what-is-mobile-private-network)
+- Mobile Private Network (MPN) is a dedicated business network that allows businesses to interconnect people and things
 
 ## Private vs public
 
@@ -87,8 +93,40 @@
 	- connecting mines above and underground
 	- monitoring asset locations
 
+## Forbe
+- smart manufacturing and smart factories
+	- collaborative mobile robots
+	- self-driving machines
+	- swarm intelligence
+		- swarm intelligence is the collective behavior of decentralized, self-organized systems that can maneuver rapidly, collaborate and function as a homogeneous group
+		- A robot swarm is potentially consist of millions of independent, self-sustaining robots
+	- automatic guided vehicles (AGVs)
+	- augmented reality (AR) predictive maintenance
+	- AR/VR headsets
+	- digital twins
+	- build a factory without wires or cables
+
+## Vodafone
+ - The mission-critical nature of systems and applications at airports, factories, warehouses or ports demands such secure and reliable connectivity that is better served by 4G/5G than Wi-Fi
+ - Its use cases include sensor data monitoring, location and tracking, robotics, self-driving or autonomous guided vehicles (AGVs), augmented reality, connected workers and more
+	 - Connected worker:
+		 - monitoring industrial workers, collecting data and effectively communicating to their staff
+	- Sensor data monitoring:
+		- gathering operational data from the monitoring of various sensors and infrastructure within premises
+	- Location and tracking:
+		- ensuring safety, operational efficiency and workforce management through locating and tracking people, stock, tools and other business-critical assets
+	- Workforce management:
+		- maximizing the performance of the workforce through a set of activities, such as planning, scheduling, work allocation and tracking
+	- Real-time control:
+		- ensuring that information received and commands sent to devices such as AGVs, drones or robots are sent in as near real-time
+	- Video surveillance and analytics:
+		- collecting and analyzing footage and images in order to identify objects such as drones and vehicles or to detect accidents
+
 # Market of 5G private network
 1. Các số liệu về thị trường: số nhà mạng áp dụng, thị phần toàn cầu,... trong các link em gửi anh thấy chắc đủ, vì phần này cũng phổ biến
+
+## Forbe
+- Industry leaders including [Bosch](https://enterpriseiotinsights.com/20201130/channels/news/bosch-confirms-private-5g-rollouts-with-nokia "https://enterpriseiotinsights.com/20201130/channels/news/bosch-confirms-private-5g-rollouts-with-nokia"), [Ford](https://media.ford.com/content/fordmedia/feu/gb/en/news/2020/06/25/ford-unlocks-potential-of-5g-to-future-proof-electric-vehicle-pr.html "https://media.ford.com/content/fordmedia/feu/gb/en/news/2020/06/25/ford-unlocks-potential-of-5g-to-future-proof-electric-vehicle-pr.html"), [Fujitsu](https://www.fujitsu.com/global/about/resources/news/press-releases/2021/0330-01.html "https://www.fujitsu.com/global/about/resources/news/press-releases/2021/0330-01.html") and [General Motors](https://media.gm.com/media/us/en/gm/home.detail.html/content/Pages/news/us/en/2020/nov/1120-factory0-evsite.html "https://media.gm.com/media/us/en/gm/home.detail.html/content/Pages/news/us/en/2020/nov/1120-factory0-evsite.html") (to name a few) are banking heavily on private 5G to future-proof their plants to remain competitive. Their successes will catapult entire industries into the next digital era.
 
 ---
 
