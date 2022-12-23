@@ -48,6 +48,10 @@
 	- Boring meeting -> This week and next week is gonna be busy without much value for me though :(
 - 20
 	- I hurt my left arm in pull ups. It get better after sleep. Might have to stop pull ups for a few days :(
+- 22
+	- A break day but not so much of a break. Have a surprised task and a surprised canceled meeting.
+- 23
+	- Grandpa passed. 96. Sad :(
 
 #
 ---

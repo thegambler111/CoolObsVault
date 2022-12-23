@@ -51,7 +51,11 @@
 - 13
 	- If people are not laughing at your goals, your goals are too small
 	- Wake up, check your bank account.
-- 
+- 23
+	- The obstacle isn’t something standing in our way. It’s the way itself.
+	- If you don’t believe in yourself, nobody will.
+	- Stop comparing yourself to people. Live to prove things to yourself, not others.
+	- Good writer = good thinker and good thinker are rare
 
 #
 ---
