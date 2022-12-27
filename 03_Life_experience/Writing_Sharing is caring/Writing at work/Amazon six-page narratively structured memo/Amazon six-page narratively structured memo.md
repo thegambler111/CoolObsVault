@@ -76,6 +76,89 @@
 	- No attachment
 	- Everyone, even people not familiar with the subject, must understand what is going on without additional research
 
+## General setting
+- It took me five days to write, and I did four revisions for my [2020 OP-2 plan for Pixel Vision 8](https://translate.google.com/website?sl=auto&tl=en&hl=en&client=webapp&u=https://docs.google.com/document/d/1LPh1LWx1z67YFo67DENYUGBaoKk39dtX7rWAeQHXzhg/edit?usp%3Dsharing) ([[03_Life_experience/Writing_Sharing is caring/Writing at work/Amazon six-page narratively structured memo/Jesse Freeman – Pixel Vision 8 OP2 Plan 2020|markdown backup]]).
+- There is a strict rule around it being exactly six pages.
+	- The above plan is written using 10 point font
+	- The goal is to fill up all six pages without any filler
+- The appendix can be of any length
+- The main goal of authoring this kind of document is to craft the entire thing as a narrative
+	- In the document’s core 6-pages, there is
+		- No bullet-point lists
+		- No graphics
+		- No fluff
+	- These contextual information should be put in appendix to allow reader to choose
+
+## The skeleton
+![[#The 6 components]]
+
+## How to write the 6-pager
+
+### The introduction
+- I usually try to consolidate my introduction to two paragraphs
+	- And added the 3rd paragraph to pack in some extra detail if needed
+- You will want to add as much contextual data as possible
+	- Because there is a lot of data to process upfront, especially if you’re not familiar with the subject.
+- There are no links to any websites
+	- Put all information into the appendix in case you need an offline copy
+
+### The goals
+- Bullet points are allowed in this part
+- Predefined structure:
+	- Start with the actual goal, bolded, in as few words as possible
+	- Follow with a single sentence that adds context to the goal
+	- A historical data point
+	- A projected data point
+	- An explicit calculation of the change between the two data points
+- You want to have at least three goals
+- [OKRs](https://translate.google.com/website?sl=auto&tl=en&hl=en&client=webapp&u=https://en.wikipedia.org/wiki/OKR) are another popular one
+
+### The tenets
+- Bullet points are also allowed in this part
+- Excellent tenets can be linked back to the leadership principles somehow
+- I think these tenets add nothing to the document
+
+### The state of the business
+- This section is about distilling all of the current activities and their intended goals
+- There should be a lot of appendix references here
+- Keep the information as up to date as possible
+	- -> Use present tense
+- Keep the data as detailed as possible
+	- It should include a full snapshot of weekly report on the business’s health in appendix
+- I complete the section with a little summary of everything that has been done and try to tie it into the goals
+
+### Lessons learned
+- After summing up the state of the business, it’s time to reflect on what happened in the past
+- This is a snapshot from the last period until now
+	- It has to be even more factual with
+		- Numbers
+		- Percentages of goal completion
+		- Even additional references in the appendix.
+- This section is similar to the state of the business but the tense here is always in the past
+- There shouldn’t be any forward projections or expectations
+- There is zero room for interpretation. The data will tell the real story
+- You are encouraged to **share your failures** along with your successes
+### Strategic priorities
+- This is the most detailed section
+	- This is usually 50–70% of the 6-pager
+- This section outlines each activity you plan on doing and how it relates to one of the goals
+- You will spend the majority of the meeting defending this section
+	- The strategic priorities section is all speculation
+	- All other parts (except) telnets are facts
+		- -> The only questions you will get are whether the data adds up or the goals are challenging enough
+- To prove your proposal, you need to pull numbers from the lessons learned and state of the business
+- How to structure these priorities:
+	- Prediction:
+		- how you will contribute back to a given goal
+	- The actual plan
+		- Summarize the approach in this section 
+		- Put tactical execution steps in the appendix
+
+
+
+
+
+
 # How Amazon conducts meetings
 - Each attendee gets a print out of the document
 	- You’re not allowed to read the document from your computer
