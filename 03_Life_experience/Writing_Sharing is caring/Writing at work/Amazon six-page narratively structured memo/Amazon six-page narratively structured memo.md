@@ -1,3 +1,7 @@
+# TLDR
+- The 6-pager is a very detailed and always data-proven plan
+- Read short version to understand the 6-pager and long version to know how to create one
+
 # The 6-page memos short version
 - Operational plan has 6 components:
 	- Intro
@@ -6,7 +10,7 @@
 	- Current state
 	- Lessons learned
 	- Strategy
-- The structure is remarkably similar to that of a story.
+- The structure is like that of a story.
 	- Intro = Hook
 	- Goals and Tenets = Stakes
 	- State = Setting and Backstory
@@ -16,7 +20,7 @@
 
 ### Introduction
 - Set up precisely what the material is going to **cover**
-- Inherently state the general **direction** of where the document plans on going.
+- State the general **direction** of where the document plans on going.
 
 ### Goals
 - What the **metrics for success**
@@ -33,7 +37,8 @@
 
 ### Lessons learned
 - Outline the current state of the business and its **influence** on creating the goals
-- It should be **detailed** enough so the reader can understand the **positive and negative** activities in the prior period.
+- It should be **detailed** enough
+	- So the reader can understand the **positive and negative** activities in the prior period.
 
 ### Strategic priorities
 - This is the meat of the document
@@ -41,7 +46,7 @@
 - **Match** up to achieving the **goals** stated at the top of the document.
 
 ## Why?
-- Bezos made Amazon into a writing culture by banning powerpoint and forcing everyone to write 6-page memos (called “narratives”) for meetings.
+- Bezos made Amazon into a writing culture by banning powerpoint. He forcing everyone to write 6-page memos (called “narratives”) for meetings.
 	- The narrative structure forces
 		- Better thought
 		- Better understanding.
@@ -138,6 +143,7 @@
 - There shouldn’t be any forward projections or expectations
 - There is zero room for interpretation. The data will tell the real story
 - You are encouraged to **share your failures** along with your successes
+
 ### Strategic priorities
 - This is the most detailed section
 	- This is usually 50–70% of the 6-pager
@@ -151,13 +157,19 @@
 	- Prediction:
 		- how you will contribute back to a given goal
 	- The actual plan
-		- Summarize the approach in this section 
+		- Summarize the approach in this section
 		- Put tactical execution steps in the appendix
 
+### Ending
+- The contents of 6-pager cover exactly to the bottom of page 6
+- There is no summary section or closing remarks
+- The last sentence ends on a positive, forward-facing note
 
-
-
-
+### The appendix
+- The appendix allow reader to choose how deep they want to read
+	- The 6-pager narrative gives you a high-level overview
+	- The appendix gives you details
+- Each person will dig into their areas of expertise and skim over other parts
 
 # How Amazon conducts meetings
 - Each attendee gets a print out of the document
@@ -176,7 +188,8 @@
 - Status: #done
 - Tags: #sharing_is_caring #writing_at_work
 - References:
-	- [Source of short verion](https://twitter.com/nathanbaugh27/status/1605215781268111360)
-	- [Source long version](https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9)
+	- [Source of short version](https://twitter.com/nathanbaugh27/status/1605215781268111360)
+	- [Source of long version](https://writingcooperative.com/the-anatomy-of-an-amazon-6-pager-fc79f31a41c9)
+	- [Example: 2020 OP-2 plan for Pixel Vision 8](https://translate.google.com/website?sl=auto&tl=en&hl=en&client=webapp&u=https://docs.google.com/document/d/1LPh1LWx1z67YFo67DENYUGBaoKk39dtX7rWAeQHXzhg/edit?usp%3Dsharing)
 - Related:
 	- [[03_Life_experience/Writing_Sharing is caring/Writing at work/Write like an amazonian/Write like an amazonian]]
