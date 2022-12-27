@@ -216,6 +216,7 @@
     }
   },
   "lintOnSave": true,
+  "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "foldersToIgnore": [],
   "linterLocale": "system-default",

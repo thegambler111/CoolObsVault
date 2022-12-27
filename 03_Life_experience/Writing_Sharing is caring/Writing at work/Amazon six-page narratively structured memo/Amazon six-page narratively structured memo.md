@@ -74,7 +74,7 @@
 - These operational plans are usually created by a team, not an individual
 - Each 6-pager needs to **stand on its own**
 	- No attachment
-	- Everyone, even people not familiar with the subject, understand what is going on without additional research
+	- Everyone, even people not familiar with the subject, must understand what is going on without additional research
 
 # How Amazon conducts meetings
 - Each attendee gets a print out of the document

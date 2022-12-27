@@ -322,31 +322,7 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 	- <https://www.gartner.com/en/articles/gartner-top-10-strategic-predictions-for-2023-and-beyond>
 
 ---
-* 93d48a16 (HEAD -> phase2_back, lab/phase2) :add: 32.4 CEL324 Aqara ceiling light L1-350
-* 4a1037d0 :add: 32.5 CEL325
-* 002e575f :add: 27.2 vibration sensor
-* b9c31890 :add: 25.2 Motion Sensor
-* f691dd88 :add: 38.2 Garage smart switch
-* acb83e49 :add: snn314 aqara smart switch
-* ff8a1fa6 :add 20.1 BTX.2, 22.5 DEZ.2 Zigbee 3.0 LED-bulb, RGBW LED
-* 6a9d6643 :mod: vtFromZigbee.vt_tuya_curtain_motor: vt.dataPoints.tcmCurrentCurtainPosition, vt.dataPoints.tcmFavoritePosition, meta.logger.debug()
-* e2d03abd :add: snn313 tuya smart switch
-* 5ba5a6c8 :add: me167 thermostat radiator
-* 0b275bf3 (HEAD -> phase2, lab/phase2, phase2_back) :add: 25.1 MTN Motion Sensor MMWAVE
-* 2544d0c9 :add: 30.1_30.4 FSS301_FSS304 Fan Speed Switch
-* 52969b9c :add: 25.3 Motion Sensor
-* e71a13bc :add: 27.5 vibration sensor
-* 417df860 :add: 35.2 light sensor tuya
-* 9a1cf5c1 :add 37.4 SCM.4 Tuya Smart Motor
-* bb932547 :add 21.5 RJM.2 Repeater
-* 8f0247ab :add: 42.1 wave smart switch
-* 42e96cc9 :add: 30.3 30.5 Fan Speed Switch
-* d6bdd9be :add: PIR Quang Thong 2
-* 3cd8f391 :add: 34.3 water valve
-* 56e9ab53 :add: 34.4 valve controller
-* 8a1bb095 :add: 27.4 vibration sensor
-* 30559a54 :add: 38.1 GRS.1 Smart Switch
-* ce597d96 :add: all 20 devices types of the first phase Q3/2022
+
 
 ---
 #
