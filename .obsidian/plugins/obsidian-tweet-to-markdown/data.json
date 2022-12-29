@@ -18,7 +18,7 @@
   "defaultToThread": true,
   "condensedThread": true,
   "textOnly": false,
-  "includeImages": true,
+  "includeImages": false,
   "imageSize": "",
   "includeLinks": true,
   "includeDate": true,
