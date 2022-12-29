@@ -288,38 +288,8 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 
 ---
 
----
-- From telecommunication services to IT services
-	- <https://www.google.com/search?q=telecommunications+service+provider+information+service+site:https://www.gartner.com/en/documents&lr=&safe=images&hl=en&as_qdr=all&tbs=cdr:1,cd_min:12/22/2022,cd_max:12/22/2019&sxsrf=ALiCzsYxkx1Gg5F_1Qqw8Yd4aeryxx4SiA:1671683761928&ei=sd6jY6mOOIGh-QapsZeoDQ&start=0&sa=N&ved=2ahUKEwjpqrmms4z8AhWBUN4KHanYBdU4ChDy0wN6BAgeEAQ&biw=2048&bih=1042&dpr=1.25>
-		- <https://www.gartner.com/en/documents/4005826>
-		- <https://www.gartner.com/en/documents/4002576>
-		- <https://www.gartner.com/en/documents/4000781>
-		- <https://www.gartner.com/en/documents/4003571>
-		- <https://www.gartner.com/en/documents/4003044>
-		- <https://www.gartner.com/en/documents/3997046>
-		- <https://www.gartner.com/en/documents/4002617>
-	- https://www.sktelecom.com/en/press/press_detail.do?page.page=1&idx=1546&page.type=all&page.keyword=
-	- https://www.linkedin.com/pulse/top-10-telecom-trends-2022-ankit-tyagi/
-- Private network
-	- Trends
-		- https://www.gartner.com/en/documents/3993224
-		- https://www.gartner.com/en/documents/4003470
-		- https://www.gartner.com/en/documents/4011664
-		- https://tele.net.in/evolving-private-networks-global-trends-and-deployment/
-		- https://telecominfraproject.com/tip-5g-private-networks-solution-group-paves-the-way-to-transform-private-network-economics-and-introduces-blueprint/
-		- https://learn.microsoft.com/en-us/azure/private-multi-access-edge-compute-mec/affirmed-private-network-service-overview
-		- https://www.affirmednetworks.com/products-solutions/private-network-service/
-		- https://www.nokia.com/networks/private-wireless/podcasts/six-private-wireless-trends-to-watch-in-2022/
-		- https://www.businesswire.com/news/home/20220906005944/en/United-States-Private-LTE-5G-Network-Market-Analysis-Report-2022-A-13.6-Billion-by-2030---Focus-on-Upcoming-Trends-in-Various-Spectrums-Numerous-Private-5G-Use-Cases-and-Regulatory-Scenario---ResearchAndMarkets.com
-		- https://www.agileintelresearch.com/reportdetails/Global-Private-5G-Network-Market/9
-		- https://www.grandviewresearch.com/industry-analysis/private-5g-network-market
-		- https://www.verifiedmarketresearch.com/product/private-5g-network-market/
-		- https://www.vodafone.com/business/news-and-insights/glossary/what-is-mobile-private-network
-- others:
-	- <https://www.gartner.com/en/articles/gartner-top-10-strategic-technology-trends-for-2023>
-	- <https://www.gartner.com/en/articles/what-s-new-in-artificial-intelligence-from-the-2022-gartner-hype-cycle>
-	- <https://www.gartner.com/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies>
-	- <https://www.gartner.com/en/articles/gartner-top-10-strategic-predictions-for-2023-and-beyond>
+
+
 
 ---
 
