@@ -2,6 +2,7 @@
 - [Deep Learning Course, University of Geneva](https://fleuret.org/dlc/)
 - [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 - [Open Source Society University](https://github.com/ossu/computer-science#summary)
+- [Advanced Machine Learning for Remote Sensing - University of Bonn](https://www.youtube.com/playlist?list=PLzvRrSe1_bqjGthl2s_FG6AnNYjihUlMS)
 
 # 10 talks that will help you understand machine learning
 - [Source](https://twitter.com/__MLT__/status/1590843890428674060)
