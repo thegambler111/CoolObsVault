@@ -25,7 +25,7 @@
  - E.g. `[NBOX-431][Documentary] due date sign flow`
 
 ## Detailed
-- `{Jira id}` is project name + task id in Jira 
+- `{Jira id}` is project name + task id in Jira
 	- This field is required
 	- Create corresponding task in Jira if have not done it
 - `{Feature}` is:
@@ -36,7 +36,7 @@
 - `{Task details}` is all details of tasks solved by the commit
 	- If a commit solved multiple tasks then separates the tasks using `&`
 		- E.g. `[NBOX-431][Webview] Fix redirect & loading webview`
-Common requirements and capabilities of device management in the Internet of things
+
 #
 ---
 - Status: #done
