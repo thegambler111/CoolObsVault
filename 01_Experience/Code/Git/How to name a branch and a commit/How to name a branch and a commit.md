@@ -36,7 +36,7 @@
 - `{Task details}` is all details of tasks solved by the commit
 	- If a commit solved multiple tasks then separates the tasks using `&`
 		- E.g. `[NBOX-431][Webview] Fix redirect & loading webview`
-
+Common requirements and capabilities of device management in the Internet of things
 #
 ---
 - Status: #done
