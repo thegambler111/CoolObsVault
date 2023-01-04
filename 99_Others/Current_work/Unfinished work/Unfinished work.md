@@ -287,8 +287,8 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 	- Thiết kế điều khiển cho các loại thiết bị
 
 ---
-
-
+ ít nhất cũng phải có một profile để đánh giá chi phí của nó
+mình không thể nói phần cứng muốn bao nhiêu cũng được
 
 
 ---
