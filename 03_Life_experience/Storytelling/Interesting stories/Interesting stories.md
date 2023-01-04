@@ -82,6 +82,23 @@
 	- It trumps everything else
 - **Fear is the double-edged sword of success**
 
+# The Gambler's Ruin: David vs Goliath
+- [Source](https://twitter.com/10kdiver/status/1609607018750287873)
+- David vs Goliath:
+	- David is a "small" player with $2000
+	- David is a "big" player with $10000
+	- David has a 55% chance of winning any given round -- as opposed to Goliath's 45%.
+	- After each round, the *loser* gives the *winner* some of their resources
+	- This goes on until one of the players is wiped out -- ie, has no more resources left
+- You can use Markov Chain to calculate each person odd of winning
+- If each round costs the loser $1000
+	- David only has ~36% chance of winning the battle
+	- The odds favor Goliath nearly 2 to 1
+- If each round costs the loser $100
+	- Now, the odds flip -- to *overwhelmingly* favor David.
+	- He ends up beating Goliath about 98% of the time!
+- => The power of each round being a "low cost" experiment
+
 #
 ---
 - Status: #done

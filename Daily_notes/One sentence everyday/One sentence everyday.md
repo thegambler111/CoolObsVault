@@ -56,7 +56,12 @@
 	- If you don’t believe in yourself, nobody will.
 	- Stop comparing yourself to people. Live to prove things to yourself, not others.
 	- Good writer = good thinker and good thinker are rare
-
+# 2023
+## 1
+- 5
+	- If we're up against a powerful opponent, we should ensure they cannot use their FULL strength
+	- Low cost experiments tend to improve the odds of victory
+		- Each failed small bets has less overall impact
 #
 ---
 - Status: #done
