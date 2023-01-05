@@ -99,6 +99,10 @@
 	- He ends up beating Goliath about 98% of the time!
 - => The power of each round being a "low cost" experiment
 
+# Our hero :)))
+- [Source](https://twitter.com/BrianFOConnor/status/1609580988845244418)
+![[03_Life_experience/Storytelling/Interesting stories/Pasted image 20230105071345.jpg]]
+
 #
 ---
 - Status: #done
