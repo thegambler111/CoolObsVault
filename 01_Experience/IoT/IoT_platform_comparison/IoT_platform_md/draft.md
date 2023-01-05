@@ -181,7 +181,7 @@ For example, PTC and Bosch Software Innovations collaboration is a prime example
 		- White blocks are user layers
 		- Dark blue blocks are major runtime layers!
 		- Light blue blocks are layers for developers
-	- [[01_Experience/Product_strategy/IoT_platform/Intel's IoT Reference architecture]]
+	- [[01_Experience/Product_strategy/2021/IoT_platform/Intel's IoT Reference architecture]]
 
 ---
 - a

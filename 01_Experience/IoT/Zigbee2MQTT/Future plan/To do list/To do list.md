@@ -1,0 +1,44 @@
+#
+
+- [ ] Plan Zigbee
+	- [ ] Định cỡ
+		- [ ] Mở rộng theo chiều rộng (tính năng):
+			- Tích hợp với router wifi
+			- Kịch bản tự động tại GW
+			- Phân chia chức năng giữa GW và platform
+			- Tại sao MQTT?
+			- Thêm phương thức tích hợp: QR code?
+			- Tự động tạo profile thiết bị mới
+		- [ ] Mở rộng theo chiều sâu (code + tối ưu):
+			- Bổ sung tính năng:
+				- Theo Zigbee
+				- Theo GW
+			- Tính năng:
+				- Lựa chọn tần số
+				- Group
+				- Đánh giá phần cứng
+		- [ ] Lộ trình Zigbee:
+			- Về tính năng vs GW vendor
+			- Chạy song song với việc tối ưu
+		- [ ] Kế hoạch dài hạn:
+			- Kế hoạch năm, hoàn thành trong quý 4 -> Xin ngân sách
+				- Nhân sự
+				- Mua thiết bị
+				- Tư vấn
+				- Outsource
+	- [ ] Đánh giá lại công việc của Tú
+		- [ ] Giám sát
+		- [ ] Quản lý chất lượng
+		- [ ] Đánh giá Prometheus có phù hợp với GW ko? (về phần cứng)
+- [ ] Tài liệu VTNet
+	- Lựa chọn kiến trúc
+	- Lựa chọn môi trường
+	- Không liên quan code
+
+#
+---
+- Status: #done
+- Tags:
+- References:
+	- Source
+- Related:

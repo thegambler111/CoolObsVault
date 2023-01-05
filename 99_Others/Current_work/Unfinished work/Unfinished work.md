@@ -6,11 +6,18 @@ Values:
 # 2023
 - 3 nhiệm vụ chính 2023:
 	- ~~Xây dựng IoT Platform để đưa lên Cloud~~
-	- Mở rộng hệ sinh thái IoT, tăng số lượng thiết bị tích hợp
+	- Quản lý quá trình đưa IoT platform của VHT lên Cloud
+		- -> Bám sát lộ trình. Yêu cầu VHT cung cấp đầy đủ tài liệu hướng dẫn
+	- Mở rộng hệ sinh thái IoT, tích hợp thêm ứng dụng và mang ra thương mại
+		- Xác định niche: Nên lựa chọn những lĩnh vực yêu cầu vùng phủ rộng, số lượng thiết bị nhiều như Smart city, smart air port, smart port
+		- Digital twins
+	- Nghiên cứu chiến lược lựa chọn công nghệ kết nối cho các ứng dụng Short range và Cellular IoT
+		- -> Đưa ra các tiêu chuẩn của Viettel về các loại công nghệ trên
+	- Ứng dụng cho Private Network
+		- --> Hướng tới IoT
 	- Xây dựng các báo cáo gợi ý sản phẩm chiến lược
-- Xây dựng CTKT ATTT cho IoT platform
-	- [[01_Experience/IoT/Viettel IoT Platform/CTKT/ATTT/ATTT]]
-	- Deadline 28/2
+		- -> Đưa ra được các sản phẩm nên làm của các lĩnh vực khác
+		- Lựa chọn 1-2 lĩnh vực để thực hiện tại phòng
 
 ---
 
@@ -21,118 +28,8 @@ Values:
 - So sánh MQTT vs LwM2M:
 	- OneNet đẩy mạnh LwM2M -> Why
 - Hoàn thiện các yêu cầu để đạt -> KNL 13
-
----
-
-- [ ] Plan Zigbee
-	- [ ] Định cỡ
-		- [ ] Mở rộng theo chiều rộng (tính năng):
-			- Tích hợp với router wifi
-			- Kịch bản tự động tại GW
-			- Phân chia chức năng giữa GW và platform
-			- Tại sao MQTT?
-			- Thêm phương thức tích hợp: QR code?
-			- Tự động tạo profile thiết bị mới
-		- [ ] Mở rộng theo chiều sâu (code + tối ưu):
-			- Bổ sung tính năng:
-				- Theo Zigbee
-				- Theo GW
-			- Tính năng:
-				- Lựa chọn tần số
-				- Group
-				- Đánh giá phần cứng
-		- [ ] Lộ trình Zigbee:
-			- Về tính năng vs GW vendor
-			- Chạy song song với việc tối ưu
-		- [ ] Kế hoạch dài hạn:
-			- Kế hoạch năm, hoàn thành trong quý 4 -> Xin ngân sách
-				- Nhân sự
-				- Mua thiết bị
-				- Tư vấn
-				- Outsource
-	- [ ] Đánh giá lại công việc của Tú
-		- [ ] Giám sát
-		- [ ] Quản lý chất lượng
-		- [ ] Đánh giá Prometheus có phù hợp với GW ko? (về phần cứng)
-- [ ] Platform: Tập trung phần
-	- [ ] Transport
-	- [ ] Rule engine: -> Tham khảo Home Assistant
-		- Message
-		- Method
-	- [ ] A Công gợi ý: Làm sâu giao thức HTTP (do có nhiều mục đính sử dụng)
-- [ ] Tài liệu VTNet
-	- Lựa chọn kiến trúc
-	- Lựa chọn môi trường
-	- Không liên quan code
-
----
-
-# Daily:
-- Verify writing Duc and Trung
-- Vision
-- Khóa học quý 4
-	- 3xAI
-	- Big data
-
----
-- Đầu việc -> Scope -> Nguồn lực
-- Check số lượng phần cứng và firmware của các vendor khác
-	- => Số lượng firmware cần làm
-	- Chứng minh tại sao phải làm
-	- Phạm vi, nguồn lực
-- Học theo OneNet của Huawei
-- Các công việc khác ngoài phần firmware
-- CMP:
-	- Check ctkt cũ
-	- Check nhu cầu vtt
-	- Check cmp của vht
-		- Nếu vht ok -> yêu cầu hỗ trợ
-		- Nếu vtn làm thì ai làm
-	- Nếu ko có VHT thì theo OneNet
-- DMP
-	- Tại sao phải làm
-	- Đầu việc không liên quan đến loại thiết bị cụ thể
-	- Phụ thuộc hệ sinh thái
-		- Đã làm:
-			- Smart home
-			- Smart community
-		- Sẽ làm:
-			- Smart home:
-				- Sẽ làm phần nào
-				- Sẽ làm những thiết bị nào
-			- Smart community
-				- Theo chiến lược TĐ
-			- Các lĩnh vực tiềm năng khác
-				- Smart agriculture -> A Tân
-					- Xem lại TH TrueMilk chỗ Phòng Di động
-				- Smart city -> Kiệt
-				- Bố sung thêm 2 lĩnh vực nữa
-	- Sở cứ: Tiềm năng, trên thế giới đã làm ntn
-	- Framework
-	- Công việc -> Nguồn lực
-- AEP:
-	- Các công việc cần làm
-		- Feature
-		- Đầu việc
-	- Kế hoạch cho bên CĐS -> Đầu mối cụ thể
-		- CĐS làm bao nhiêu
-		- Outsource ?
-- 5G:
-	- Manufacture: Inspect
-	- Mining:
-	- Port
-	- Steel
-		- Xu thế
-		- Ứng dụng sử dụng 5G -> Tích hợp trên Private network ntn
-		- Thực tế các nhà mạng
-		- => Scope là gì, đầu việc, ai làm
-	- ViettelPost
-- Học tập
-	- -> Xem các điều kiện của khung năng lực bậc trên
-	- PMP:
-		- <https://www.udemy.com/course/pmp-certification-exam-prep-course-pmbok-6th-edition/>
-
----
+- PMP:
+	- <https://www.udemy.com/course/pmp-certification-exam-prep-course-pmbok-6th-edition/>
 
 ---
 
@@ -154,37 +51,10 @@ Values:
 ---
 
 ---
-- 3 đối tượng người sử dụng:
-	- Sản xuất thiết bị
-	- Cung cấp giải pháp (thiết bị + firmware + software)
-	- Bán giải pháp (Mang giải pháp đi bán)
-- 2 sản phẩm 2023
-	- Đồng hồ nước
-	- Sensor nông nghiệp
-		- Hải sản
-		- Chăn nuôi, trồng trọt
-- ? Tổ chức hội thảo để phát triển cộng đồng IoT Việt Nam
-- **Thống nhất**
-	- CTKT ok
-	- Lập budget làm hết trừ CMP
-		- Nếu VHT ko làm CMP -> Đến giữa 2023 sẽ làm phần thiết yếu của CMP
-	- Thống nhất công việc cần làm giữa CĐS và CLML
-		- -> Trong tháng, đóng gói kế hoạch chi tiết năm 2023: timeline, người làm
-			- Cái nào CLML làm end-to-end
-			- Cái nào lead, cái nào CĐS làm
-			- Cái nào CĐS làm end-to-end
-			- Lộ trình theo quý
-			- Performances:
-				- Số lượng
-					- Người dùng
-					- Thiết bị
-				- Hiệu năng hệ thống
-					- Thời gian phản hồi
-					- Khả năng xử lý
-				- Check performance với OneNet, Tuya
-		- -> Quản lý chi tiêu theo quý
 
 ---
+
+# SKYT
 Giải pháp điều khiển tự động do hãng Quang Thông cung cấp cho dự án Smart Office tồn tại nhiều hạn chế:
 - Mỗi thiết bị chỉ được có 1 kịch bản điều khiển tự động và điều khiển toàn thời gian (24/7). Nhu cầu thực tế cần 1 kịch bản có thể điều khiển cùng lúc nhiều thiết bị, hoặc 1 thiết bị có thể được điều khiển bởi nhiều kịch bản khác nhau, và có thể điều khiển theo các khung giờ khác nhau trong ngày, trong tuần.
 - Mỗi thiết bị chỉ có thể được điều khiển tự động từ 1 thiết bị khác. Nhu cầu thực tế cần 1 thiết bị cảm biến có thể điều khiển cho 1 nhóm thiết bị, hoặc 1 nhóm cảm biến có thể điều khiển 1 thiết bị, hoặc 1 nhóm cảm biến điều khiển cho cả 1 nhóm thiết bị.
@@ -200,7 +70,7 @@ Giải pháp của đối tác:
 - Chỉ kết nối được 20 thiết bị/gateway
 - Không có khả năng mở rộng tính năng mới
 
-# Tình trạng
+## Tình trạng
 Các giải pháp do hãng Quang Thông cung cấp cho dự án Smart Office tồn tại nhiều hạn chế
 - Với thiết bị Gateway:
 	- Ứng dụng Gateway được cung cấp sử dụng giao diện dòng lệnh, không thân thiện với người dùng, rất khó để cấu hình, quản lý, phân tích
@@ -215,7 +85,7 @@ Các giải pháp do hãng Quang Thông cung cấp cho dự án Smart Office t�
 	- Mỗi thiết bị chỉ được có 1 kịch bản điều khiển theo lịch vào đúng 1 thời điểm trong ngày. Nhu cầu thực tế cần 1 kịch bản điều khiển theo lịch có thể điều khiển cùng lúc nhiều thiết bị, hoặc 1 thiết bị có thể được điều khiển bởi nhiều kịch bản điều khiển theo lịch khác nhau, và có thể đặt lịch điều khiển vào nhiều thời điểm khác nhau trong ngày, trong tuần.
 	- Kịch bản được cấu hình theo giao diện dòng lệnh không thân thiện với người dùng, khó triển khai, điều chỉnh, phân tích, quản lý, thống kê, giám sát, chỉ phù hợp cho các nhu cầu cá nhân với số lượng thiết bị ít, kịch bản điều khiển đơn giản.
 
-# Nội dung
+## Nội dung
 Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng có sẵn:
 - Tự xây dựng sản phẩm Gateway Zigbee xử lý được các hạn chế của giải pháp đối tác cung cấp và cho phép phát triển thêm các tính năng nâng cao:
 	- Phát triển giao diện trên web cho phép người dùng cấu hình, quản lý một cách thuận tiện, thân thiện
@@ -232,15 +102,15 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 	- Vận hành, giám sát các kịch bản tự động
 	- Tiếp nhận phản ánh và thay đổi kịch bản theo nhu cầu của người dùng
 
-# Khả năng áp dụng
+## Khả năng áp dụng
 - Giải pháp phần mềm quản lý Gateway Zigbee có thể áp dụng để quản lý gần như toàn bộ các loại thiết bị Zigbee có trên thị trường, cho phép tùy biến và phát triển thêm các tính năng theo yêu cầu người dùng
 - Giả pháp điều khiển tự động có thể điều khiển được toàn bộ các loại thiết bị đã được tích hợp với IoT platform của Viettel và áp dụng được cho toàn bộ các dự án IoT tại Viettel (Smart Home, Smart Office, Smart Urban...).
 
-# Điểm mới
+## Điểm mới
 - Giải pháp phần mềm quản lý Gateway Zigbee là giải pháp táo bạo, mang tính đột phá cao do lĩnh vực IoT đặc biệt là mảng ứng dụng Zigbee còn mới mẻ chưa có nhiều hãng sản xuất tại Việt Nam
 - Giải pháp điều khiển tự động là giải pháp tự nghiên cứu, tìm hiểu và triển khai. Giải pháp đã thay thế và chứng minh sự ưu việt so với giải pháp sẵn có của nhà cung cấp thiết bị. Giải pháp phù hợp cho triển khai mọi dự án IoT lớn nhỏ.
 
-# Hiệu quả
+## Hiệu quả
 - Giải pháp phần mềm quản lý Gateway Zigbee vừa xử lý được các vấn đề trong dự án Smart office tại Trụ sở Tổng Công ty, vừa mở ra một hướng đi mới cho ngành IoT.
 	- Gateway Zigbee do Viettel tự phát triển khắc phục được các lỗi phát sinh của hệ thống cung cấp bởi đối tác, giúp triển khai thành công các ứng dụng Zigbee trong Tòa nhà Thái Bình
 	- Gateway tự phát triển bổ sung các tính năng cần thiết cho việc vận hành, khai thác, giúp tiết kiệm 70% thời gian, công sức so với giải pháp được đối tác cung cấp
@@ -253,8 +123,7 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 	- Tiết kiệm được tiền thuê ngoài để phát triển: 20 men month * 35.000.000 = 700.000.000
 - Tổng cộng tiết kiệm 1.750.000.000
 
----
-
+## Related
 - Làm firmware cho 1 thiết bị Khởi tạo mạng Zigbee, thu phát tín hiệu Zigbee: 60 mm
 	- Khởi tạo mạng Zigbee:
 		- Lựa chọn cấu hình mạng
@@ -285,8 +154,6 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 	- Thiết kế giao diện
 	- Liên kết với các thành phần
 	- Thiết kế điều khiển cho các loại thiết bị
-
----
 
 ---
 
