@@ -188,28 +188,15 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 	- Thiết kế điều khiển cho các loại thiết bị
 
 ---
-# Test performance
 
-- Mục tiêu:
-	- Đánh giá hiệu năng của IoT platform
-		- Cách cài đặt môi trường, ràng buộc môi trường
-		- Các tính năng cần test, đầu vào, đầu ra
-		- Cách test: Các chỉ số, thông số cần theo dõi, thời gian đánh giá
-		- Quy định ngưỡng Đạt/ Không đạt
-	- So sánh hiệu năng trên Cloud Viettel và các Cloud khác
-		- -> Cloud Viettel cần bổ sung, sửa đổi gì
-	- So sánh hiệu năng/giá với các nền tảng IoT khác
-		- -> Thay đổi giá cho hợp lý
-		- -> Đánh giá lại khả năng cạnh tranh
-
-## VHT
-- Đánh giá:
-	- 
 
 
 ---
 
-
+# Sản phẩm IoT
+- Xác định niche
+- Xác định target customer
+- Trao đổi, tìm hiểu nhu cầu của target customer
 
 
 

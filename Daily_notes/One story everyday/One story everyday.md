@@ -60,6 +60,8 @@
 	- Everybody forgot to place their lunch meal. The usual number of 25 people is only 6 today. However, only 3 out of 6 actually eat the lunch =))
 - 4
 	- People usually get matching shirt but a couple at work actually bought matching laptops. Their reason is because they are the best in their price range
+- 5
+- 6
 
 #
 ---
