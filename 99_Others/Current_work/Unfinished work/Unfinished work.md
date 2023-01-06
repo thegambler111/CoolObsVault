@@ -49,9 +49,39 @@ Values:
 	- Giá trị làm lợi 0.5 tỷ -> Chưa có
 
 ---
-# 
 
-
+# Nghiên cứu
+- Mục tiêu: Tình kiếm thị trường có sự tương đồng cao với thì trường Việt Nam và đã có những bước tiến trước
+	- Sự tương đồng đánh giá qua
+		- Chính sách của chính phủ
+		- Mức độ phổ cập công nghệ
+		- Thói quen tiêu dùng của người dân
+		- Thu nhập người dân
+	- Các nước tiềm năng
+		- Trung Quốc
+		- Các nước ĐNÁ khác
+		- Ấn Độ
+		- Các nước nam Mỹ
+		- Một vài nước thuộc top Châu Phi
+		- Nhật, Hàn
+		- Mỹ
+		- Các nước ở Châu Âu
+	- Cách đánh giá
+		- Kiểm tra lại các công nghệ mới được áp dụng rộng rãi ở các khu vực trên từ 2012 hoặc 2015 hoặc 2018 đến nay (càng về trước thì càng nhiều dữ liệu để đánh giá, nhất là với các nước đã phát triển trước nhiều)
+		- Matching các công nghệ đó với Việt Nam
+		- Sau đó tìm các nước có độ tương đồng cao
+		- Đánh giá lại thông qua các chỉ tiêu đã nêu trên để loại bỏ trùng hợp ngẫu nhiên
+		- Kết quả mong muốn: Các nước có thị trường tương đồng nhưng phát triển trước không quá 5 năm
+	- Nghiên cứu các công ty lớn trong các nước tương đồng ở trên
+		- Chiến lược từ 2012 hoặc 2015 hoặc 2018 đến nay
+		- Tại sao lại chọn chiến lược như vậy
+		- Chiến lược có thành công không
+		- -> Viettel có thể học hỏi được gì?
+- Mục tiêu: Tìm kiếm các trending công nghệ mới
+	- Gartner
+		- Thu thập các Hype cycle từ 2012 đến nay
+		- Nhìn lại toàn bộ các Hype cycle để đánh giá khả năng dự đoán của chúng dựa trên các dữ liệu thực tế
+		- -> Kinh nghiệm khi tham khảo Hype Cycle của Gartner
 ---
 
 ---
@@ -158,8 +188,30 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 	- Thiết kế điều khiển cho các loại thiết bị
 
 ---
+# Test performance
+
+- Mục tiêu:
+	- Đánh giá hiệu năng của IoT platform
+		- Cách cài đặt môi trường, ràng buộc môi trường
+		- Các tính năng cần test, đầu vào, đầu ra
+		- Cách test: Các chỉ số, thông số cần theo dõi, thời gian đánh giá
+		- Quy định ngưỡng Đạt/ Không đạt
+	- So sánh hiệu năng trên Cloud Viettel và các Cloud khác
+		- -> Cloud Viettel cần bổ sung, sửa đổi gì
+	- So sánh hiệu năng/giá với các nền tảng IoT khác
+		- -> Thay đổi giá cho hợp lý
+		- -> Đánh giá lại khả năng cạnh tranh
+
+## VHT
+- Đánh giá:
+	- 
+
 
 ---
+
+
+
+
 
 #
 ---
