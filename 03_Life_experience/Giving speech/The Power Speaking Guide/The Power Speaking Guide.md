@@ -77,7 +77,7 @@
 
 ---
 - Status: #done
-- Tags: #life_experience
+- Tags: #speech 
 - References:
 	- [Source](https://sahilbloom.substack.com/p/the-power-speaking-guide?s=w)
 - Related:

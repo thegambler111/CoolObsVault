@@ -28,17 +28,13 @@
 
 # Wrote A Step-By-Step Thread 1x Per Week:
 - Weekly threads powered my growth.
-
 - I gained thousands of followers by sharing detailed threads.
-
 - My goal is to walk someone step-by-step through something critical in solopreneurship.
 - [twitter.com/19694536/statu…](https://twitter.com/19694536/status/1569063747842342912)
 
 # Engaged With 6-10 Interesting People Each Week:
 - I made it a habit to build connections.
-
 - Here are some smart folks I've jammed out with:
-
 	- [@SahilBloom](https://twitter.com/SahilBloom)
 	- [@Nicolascole77](https://twitter.com/Nicolascole77)
 	- [@thedankoe](https://twitter.com/thedankoe)
@@ -49,44 +45,35 @@
 	- [@sweatystartup](https://twitter.com/sweatystartup)
 	- [@FitFounder](https://twitter.com/FitFounder)
 
-
 # Commented Underneath Large Accounts:
 - One of the best ways to gain visibility here is to participate.
-
 	- Find interesting, large accounts
 	- Set up automatic notifications
 	- Read each of their Tweets
 	- Add valuable comments
 	- Engage
-
--  [pic.twitter.com/8DGp4SOWAB](https://twitter.com/thejustinwelsh/status/1609902601771810823/photo/1)
+- [pic.twitter.com/8DGp4SOWAB](https://twitter.com/thejustinwelsh/status/1609902601771810823/photo/1)
 
 # Eliminated The "Touch Base" Tweets:
 - By March 2022, I had a publishing habit.
-
 	- So I stopped the daily, "Happy Weekday" AM posts.
-	
-	- They weren't adding much value.
 
+	- They weren't adding much value.
 - I started writing entertaining content or 2x'ing educational Tweets, and writing more threads.
 - [twitter.com/thejustinwelsh…](https://twitter.com/thejustinwelsh/status/1601929049298948098)
 
 # Improved My "Inspiration" Swipe File:
 - Writing a lot of Tweets means constantly being inspired.
-
 - Here are the tools I use to find that inspiration:
-
 	- [@hypefury](https://twitter.com/hypefury) (Tweet templates)
 	- [@TwemexApp](https://twitter.com/TwemexApp) (User's best Tweets)
 	- [@typeshare_co](https://twitter.com/typeshare_co) (Thread templates)
 	- [@TwitterBlue](https://twitter.com/TwitterBlue) (bookmark fave Tweets)
 
-
-
 #
 ---
 - Status: #done
-- Tags: #newsletter_building 
+- Tags: #newsletter_building
 - References:
 	- [Source](https://twitter.com/thejustinwelsh/status/1609902577663070208)
 - Related:
