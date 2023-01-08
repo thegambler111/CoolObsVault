@@ -56,12 +56,20 @@
 	- If you don’t believe in yourself, nobody will.
 	- Stop comparing yourself to people. Live to prove things to yourself, not others.
 	- Good writer = good thinker and good thinker are rare
+
 # 2023
+
 ## 1
 - 5
 	- If we're up against a powerful opponent, we should ensure they cannot use their FULL strength
 	- Low cost experiments tend to improve the odds of victory
 		- Each failed small bets has less overall impact
+- 6
+	- Good writers are good thinkers, and good thinkers are rare
+	- [Do less, do better, know why](https://twitter.com/Nicolascole77/status/1609701064919457792)
+- 8
+	- Give me six hours to chop a tree and I will spend the first four to sharpened the ax
+
 #
 ---
 - Status: #done
