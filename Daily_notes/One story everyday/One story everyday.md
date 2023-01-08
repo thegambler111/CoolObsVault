@@ -60,8 +60,13 @@
 	- Everybody forgot to place their lunch meal. The usual number of 25 people is only 6 today. However, only 3 out of 6 actually eat the lunch =))
 - 4
 	- People usually get matching shirt but a couple at work actually bought matching laptops. Their reason is because they are the best in their price range
-- 5
 - 6
+	- Receive the first personal award since I start working: Be top 10 employee (out of 2k4) of the company
+- 7
+	- Work party at an under construction park. I visit my first aquarium there, though there not many types of fishes
+- 8
+	- Power outage happens for 1h. No internet = shower time
+- 9
 
 #
 ---
