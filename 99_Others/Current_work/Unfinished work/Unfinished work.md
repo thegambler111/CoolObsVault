@@ -189,6 +189,7 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 
 ---
 
+# Reread
 ![[03_Life_experience/Conversation/50 Ways to Fuel a Conversation/50 Ways to Fuel a Conversation#50 Ways to Fuel a Conversation]]
 ![[03_Life_experience/Conversation/10 Tips to become a better listener/10 Tips to become a better listener#10 Tips to become a better listener]]
 
@@ -198,8 +199,6 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 - Xác định niche
 - Xác định target customer
 - Trao đổi, tìm hiểu nhu cầu của target customer
-
-
 
 #
 ---
