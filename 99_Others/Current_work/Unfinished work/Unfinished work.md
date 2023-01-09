@@ -24,7 +24,9 @@ Values:
 # Queue
 - Small task
 	- Đặt kìm tách dây và đồng hồ đo điện
+	- Tổng hợp yêu cầu của VTNet cho IoT Platform
 	- Khắc phục lỗi HA
+	- 
 - Thành lập nhóm tìm hiểu các use case iot trên thế giới (theo quý)
 - Chặn quyền các anh nhóm thiết bị
 - Tìm hiểu các loại kết nối Modbus, EDP
@@ -33,7 +35,7 @@ Values:
 - Hoàn thiện các yêu cầu để đạt -> KNL 13
 - PMP:
 	- <https://www.udemy.com/course/pmp-certification-exam-prep-course-pmbok-6th-edition/>
-
+- [Building your own AI-powered generative search engine](https://twitter.com/kazuki_sf_/status/1609093988484804610)
 ---
 
 # Thay đổi KNL

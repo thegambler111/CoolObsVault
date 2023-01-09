@@ -69,6 +69,8 @@
 	- [Do less, do better, know why](https://twitter.com/Nicolascole77/status/1609701064919457792)
 - 8
 	- Give me six hours to chop a tree and I will spend the first four to sharpened the ax
+- 9
+	- "Easy" and "Success" are not friends — it takes consistent hard work to achieve anything worthwhile
 
 #
 ---

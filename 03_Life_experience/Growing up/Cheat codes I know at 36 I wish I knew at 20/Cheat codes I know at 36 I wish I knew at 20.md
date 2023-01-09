@@ -1,0 +1,34 @@
+# Cheat codes I know at 36 I wish I knew at 20:
+- "Easy" and "Success" are not friends — it takes consistent hard work to achieve anything worthwhile.
+- The main thing that usually stands between you and what you want...is just asking.
+- Be slow to judge people, and quick to help them.
+- The rules of the world were all made up by people who are no smarter than you.
+- Creating wealth is lonely because it comes from having a contrarian view of the world.
+- Life is too difficult to waste time on pessimistic people.
+- Everything in the world can be learned if you have the appetite.
+- Your rate of learning is your greatest lever.
+- The world needs you to focus on solving hard problems, not making quick bucks.
+- Time is the denominator of the ultra successful.
+- Never build something if you aren't committed to making it great.
+- Set challenging deadlines — you'll hit them the same as other deadlines, in half the time.
+- Deliberate weekly planning will change your career trajectory.
+- True success is being able to solve meaningful problems for the world.
+- True wealth is having an abundance of time to do meaningful things.
+- Chaos is the default of life — you have to organize yourself if you want a better result.
+- Default to tackling problems head-on instead of overthinking.
+- Consistent hard work > pure talent in nearly every aspect of life.
+- When you have a clear purpose, you have to eliminate all other distractions in order to achieve it.
+- Endless curiosity will help you find the best paths for you to take in your life and career.
+- Compound your learning by constantly investing in new courses, cohorts, shadowing, and building.
+- High-rewards require high *perceived* risk.
+- Look for problems you can uniquely solve.
+- Big ideas are magnets for talented people.
+- Determine your direction, then take massive action.
+
+#
+---
+- Status: #done
+- Tags: #growing_up
+- References:
+	- [Source](https://twitter.com/adcock_brett/status/1609571530404659200)
+- Related:
