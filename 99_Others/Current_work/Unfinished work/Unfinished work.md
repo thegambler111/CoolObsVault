@@ -22,6 +22,9 @@ Values:
 ---
 
 # Queue
+- Small task
+	- Đặt kìm tách dây và đồng hồ đo điện
+	- Khắc phục lỗi HA
 - Thành lập nhóm tìm hiểu các use case iot trên thế giới (theo quý)
 - Chặn quyền các anh nhóm thiết bị
 - Tìm hiểu các loại kết nối Modbus, EDP
