@@ -71,6 +71,8 @@
 	- Give me six hours to chop a tree and I will spend the first four to sharpened the ax
 - 9
 	- "Easy" and "Success" are not friends — it takes consistent hard work to achieve anything worthwhile
+- 10
+	- Mistakes are accident, failure are not trying your best
 
 #
 ---
