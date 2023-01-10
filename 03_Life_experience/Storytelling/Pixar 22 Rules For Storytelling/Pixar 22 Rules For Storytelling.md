@@ -103,3 +103,4 @@
 	- [Nathan Baugh part 1](https://www.worldbuilders.ai/p/pixars-22-rules-storytelling-part-1)
 	- [Nathan Baugh part 2](https://www.worldbuilders.ai/p/pixars-22-rules-storytelling-part-2)
 	- [Nathan Baugh part 3](https://www.worldbuilders.ai/p/creativity-inc)
+	- [[03_Life_experience/Storytelling/Pixar 10 gems in 22 Rules For Storytelling/Pixar 10 gems in 22 Rules For Storytelling]]

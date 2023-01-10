@@ -26,7 +26,6 @@ Values:
 	- Đặt kìm tách dây và đồng hồ đo điện
 	- Tổng hợp yêu cầu của VTNet cho IoT Platform
 	- Khắc phục lỗi HA
-	- 
 - Thành lập nhóm tìm hiểu các use case iot trên thế giới (theo quý)
 - Chặn quyền các anh nhóm thiết bị
 - Tìm hiểu các loại kết nối Modbus, EDP
@@ -200,19 +199,7 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 
 ---
 
-1. [**zigbee2mqtt/FRIENDLY_NAME**](https://www.zigbee2mqtt.io/guide/usage/mqtt_topics_and_messages.html#zigbee2mqtt-friendly-name)
-- This is a reported topic, published when a device changes its state
-	- We use this topic when
-		- initialize z2m
-		- rename the device 
-		- send a control message,...
-	- `FRIENDLY_NAME` is the IEEE-address or user-defined `friendly_name` of a device
-	- Published messages are **always** in a JSON format
-
-
-
 ---
-
 
 # Sản phẩm IoT
 - Xác định niche

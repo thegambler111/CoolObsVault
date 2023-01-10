@@ -86,20 +86,6 @@
 - [[01_Experience/IoT/Zigbee2MQTT/Documentations/Tuya documentation/Tuya documentation|Tuya]]
 - [[01_Experience/IoT/Zigbee2MQTT/Documentations/Aqara hub M1S connnect to Mi home Android/Aqara hub M1S connnect to Mi home Android|Aqara]]
 
-## 1. [**zigbee2mqtt/FRIENDLY_NAME**](https://www.zigbee2mqtt.io/guide/usage/mqtt_topics_and_messages.html#zigbee2mqtt-friendly-name)
-- This is a reported topic, published when a device changes its state
-	- We use this topic when
-		- initialize z2m
-		- rename the device 
-		- send a control message,...
-	- `FRIENDLY_NAME` is the IEEE-address or user-defined `friendly_name` of a device
-	- Published messages are **always** in a JSON format
- - Message A:
-	 - Type
-		 - AREQ
-	 - Subsystem = ZDO
-	 - command = leaveInd
-
 #
 ---
 - Status: #done

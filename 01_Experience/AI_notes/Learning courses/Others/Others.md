@@ -4,7 +4,7 @@
 - [Open Source Society University](https://github.com/ossu/computer-science#summary)
 - [Advanced Machine Learning for Remote Sensing - University of Bonn](https://www.youtube.com/playlist?list=PLzvRrSe1_bqjGthl2s_FG6AnNYjihUlMS)
 
-# 10 talks that will help you understand machine learning
+# 10 Talks that will help you understand machine learning
 - [Source](https://twitter.com/__MLT__/status/1590843890428674060)
 	- [Transformers with Lucas Beyer, Google Brain](https://www.youtube.com/watch?v=EixI6t5oif0)
 	- [Text-to-Image Generation – Deep Dive into DALL-E 2, Imagen, Parti, VQGAN with Jerry Chi](https://www.youtube.com/watch?v=SdahlzTVqVc)
@@ -17,14 +17,13 @@
 	- [Statistics: Shapes and Moments of Probability Distributions 1 with Michal Fabinger](https://www.youtube.com/watch?v=aR-kh5O5fOg)
 	- [Zero-to-1: How to start a career in ML with Jayson Cunanan](https://www.youtube.com/watch?v=hD44EKNlwtY)
 
+# MLOps - DeepLearningAI
+- [Machine Learning Engineering for Production (MLOps)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK)
 
-# 
+#
 
 ---
-- Status: #done 
-
-- Tags: #learning_course #machine_learning 
-
+- Status: #done
+- Tags: #learning_course #machine_learning
 - References:
-
 - Related:
