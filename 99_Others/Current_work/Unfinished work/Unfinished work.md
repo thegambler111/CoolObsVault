@@ -13,11 +13,25 @@ Values:
 		- Digital twins
 	- Nghiên cứu chiến lược lựa chọn công nghệ kết nối cho các ứng dụng Short range và Cellular IoT
 		- -> Đưa ra các tiêu chuẩn của Viettel về các loại công nghệ trên
+		- So sánh MQTT vs LwM2M:
+			- OneNet đẩy mạnh LwM2M -> Why
 	- Ứng dụng cho Private Network
 		- --> Hướng tới IoT
 	- Xây dựng các báo cáo gợi ý sản phẩm chiến lược
 		- -> Đưa ra được các sản phẩm nên làm của các lĩnh vực khác
 		- Lựa chọn 1-2 lĩnh vực để thực hiện tại phòng
+
+## Quý 1
+- Báo cáo công nghệ quý 1
+- Hoàn thành khung năng lực
+- Đưa sản phẩm 2022 ra kinh doanh
+- Private network???
+- Theo dõi quá trình đưa IoT Platform lên Cloud kinh doanh
+- Tạo tài khoản IoT platform trên cloud và làm quen cách tích hợp, quản lý thiết bị
+- (Đức) Cập nhật phiên bản mới cho GW tại tòa nhà Thái Bình
+- Đóng gói giải pháp GW
+	- Đóng gói code
+	- Hoàn thiện tài liệu
 
 ---
 
@@ -25,7 +39,7 @@ Values:
 - Small task
 	- Đặt kìm tách dây và đồng hồ đo điện
 	- Tổng hợp yêu cầu của VTNet cho IoT Platform
-	- Khắc phục lỗi HA
+	- Đóng gói GW
 - Thành lập nhóm tìm hiểu các use case iot trên thế giới (theo quý)
 - Chặn quyền các anh nhóm thiết bị
 - Tìm hiểu các loại kết nối Modbus, EDP
