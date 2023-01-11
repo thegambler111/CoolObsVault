@@ -8,39 +8,40 @@
 - [Use `stress` to test](https://stackoverflow.com/questions/33467918/how-can-i-configure-monit-to-kill-a-high-cpu-process-after-a-few-seconds)
 - Add service to be monitored by monit at `/etc/monit/conf.d/`
 
-
 # Monit command
-
 - Reload and restart monit and restart all services running under monit
+
 ```bash
 sudo monit -t && sudo service monit restart && sudo monit start all
 ```
 
 - Read monit log:
+
 ```bash
 sudo tail -f /var/log/monit.log
 ```
 
 - Check running services
+
 ```bash
 sudo minit status
 ```
-
 
 # Monit open control frontend
 - Monit config file location:
 	- `/etc/monit/monitrc` (Ubuntu / Debian / Linux Mint)
 	- `/etc/monit.conf` (RedHat / CentOS / Fedora)
+
 ```bash
 set httpd port 2812 and
     allow localhost
     allow 192.168.68.126 # haint126 laptop
 ```
 
-
 # Monit service file example
 - Monit service file location:
 	- `/etc/monit/conf.d/`
+
 ```bash
 set daemon 2
 check process zigbee2mqtt
@@ -52,18 +53,10 @@ check process zigbee2mqtt
 
 ```
 
-
-
-
-# 
+#
 
 ---
 - Status: #done
-
-- Tags: 
-
+- Tags: #linux
 - References:
-	- 
-
 - Related:
-	- 

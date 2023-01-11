@@ -25,7 +25,7 @@ yum install <package_name>-<package_version>
 #
 ---
 - Status: #done
-- Tags:
+- Tags: #linux 
 - References:
 	- Source
 - Related:

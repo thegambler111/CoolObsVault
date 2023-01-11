@@ -67,6 +67,11 @@
 - 8
 	- Power outage happens for 1h. No internet = shower time
 - 9
+	- I showed one guy the way I has been using. He seems interested. Will test it out with others later
+- 10
+	- Felt mad about the working attitude of some guy in the group. I secretly force him to change.
+- 11
+	- Found out a new emerging tech. If we can work with it, this year is gonna be excited.
 
 #
 ---

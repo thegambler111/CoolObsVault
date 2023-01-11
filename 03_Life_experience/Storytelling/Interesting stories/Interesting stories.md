@@ -103,6 +103,12 @@
 - [Source](https://twitter.com/BrianFOConnor/status/1609580988845244418)
 ![[03_Life_experience/Storytelling/Interesting stories/Pasted image 20230105071345.jpg]]
 
+# The turkey story
+- Consider a turkey that is fed every day.
+	- Every single feeding will firm up the bird's belief that it is the general rule of life to be fed every day by friendly members of the human race "looking out for its best interests," as a politician would say.
+- On the afternoon of the Wednesday before Thanksgiving, something unexpected will happen to the turkey.
+	- It will incur a revision of belief
+
 #
 ---
 - Status: #done

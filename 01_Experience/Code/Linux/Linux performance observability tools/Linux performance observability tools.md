@@ -7,16 +7,11 @@
 
 ![[99_Others/Ubuntu/hHw to diagnose a mysterious process that`s taking too much CPU, memory, IO,.../Linux performance observability tools.png]]
 
-
-# 
+#
 
 ---
 - Status: #done
-
-- Tags: #ubuntu 
-
+- Tags: #linux
 - References:
 	- [Source](https://twitter.com/alexxubyte/status/1500881250201976832)
-
 - Related:
-	- 

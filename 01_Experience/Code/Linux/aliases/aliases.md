@@ -1,7 +1,7 @@
-# alias multiple commands
-
+# Alias multiple commands
 - A function is a new command that has internal logic. It isn't simply a rename of another command. It does internal operations.
 - i.e.
+
 ```bash
 d() {
     if exists colordiff; then
@@ -14,15 +14,11 @@ d() {
 }
 ```
 
-# 
+#
 
 ---
 - Status: #done
-
-- Tags: 
-
+- Tags: #linux
 - References:
 	- [Source](https://stackoverflow.com/questions/756756/multiple-commands-in-an-alias-for-bash/757149#757149)
-
 - Related:
-	- 
