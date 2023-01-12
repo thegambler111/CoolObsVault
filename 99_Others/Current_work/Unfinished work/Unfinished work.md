@@ -212,6 +212,22 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 ![[03_Life_experience/Conversation/10 Tips to become a better listener/10 Tips to become a better listener#10 Tips to become a better listener]]
 
 ---
+# IoT platform
+- Tích hợp thử 1 vài thiết bị lên cloud
+- Mở 1 gateway để custom kết nối
+- Kế hoạch tích hợp thiết bị lên platform
+	- Với VHT
+		- Kế hoạch hỗ trợ các giao thức phổ biến
+		- VHT có hỗ trợ các giao thức đặc biệt ko
+	- Với nội bộ
+		- Duy trì đội phát triển platform để tích hợp nhanh thiết bị, trước khi VHT hỗ trợ
+		- Nếu VHT ko hỗ trợ thì bố trí nguồn lực phát triển ntn
+
+# Công việc quý 1
+## Haint126
+- 
+
+
 
 ---
 
