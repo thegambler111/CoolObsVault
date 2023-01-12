@@ -40,6 +40,7 @@ Values:
 	- Đặt kìm tách dây và đồng hồ đo điện
 	- Tổng hợp yêu cầu của VTNet cho IoT Platform
 	- Đóng gói GW
+	- Check lỗi GW gửi 3 bản tin MQTT sau khi điều khiển trên frontend
 - Thành lập nhóm tìm hiểu các use case iot trên thế giới (theo quý)
 - Chặn quyền các anh nhóm thiết bị
 - Tìm hiểu các loại kết nối Modbus, EDP
@@ -212,6 +213,7 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 ![[03_Life_experience/Conversation/10 Tips to become a better listener/10 Tips to become a better listener#10 Tips to become a better listener]]
 
 ---
+
 # IoT platform
 - Tích hợp thử 1 vài thiết bị lên cloud
 - Mở 1 gateway để custom kết nối
@@ -224,11 +226,8 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 		- Nếu VHT ko hỗ trợ thì bố trí nguồn lực phát triển ntn
 
 # Công việc quý 1
+
 ## Haint126
-- 
-
-
-
 ---
 
 # Sản phẩm IoT
