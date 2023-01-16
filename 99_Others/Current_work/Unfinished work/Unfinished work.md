@@ -5,7 +5,7 @@ Values:
 
 # 2023
 - 3 nhiệm vụ chính 2023:
-	- ~~Xây dựng IoT Platform để đưa lên Cloud~~
+	- ~~Xây dựng IoT Platform để đưa lên Cloud (Cancel)~~
 	- Quản lý quá trình đưa IoT platform của VHT lên Cloud
 		- -> Bám sát lộ trình. Yêu cầu VHT cung cấp đầy đủ tài liệu hướng dẫn
 	- Mở rộng hệ sinh thái IoT, tích hợp thêm ứng dụng và mang ra thương mại
@@ -22,16 +22,34 @@ Values:
 		- Lựa chọn 1-2 lĩnh vực để thực hiện tại phòng
 
 ## Quý 1
+
+### Important, big
+- **Xác định công nghệ mới để theo**
 - Báo cáo công nghệ quý 1
-- Hoàn thành khung năng lực
-- Đưa sản phẩm 2022 ra kinh doanh
-- Private network???
+- Hoàn thành khung năng lực KNL13
+- Tìm hiểu Matter + Thread
+
+### Important, small
 - Theo dõi quá trình đưa IoT Platform lên Cloud kinh doanh
 - Tạo tài khoản IoT platform trên cloud và làm quen cách tích hợp, quản lý thiết bị
-- (Đức) Cập nhật phiên bản mới cho GW tại tòa nhà Thái Bình
+- Hướng làm, phát triển SDK
+	- Chuẩn bị
+- Tìm hiểu các giao thức mới:
+	- Cũ: HTTP, MQTT, CoAP, LwM2M, TCP/UDP
+	- NovaLand: Modbus, EPD, FTP, KNX, BACNET, NATS
+	- Ngoài: OPC-UA, SNMP, CAN
+	- So sánh MQTT vs LwM2M:
+		- OneNet đẩy mạnh LwM2M -> Why
+
+### Unimportant, big
+- Đưa sản phẩm 2022 ra kinh doanh
+- Private network???
 - Đóng gói giải pháp GW
 	- Đóng gói code
 	- Hoàn thiện tài liệu
+
+### Unimportant, small
+- [x] (Đức) Cập nhật phiên bản mới cho GW tại tòa nhà Thái Bình
 
 ---
 
@@ -42,10 +60,11 @@ Values:
 	- Đóng gói GW
 	- Check lỗi GW gửi 3 bản tin MQTT sau khi điều khiển trên frontend
 - Thành lập nhóm tìm hiểu các use case iot trên thế giới (theo quý)
-- Chặn quyền các anh nhóm thiết bị
-- Tìm hiểu các loại kết nối Modbus, EDP
-- So sánh MQTT vs LwM2M:
-	- OneNet đẩy mạnh LwM2M -> Why
+- Chặn quyền các anh nhóm thiết bị trên github
+- Tìm hiểu loại kết nối, giao thức:
+	- Modbus, EPD
+	- So sánh MQTT vs LwM2M:
+		- OneNet đẩy mạnh LwM2M -> Why
 - Hoàn thiện các yêu cầu để đạt -> KNL 13
 - PMP:
 	- <https://www.udemy.com/course/pmp-certification-exam-prep-course-pmbok-6th-edition/>
@@ -229,9 +248,6 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 		- Duy trì đội phát triển platform để tích hợp nhanh thiết bị, trước khi VHT hỗ trợ
 		- Nếu VHT ko hỗ trợ thì bố trí nguồn lực phát triển ntn
 
-# Công việc quý 1
-
-## Haint126
 ---
 
 # Sản phẩm IoT

@@ -72,6 +72,15 @@
 	- Felt mad about the working attitude of some guy in the group. I secretly force him to change.
 - 11
 	- Found out a new emerging tech. If we can work with it, this year is gonna be excited.
+- 12
+	- 2023 work plan is not exciting. I will have to look for something new to do.
+- 13
+	- 2023 project charter preparing. It is not fun :(
+- 14
+	- Early new year clean up. Super tired
+- 15
+	- Help buying and delivering kumquat trees. The Nhat Tan garder is beautiful this time of the year. It is full with trees and flowers
+- 16
 
 #
 ---
