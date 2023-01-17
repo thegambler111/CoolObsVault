@@ -252,6 +252,23 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 
 # Câu hỏi làm rõ chương trình trọng điểm
 - SDK, firmware, module là gì?
+	- Module:
+		- Là mạch thu phát sóng NB-IoT (user equipment)
+			- Sensor -> MCU -> Module -> platform
+		- Thành phần chính:
+			- Chíp xử lý tín hiệu số
+			- GPIO: General purpose input/output (physical interface)
+			- API giao tiếp bằng câu lệnh AT commands (Tập lệnh điều khiển module)
+	- MCU
+		- Là 1 vi điều khiển (máy tính mini) dùng để tiếp nhận và xử lý dữ liệu từ sensor. Sau đó gửi dữ liệu lên platform thông qua module
+		- Thành phần chính (như 1 máy tính)
+			- CPU
+			- Memory
+			- GPIO
+	- Firmware
+		- Là một chương trình (program) điều khiển MCU hoạt động theo yêu cầu, mong muốn của người sử dụng
+	- SDK
+		- Thư viện tập lệnh có sẵn để xây dựng lên firmware một cách dễ dàng, nhanh chóng
 - Tại sao phải phát triển firmware
 - 5G PMN:
 	- Tại sao lại có các lĩnh vực tiềm năng như vậy
@@ -260,15 +277,16 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 		- Bán dịch vụ
 		- Thử nghiệm trả phí
 		- Thử nghiệm miễn phí
-- Định nghĩa dịch vụ
-	- Là gì
-	- đặc điểm
-- Business model
-	- Vtnet vai trò gì
-	- ai kinh doanh
-	- khách hàng?
-- Mục tiêu dự án
-- Kế hoạch triển khai
+- Bổ sung slide
+	- Định nghĩa dịch vụ
+		- Là gì
+		- đặc điểm
+	- Business model
+		- Vtnet vai trò gì
+		- ai kinh doanh
+		- khách hàng?
+	- Mục tiêu dự án
+	- Kế hoạch triển khai
 ---
 
 ---
