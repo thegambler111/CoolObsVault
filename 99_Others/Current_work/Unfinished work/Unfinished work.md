@@ -250,10 +250,28 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 
 ---
 
-# Sản phẩm IoT
-- Xác định niche
-- Xác định target customer
-- Trao đổi, tìm hiểu nhu cầu của target customer
+# Câu hỏi làm rõ chương trình trọng điểm
+- SDK, firmware, module là gì?
+- Tại sao phải phát triển firmware
+- 5G PMN:
+	- Tại sao lại có các lĩnh vực tiềm năng như vậy
+	- MOU?
+	- Triển khai thực tế?
+		- Bán dịch vụ
+		- Thử nghiệm trả phí
+		- Thử nghiệm miễn phí
+- Định nghĩa dịch vụ
+	- Là gì
+	- đặc điểm
+- Business model
+	- Vtnet vai trò gì
+	- ai kinh doanh
+	- khách hàng?
+- Mục tiêu dự án
+- Kế hoạch triển khai
+---
+
+---
 
 #
 ---
