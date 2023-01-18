@@ -193,3 +193,4 @@
 	- [Example: 2020 OP-2 plan for Pixel Vision 8](https://translate.google.com/website?sl=auto&tl=en&hl=en&client=webapp&u=https://docs.google.com/document/d/1LPh1LWx1z67YFo67DENYUGBaoKk39dtX7rWAeQHXzhg/edit?usp%3Dsharing)
 - Related:
 	- [[03_Life_experience/Writing_Sharing is caring/Writing at work/Write like an amazonian/Write like an amazonian]]
+	- [[03_Life_experience/Storytelling/_Purpose-told story framework/Purpose-told story framework]]
