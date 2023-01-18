@@ -289,6 +289,39 @@ Xây dựng các sản phẩm của Viettel hoặc sử dụng các ứng dụng
 	- Kế hoạch triển khai
 ---
 
+# Sản phẩm đề xuất
+- [ ] IoT - Azura digital twin -> Cách thức kinh doanh?
+- [ ] Serverless coding -> Auto sizing hardware requirement
+- [ ] Smart traffic management -> How??
+- [ ] 5G edge cashierless checkout
+- [ ] Global SIM
+- [ ] XR mannequin -> Why not 3D scan customer then let them try the clothes on themselves
+- [x] AirTruck -> Drone logistic -> Not feasible
+- [x] Drone one-to-many -> Not feasible
+- [x] City DX -> City + people digital twin -> Kinh doanh?
+- [x] Mobi service -> Khác gì Uber?
+- [ ] Next-gen digital ads -> How?
+- [x] Global access IoT platform -> Need to scale current IoT platform first
+- [x] XR door -> metaverse????
+- [x] Quản lý công trình từ xa -> Digital twin with fast update using drone
+- [ ] Siêu bề mặt trong suốt -> Tăng khả năng xuyên thấu của mạng 5G
+- [ ] Phân tích tư thế người -> Phát hiện ngã thông qua sóng milimeter-wave -> Giá???
+- [x] IoT connect mobile -> ?
+- [x] IoT services for sustainability -> Bundle of multiple IoT solutions -> Giám sát tình trạng hoạt động của hệ thống công nghiệp
+- [x] IoT platform
+- [x] ID utilization service -> Kết nối nhiều ứng dụng với nhau nhưng vẫn đảm bảo bảo mật
+- [x] Product life cycle management -> Quản lý vòng đời sản phẩm
+- [x] Botanical water exchange -> Sử dụng block chain để lưu trữ thông tin nguồn gốc sản phẩm
+- [ ] Zepeto -> Metaverse
+- [ ] Ifland -> Metaverse
+- [x] Game accelerator -> Tối ưu kết nối cho gaming
+- [x] Call translate -> Instance translation -> Too late
+- [x] OTT video streaming -> Liên kết với các nền tảng có sẵn để cung cấp kết nối tốt hơn
+- [ ] Surf school -> Parental control for mobile internet
+- [ ] Super SIM -> Kết hợp SIM với thẻ ngân hàng, chìa khóa nhà, xe, vé xe bus, lưu trữ dữ liệu
+- [ ] Robot process automation (RPA) -> Lập trình robot để tự động hóa hành động lặp lại -> How??
+- [x] Industry cloud platform -> Cung cấp công cụ để người dùng tự phát triển công cụ cho 1 ngàng dọc -> Khác gì serverless coding?
+
 ---
 
 #
