@@ -82,6 +82,10 @@
 	- Help buying and delivering kumquat trees. The Nhat Tan garder is beautiful this time of the year. It is full with trees and flowers
 - 16
 	- I gave 2 guys a task that should be solved by 1 people in 1 morning. It took them the whole day to just identify the problem. Seem like they are enjoying early holiday.
+- 17
+	- I learned about methodology. You should identify the way before doing anything
+- 18
+	- I tried creating sticker of colleagues today. It became meme hunting.
 
 #
 ---
