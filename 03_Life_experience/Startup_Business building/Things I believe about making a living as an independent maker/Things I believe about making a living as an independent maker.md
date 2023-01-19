@@ -1,5 +1,3 @@
-
-
 # The best way to build an audience is to simply be helpful on the internet.
 - Give people a reason to pay attention to you, and keep your signal to noise ratio high.
 - Better to tweet 4 good ideas per week than 10 useful ideas + a bunch of BS about how Starbucks screwed up your order.
@@ -40,7 +38,7 @@
 - For me it’s Basecamp.
 - Lots of decisions feel hard for me to make for myself, but are obvious when I ask myself “what would Basecamp do?”
 
-# “Early access” doesn’t have to be cheaper, in fact you can easily make the argument for making it more expensive.
+# “Early access” doesn’t Have to be cheaper, in fact you can easily make the argument for making it more expensive.
 - If I wanted to early access to the unmastered recordings of a new album I was looking forward to would that be cheaper?
 
 # A landing page is the last step in validating an idea, not the first.
@@ -51,19 +49,17 @@
 - There are tons of people writing blog posts, making screencasts, open sourcing libraries, etc., but very few people making stuff that’s really *great* from end-to-end.
 - Forget the 80/20 rule when it comes to putting out projects. Go the full 100.
 
-# Stand out by doing the hard work that everyone else is too lazy to do. 
+# Stand out by doing the hard work that everyone else is too lazy to do.
 - For example, [@reinink](https://twitter.com/reinink) was the 1000th person to write a tutorial on the Eloquent ORM, but he was the first person to bite off the really *hard* problems and do the grueling work to come up with good answers.
 
 # Learning is more important than your ego.
 - I ask for help about dumb shit on Twitter all the time, no one thinks I’m stupid and I have grown 100x as a result.
 - I literally started a podcast just to get people to explain things to me that I didn’t fully understand.
 
-
-
 #
 ---
 - Status: #done
-- Tags: #startup 
+- Tags: #startup
 - References:
 	- [Source](https://twitter.com/adamwathan/status/1296447318074568704)
 - Related:
